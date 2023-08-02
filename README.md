@@ -14,11 +14,17 @@ Herhangi bir ek bilgi buraya gelir
 
 ## Experimentation and Results
 
+## Related Works
+
+İşte bazı ilgili projeler
+
+[Awesome README](https://github.com/matiassingers/awesome-readme)
+
 ## Authors
 - [@octokatherine](https://www.github.com/octokatherine) tasarım ve geliştirme için.
 
   
-## Lisans
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
   
