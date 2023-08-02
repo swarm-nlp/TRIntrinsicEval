@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![itu-nlp-logo](https://github.com/swarm-nlp/TRIntrinsicEval/assets/72564135/b1a2e1da-45e4-4b29-bd22-e3b5a51791ce)
 
     
 # TRIntrinsicEval
