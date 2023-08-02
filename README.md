@@ -3,20 +3,22 @@
 
     
 # TRIntrinsicEval
-
 Bu projenin ne yaptığı ve kimin için olduğu hakkında kısa bir açıklama
 
 
-## Ekler
-
+## Models
 Herhangi bir ek bilgi buraya gelir
-## Yazarlar ve Teşekkür
 
+## Datasets
+Herhangi bir ek bilgi buraya gelir
+
+## Experimentation and Results
+
+## Authors
 - [@octokatherine](https://www.github.com/octokatherine) tasarım ve geliştirme için.
 
   
 ## Lisans
-
 [MIT](https://choosealicense.com/licenses/mit/)
 
   
