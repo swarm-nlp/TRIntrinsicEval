@@ -25,11 +25,11 @@ The main idea of this task is to measure the performance of the word representat
 
 - SemEval-2017
     - Consists of 500 pairs that were assessed for their semantic similarity. The assessment was conducted using a scale ranging from 0 to 4. After translation and
-preprocessing steps 1825 word pairs remained in the dataset.
+preprocessing steps 319 word pairs remained in the dataset.
 - MC-30
     - 30 pairs of words including equal number of word pairs with high, moderate, and low similarity. After translation and preprocessing steps 24 word pairs remained in the dataset.
 - SimVerb-3500
-    - Includes a total of 3500 verb pairs which are evaluated for their semantic similarity, with ratings ranging from 0 to 10 where lower ratings indicate pairs that are related but not particularly similar. After translation and preprocessing steps 319 word pairs remained in the dataset.
+    - Includes a total of 3500 verb pairs which are evaluated for their semantic similarity, with ratings ranging from 0 to 10 where lower ratings indicate pairs that are related but not particularly similar. After translation and preprocessing steps 1825 word pairs remained in the dataset.
 
 ### Word Analogy
 The task of finding a vector that captures the relationship between the words in an analogy is called word analogy. To illustrate, consider a set of words such as
