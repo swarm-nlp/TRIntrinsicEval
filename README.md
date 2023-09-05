@@ -55,6 +55,7 @@ As the name indicates, outlier word detection is finding a word that deviates se
     - Contains eight different topics with eight words each and eight outliers.
 
 ## Experimentation and Results
+![image](https://github.com/swarm-nlp/TRIntrinsicEval/assets/64483224/7285e490-a6f8-4594-b686-6812bd26c279)
 
 ## Authors
 - [@berfinduman](https://github.com/berfinduman)
