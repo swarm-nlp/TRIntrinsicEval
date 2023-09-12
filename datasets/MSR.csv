@@ -1,0 +1,5002 @@
+,,,
+word1,word2,word3,target
+yıl,yıllar,kanun,kanunlar
+yıllar,yıl,kanunlar,kanun
+yıl,yıllar,ürün,ürünler
+yıllar,yıl,ürünler,ürün
+yıl,yıllar,değişimler,değişim
+yıllar,yıl,değişim,değişimler
+yıl,yıllar,vatandaş,Vatandaşlar
+yıllar,yıl,Vatandaşlar,vatandaş
+yıl,yıllar,Öğretmen,öğretmenler
+yıllar,yıl,öğretmenler,Öğretmen
+kişi,kişiler,şey,şeyler
+kişiler,kişi,şeyler,şey
+kişi,kişiler,dakika,dakikalar
+kişiler,kişi,dakikalar,dakika
+kişi,kişiler,dolar,dolarlar
+kişiler,kişi,dolarlar,dolar
+kişi,kişiler,alan,alanlar
+kişiler,kişi,alanlar,alan
+kişi,kişiler,şehir,şehirler
+kişiler,kişi,şehirler,şehir
+yetkili,yetkililer,sokak,sokaklar
+yetkililer,yetkili,sokaklar,sokak
+yetkili,yetkililer,ay,aylar
+yetkililer,yetkili,aylar,ay
+yetkili,yetkililer,koşul,koşullar
+yetkililer,yetkili,koşullar,koşul
+yetkili,yetkililer,ülke,ülkeler
+yetkililer,yetkili,ülkeler,ülke
+yetkili,yetkililer,operasyon,operasyonlar
+yetkililer,yetkili,operasyonlar,operasyon
+üye,üyeler,okul,okullar
+üyeler,üye,okullar,okul
+üye,üyeler,sonuç,sonuçlar
+üyeler,üye,sonuçlar,sonuç
+üye,üyeler,ebeveyn,ebeveynler
+üyeler,üye,ebeveynler,ebeveyn
+üye,üyeler,suçlama,suçlamalar
+üyeler,üye,suçlamalar,suçlama
+üye,üyeler,öğrenci,öğrenciler
+üyeler,üye,öğrenciler,öğrenci
+çocuk,çocuklar,çalışan,çalışanlar
+çocuklar,çocuk,çalışanlar,çalışan
+çocuk,çocuklar,işçi,işçiler
+çocuklar,çocuk,işçiler,işçi
+çocuk,çocuklar,mil,miller
+çocuklar,çocuk,miller,mil
+çocuk,çocuklar,yol,yollar
+çocuklar,çocuk,yollar,yol
+çocuk,çocuklar,karar,kararlar
+çocuklar,çocuk,kararlar,karar
+öğrenci,öğrenciler,hak,Haklar
+öğrenciler,öğrenci,Haklar,hak
+öğrenci,öğrenciler,ebeveyn,ebeveynler
+öğrenciler,öğrenci,ebeveynler,ebeveyn
+öğrenci,öğrenciler,şirket,şirketler
+öğrenciler,öğrenci,şirketler,şirket
+öğrenci,öğrenciler,meslek,Meslekler
+öğrenciler,öğrenci,Meslekler,meslek
+öğrenci,öğrenciler,yetki,yetkililer
+öğrenciler,öğrenci,yetkililer,yetki
+sorun,sorunlar,kural,kurallar
+sorunlar,sorun,kurallar,kural
+sorun,sorunlar,rapor,raporlar
+sorunlar,sorun,raporlar,rapor
+sorun,sorunlar,program,programlar
+sorunlar,sorun,programlar,program
+sorun,sorunlar,bina,binalar
+sorunlar,sorun,binalar,bina
+sorun,sorunlar,resmi,yetkililer
+sorunlar,sorun,yetkililer,resmi
+gün,günler,dolar,dolarlar
+günler,gün,dolarlar,dolar
+gün,günler,kural,kurallar
+günler,gün,kurallar,kural
+gün,günler,vatandaş,Vatandaşlar
+günler,gün,Vatandaşlar,vatandaş
+gün,günler,soru,sorular
+günler,gün,sorular,soru
+gün,günler,memur,memurlar
+günler,gün,memurlar,memur
+ay,aylar,şehir,şehirler
+aylar,ay,şehirler,şehir
+ay,aylar,uzman,uzmanlar
+aylar,ay,uzmanlar,uzman
+ay,aylar,Öğretmen,öğretmenler
+aylar,ay,öğretmenler,Öğretmen
+ay,aylar,fayda,faydalar
+aylar,ay,faydalar,fayda
+ay,aylar,otorite,otoriteler
+aylar,ay,otoriteler,otorite
+kadın,kadınlar,oyun,oyunlar
+kadınlar,kadın,oyunlar,oyun
+kadın,kadınlar,şehir,şehirler
+kadınlar,kadın,şehirler,şehir
+kadın,kadınlar,fayda,faydalar
+kadınlar,kadın,faydalar,fayda
+kadın,kadınlar,grup,gruplar
+kadınlar,kadın,gruplar,grup
+kadın,kadınlar,otorite,otoriteler
+kadınlar,kadın,otoriteler,otorite
+yerli,yerliler,oran,oranlar
+yerliler,yerli,oranlar,oran
+yerli,yerliler,değişimler,değişim
+yerliler,yerli,değişim,değişimler
+yerli,yerliler,vatandaş,Vatandaşlar
+yerliler,yerli,Vatandaşlar,vatandaş
+yerli,yerliler,soru,sorular
+yerliler,yerli,sorular,soru
+yerli,yerliler,sanatçı,sanatçılar
+yerliler,yerli,sanatçılar,sanatçı
+şey,şeyler,ölüm,ölümler
+şeyler,şey,ölümler,ölüm
+şey,şeyler,işçiler,işçi
+şeyler,şey,işçi,işçiler
+şey,şeyler,spor,sporlar
+şeyler,şey,sporlar,spor
+şey,şeyler,kaynak,kaynaklar
+şeyler,şey,kaynaklar,kaynak
+şey,şeyler,kadın,kadınlar
+şeyler,şey,kadınlar,kadın
+şirket,şirketler,seçmen,seçmenler
+şirketler,şirket,seçmenler,seçmen
+şirket,şirketler,spor,sporlar
+şirketler,şirket,sporlar,spor
+şirket,şirketler,memur,memurlar
+şirketler,şirket,memurlar,memur
+şirket,şirketler,endişe,endişeler
+şirketler,şirket,endişeler,endişe
+şirket,şirketler,fiyat,fiyatlar
+şirketler,şirket,fiyatlar,fiyat
+lider,Liderler,okul,okullar
+Liderler,lider,okullar,okul
+lider,Liderler,ayak,ayaklar
+Liderler,lider,ayaklar,ayak
+lider,Liderler,rapor,raporlar
+Liderler,lider,raporlar,rapor
+lider,Liderler,yetkili,yetkililer
+Liderler,lider,yetkililer,yetkili
+lider,Liderler,takım,takımlar
+Liderler,lider,takımlar,takım
+endişe,endişeler,dava,davalar
+endişeler,endişe,davalar,dava
+endişe,endişeler,ilişki,ilişkiler
+endişeler,endişe,ilişkiler,ilişki
+endişe,endişeler,yerli,yerliler
+endişeler,endişe,yerliler,yerli
+endişe,endişeler,sorun,sorunlar
+endişeler,endişe,sorunlar,sorun
+endişe,endişeler,aile,aileler
+endişeler,endişe,aileler,aile
+grup,gruplar,ay,aylar
+gruplar,grup,aylar,ay
+grup,gruplar,dakika,dakikalar
+gruplar,grup,dakikalar,dakika
+grup,gruplar,kayıp,kayıplar
+gruplar,grup,kayıplar,kayıp
+grup,gruplar,oyun,oyunlar
+gruplar,grup,oyunlar,oyun
+grup,gruplar,Ajans,ajanslar
+gruplar,grup,ajanslar,Ajans
+program,programlar,zaman,zamanlar
+programlar,program,zamanlar,zaman
+program,programlar,kişi,kişiler
+programlar,program,kişiler,kişi
+program,programlar,silah,silahlar
+programlar,program,silahlar,silah
+program,programlar,aile,aileler
+programlar,program,aileler,aile
+program,programlar,yetki,yetkililer
+programlar,program,yetkililer,yetki
+sorun,sorunlar,dava,davalar
+sorunlar,sorun,davalar,dava
+sorun,sorunlar,ilişki,ilişkiler
+sorunlar,sorun,ilişkiler,ilişki
+sorun,sorunlar,çocuk,çocuklar
+sorunlar,sorun,çocuklar,çocuk
+sorun,sorunlar,yetki,yetkililer
+sorunlar,sorun,yetkililer,yetki
+sorun,sorunlar,araba,arabalar
+sorunlar,sorun,arabalar,araba
+okul,okullar,kişi,kişiler
+okullar,okul,kişiler,kişi
+okul,okullar,çaba,çabalar
+okullar,okul,çabalar,çaba
+okul,okullar,sanatçı,sanatçılar
+okullar,okul,sanatçılar,sanatçı
+okul,okullar,öğrenci,öğrenciler
+okullar,okul,öğrenciler,öğrenci
+okul,okullar,endişe,endişeler
+okullar,okul,endişeler,endişe
+oyuncu,oyuncular,zaman,zamanlar
+oyuncular,oyuncu,zamanlar,zaman
+oyuncu,oyuncular,sokak,sokaklar
+oyuncular,oyuncu,sokaklar,sokak
+oyuncu,oyuncular,yatırımcı,yatırımcılar
+oyuncular,oyuncu,yatırımcılar,yatırımcı
+oyuncu,oyuncular,dolar,dolarlar
+oyuncular,oyuncu,dolarlar,dolar
+oyuncu,oyuncular,gün,günler
+oyuncular,oyuncu,günler,gün
+fayda,faydalar,kanun,kanunlar
+faydalar,fayda,kanunlar,kanun
+fayda,faydalar,standart,standartlar
+faydalar,fayda,standartlar,standart
+fayda,faydalar,iddia,iddialar
+faydalar,fayda,iddialar,iddia
+fayda,faydalar,karar,kararlar
+faydalar,fayda,kararlar,karar
+fayda,faydalar,otorite,otoriteler
+faydalar,fayda,otoriteler,otorite
+hafta,haftalar,koşul,koşullar
+haftalar,hafta,koşullar,koşul
+hafta,haftalar,kural,kurallar
+haftalar,hafta,kurallar,kural
+hafta,haftalar,standart,standartlar
+haftalar,hafta,standartlar,standart
+hafta,haftalar,ebeveyn,ebeveynler
+haftalar,hafta,ebeveynler,ebeveyn
+hafta,haftalar,memur,memurlar
+haftalar,hafta,memurlar,memur
+zaman,zamanlar,ülke,ülkeler
+zamanlar,zaman,ülkeler,ülke
+zaman,zamanlar,şart,şartlar
+zamanlar,zaman,şartlar,şart
+zaman,zamanlar,yıl,yıllar
+zamanlar,zaman,yıllar,yıl
+zaman,zamanlar,vatandaş,Vatandaşlar
+zamanlar,zaman,Vatandaşlar,vatandaş
+zaman,zamanlar,yerli,yerliler
+zamanlar,zaman,yerliler,yerli
+Adam,adamlar,işletme,işletmeler
+adamlar,Adam,işletmeler,işletme
+Adam,adamlar,ilaç,ilaçlar
+adamlar,Adam,ilaçlar,ilaç
+Adam,adamlar,rapor,raporlar
+adamlar,Adam,raporlar,rapor
+Adam,adamlar,sebep,sebepler
+adamlar,Adam,sebepler,sebep
+Adam,adamlar,Öğretmen,öğretmenler
+adamlar,Adam,öğretmenler,Öğretmen
+çaba,çabalar,dakika,dakikalar
+çabalar,çaba,dakikalar,dakika
+çaba,çabalar,analist,analistler
+çabalar,çaba,analistler,analist
+çaba,çabalar,rapor,raporlar
+çabalar,çaba,raporlar,rapor
+çaba,çabalar,suçlama,suçlamalar
+çabalar,çaba,suçlamalar,suçlama
+çaba,çabalar,araba,arabalar
+çabalar,çaba,arabalar,araba
+hizmet,Hizmetler,işletme,işletmeler
+Hizmetler,hizmet,işletmeler,işletme
+hizmet,Hizmetler,seçmen,seçmenler
+Hizmetler,hizmet,seçmenler,seçmen
+hizmet,Hizmetler,hasta,hastalar
+Hizmetler,hizmet,hastalar,hasta
+hizmet,Hizmetler,Adam,adamlar
+Hizmetler,hizmet,adamlar,Adam
+hizmet,Hizmetler,fiyat,fiyatlar
+Hizmetler,hizmet,fiyatlar,fiyat
+ebeveyn,ebeveynler,ürün,ürünler
+ebeveynler,ebeveyn,ürünler,ürün
+ebeveyn,ebeveynler,şart,şartlar
+ebeveynler,ebeveyn,şartlar,şart
+ebeveyn,ebeveynler,lider,Liderler
+ebeveynler,ebeveyn,Liderler,lider
+ebeveyn,ebeveynler,araba,arabalar
+ebeveynler,ebeveyn,arabalar,araba
+ebeveyn,ebeveynler,fayda,faydalar
+ebeveynler,ebeveyn,faydalar,fayda
+hak,Haklar,sonuç,sonuçlar
+Haklar,hak,sonuçlar,sonuç
+hak,Haklar,operasyon,operasyonlar
+Haklar,hak,operasyonlar,operasyon
+hak,Haklar,üye,üyeler
+Haklar,hak,üyeler,üye
+hak,Haklar,olay,olaylar
+Haklar,hak,olaylar,olay
+hak,Haklar,memur,memurlar
+Haklar,hak,memurlar,memur
+işçi,işçiler,Parti,partiler
+işçiler,işçi,partiler,Parti
+işçi,işçiler,dava,dava
+işçiler,işçi,dava,dava
+işçi,işçiler,Adam,adamlar
+işçiler,işçi,adamlar,Adam
+işçi,işçiler,memur,memurlar
+işçiler,işçi,memurlar,memur
+işçi,işçiler,suçlama,suçlamalar
+işçiler,işçi,suçlamalar,suçlama
+memur,memurlar,çalışan,çalışanlar
+memurlar,memur,çalışanlar,çalışan
+memur,memurlar,hak,Haklar
+memurlar,memur,Haklar,hak
+memur,memurlar,saat,saatlar
+memurlar,memur,saatlar,saat
+memur,memurlar,ilişki,ilişkiler
+memurlar,memur,ilişkiler,ilişki
+memur,memurlar,spor,sporlar
+memurlar,memur,sporlar,spor
+alan,alanlar,kişi,kişiler
+alanlar,alan,kişiler,kişi
+alan,alanlar,sistem,sistemler
+alanlar,alan,sistemler,sistem
+alan,alanlar,konuşma,konuşmalar
+alanlar,alan,konuşmalar,konuşma
+alan,alanlar,yetkili,yetkililer
+alanlar,alan,yetkililer,yetkili
+alan,alanlar,çocuk,çocuklar
+alanlar,alan,çocuklar,çocuk
+iddia,iddialar,okul,okullar
+iddialar,iddia,okullar,okul
+iddia,iddialar,alan,alanlar
+iddialar,iddia,alanlar,alan
+iddia,iddialar,nokta,noktalar
+iddialar,iddia,noktalar,nokta
+iddia,iddialar,sahip,sahipler
+iddialar,iddia,sahipler,sahip
+iddia,iddialar,endişe,endişeler
+iddialar,iddia,endişeler,endişe
+plan,planlar,sokak,sokaklar
+planlar,plan,sokaklar,sokak
+plan,planlar,sonuç,sonuçlar
+planlar,plan,sonuçlar,sonuç
+plan,planlar,soru,sorular
+planlar,plan,sorular,soru
+plan,planlar,lider,Liderler
+planlar,plan,Liderler,lider
+plan,planlar,karar,kararlar
+planlar,plan,kararlar,karar
+saat,saatlar,Ev,evler
+saatlar,saat,evler,Ev
+saat,saatlar,hayat,hayatlar
+saatlar,saat,hayatlar,hayat
+saat,saatlar,kanun,kanunlar
+saatlar,saat,kanunlar,kanun
+saat,saatlar,sorun,sorunlar
+saatlar,saat,sorunlar,sorun
+saat,saatlar,grup,gruplar
+saatlar,saat,gruplar,grup
+dava,davalar,işletme,işletmeler
+davalar,dava,işletmeler,işletme
+dava,davalar,oran,oranlar
+davalar,dava,oranlar,oran
+dava,davalar,dakika,dakikalar
+davalar,dava,dakikalar,dakika
+dava,davalar,oyun,oyunlar
+davalar,dava,oyunlar,oyun
+dava,davalar,nokta,noktalar
+davalar,dava,noktalar,nokta
+seçmen,seçmenler,işçiler,işçi
+seçmenler,seçmen,işçi,işçiler
+seçmen,seçmenler,sebep,sebepler
+seçmenler,seçmen,sebepler,sebep
+seçmen,seçmenler,grup,gruplar
+seçmenler,seçmen,gruplar,grup
+seçmen,seçmenler,öğrenci,öğrenciler
+seçmenler,seçmen,öğrenciler,öğrenci
+seçmen,seçmenler,aile,aileler
+seçmenler,seçmen,aileler,aile
+oyun,oyunlar,zaman,zamanlar
+oyunlar,oyun,zamanlar,zaman
+oyun,oyunlar,saat,saatlar
+oyunlar,oyun,saatlar,saat
+oyun,oyunlar,standart,standartlar
+oyunlar,oyun,standartlar,standart
+oyun,oyunlar,takım,takımlar
+oyunlar,oyun,takımlar,takım
+oyun,oyunlar,memur,memurlar
+oyunlar,oyun,memurlar,memur
+değişimler,değişim,dava,davalar
+değişim,değişimler,davalar,dava
+değişimler,değişim,ilişki,ilişkiler
+değişim,değişimler,ilişkiler,ilişki
+değişimler,değişim,şehir,şehirler
+değişim,değişimler,şehirler,şehir
+değişimler,değişim,Öğretmen,öğretmenler
+değişim,değişimler,öğretmenler,Öğretmen
+değişimler,değişim,sahip,sahipler
+değişim,değişimler,sahipler,sahip
+çalışan,çalışanlar,Parti,partiler
+çalışanlar,çalışan,partiler,Parti
+çalışan,çalışanlar,analist,analistler
+çalışanlar,çalışan,analistler,analist
+çalışan,çalışanlar,okul,okullar
+çalışanlar,çalışan,okullar,okul
+çalışan,çalışanlar,ürün,ürünler
+çalışanlar,çalışan,ürünler,ürün
+çalışan,çalışanlar,kural,kurallar
+çalışanlar,çalışan,kurallar,kural
+satış,satışlar,ölüm,ölümler
+satışlar,satış,ölümler,ölüm
+satış,satışlar,ay,aylar
+satışlar,satış,aylar,ay
+satış,satışlar,ilaç,ilaçlar
+satışlar,satış,ilaçlar,ilaç
+satış,satışlar,Adam,adamlar
+satışlar,satış,adamlar,Adam
+satış,satışlar,yetkili,yetkililer
+satışlar,satış,yetkililer,yetkili
+kayıp,kayıplar,çalışan,çalışanlar
+kayıplar,kayıp,çalışanlar,çalışan
+kayıp,kayıplar,ilaç,ilaçlar
+kayıplar,kayıp,ilaçlar,ilaç
+kayıp,kayıplar,arkadaş,Arkadaşlar
+kayıplar,kayıp,Arkadaşlar,arkadaş
+kayıp,kayıplar,kanun,kanunlar
+kayıplar,kayıp,kanunlar,kanun
+kayıp,kayıplar,karar,kararlar
+kayıplar,kayıp,kararlar,karar
+suçlama,suçlamalar,plan,planlar
+suçlamalar,suçlama,planlar,plan
+suçlama,suçlamalar,oran,oranlar
+suçlamalar,suçlama,oranlar,oran
+suçlama,suçlamalar,analist,analistler
+suçlamalar,suçlama,analistler,analist
+suçlama,suçlamalar,ilişki,ilişkiler
+suçlamalar,suçlama,ilişkiler,ilişki
+suçlama,suçlamalar,fayda,faydalar
+suçlamalar,suçlama,faydalar,fayda
+Ev,evler,üye,üyeler
+evler,Ev,üyeler,üye
+Ev,evler,operasyon,operasyonlar
+evler,Ev,operasyonlar,operasyon
+Ev,evler,şehir,şehirler
+evler,Ev,şehirler,şehir
+Ev,evler,soru,sorular
+evler,Ev,sorular,soru
+Ev,evler,kadın,kadınlar
+evler,Ev,kadınlar,kadın
+nokta,noktalar,sorun,sorunlar
+noktalar,nokta,sorunlar,sorun
+nokta,noktalar,sonuç,sonuçlar
+noktalar,nokta,sonuçlar,sonuç
+nokta,noktalar,vatandaş,Vatandaşlar
+noktalar,nokta,Vatandaşlar,vatandaş
+nokta,noktalar,soru,sorular
+noktalar,nokta,sorular,soru
+nokta,noktalar,olay,olaylar
+noktalar,nokta,olaylar,olay
+meslek,Meslekler,oran,oranlar
+Meslekler,meslek,oranlar,oran
+meslek,Meslekler,hafta,haftalar
+Meslekler,meslek,haftalar,hafta
+meslek,Meslekler,konuşma,konuşmalar
+Meslekler,meslek,konuşmalar,konuşma
+meslek,Meslekler,şart,şartlar
+Meslekler,meslek,şartlar,şart
+meslek,Meslekler,Ajans,ajanslar
+Meslekler,meslek,ajanslar,Ajans
+şehir,şehirler,Parti,partiler
+şehirler,şehir,partiler,Parti
+şehir,şehirler,sokak,sokaklar
+şehirler,şehir,sokaklar,sokak
+şehir,şehirler,dakika,dakikalar
+şehirler,şehir,dakikalar,dakika
+şehir,şehirler,ürün,ürünler
+şehirler,şehir,ürünler,ürün
+şehir,şehirler,Adam,adamlar
+şehirler,şehir,adamlar,Adam
+sonuç,sonuçlar,çizgi,çizgiler
+sonuçlar,sonuç,çizgiler,çizgi
+sonuç,sonuçlar,hizmet,Hizmetler
+sonuçlar,sonuç,Hizmetler,hizmet
+sonuç,sonuçlar,yatırımcı,yatırımcılar
+sonuçlar,sonuç,yatırımcılar,yatırımcı
+sonuç,sonuçlar,kadın,kadınlar
+sonuçlar,sonuç,kadınlar,kadın
+sonuç,sonuçlar,grup,gruplar
+sonuçlar,sonuç,gruplar,grup
+fiyat,fiyatlar,seçmen,seçmenler
+fiyatlar,fiyat,seçmenler,seçmen
+fiyat,fiyatlar,çalışan,çalışanlar
+fiyatlar,fiyat,çalışanlar,çalışan
+fiyat,fiyatlar,ürün,ürünler
+fiyatlar,fiyat,ürünler,ürün
+fiyat,fiyatlar,öğrenci,öğrenciler
+fiyatlar,fiyat,öğrenciler,öğrenci
+fiyat,fiyatlar,fayda,faydalar
+fiyatlar,fiyat,faydalar,fayda
+otorite,otoriteler,ilaç,ilaçlar
+otoriteler,otorite,ilaçlar,ilaç
+otorite,otoriteler,işçiler,işçi
+otoriteler,otorite,işçi,işçiler
+otorite,otoriteler,dakika,dakikalar
+otoriteler,otorite,dakikalar,dakika
+otorite,otoriteler,yıl,yıllar
+otoriteler,otorite,yıllar,yıl
+otorite,otoriteler,endişe,endişeler
+otoriteler,otorite,endişeler,endişe
+yol,yollar,hak,Haklar
+yollar,yol,Haklar,hak
+yol,yollar,dolar,dolarlar
+yollar,yol,dolarlar,dolar
+yol,yollar,mil,miller
+yollar,yol,miller,mil
+yol,yollar,değişimler,değişim
+yollar,yol,değişim,değişimler
+yol,yollar,fayda,faydalar
+yollar,yol,faydalar,fayda
+arkadaş,Arkadaşlar,hizmet,Hizmetler
+Arkadaşlar,arkadaş,Hizmetler,hizmet
+arkadaş,Arkadaşlar,yatırımcı,yatırımcılar
+Arkadaşlar,arkadaş,yatırımcılar,yatırımcı
+arkadaş,Arkadaşlar,mil,miller
+Arkadaşlar,arkadaş,miller,mil
+arkadaş,Arkadaşlar,suçlama,suçlamalar
+Arkadaşlar,arkadaş,suçlamalar,suçlama
+arkadaş,Arkadaşlar,otorite,otoriteler
+Arkadaşlar,arkadaş,otoriteler,otorite
+soru,sorular,hizmet,Hizmetler
+sorular,soru,Hizmetler,hizmet
+soru,sorular,işçi,işçiler
+sorular,soru,işçiler,işçi
+soru,sorular,yerli,yerliler
+sorular,soru,yerliler,yerli
+soru,sorular,sanatçı,sanatçılar
+sorular,soru,sanatçılar,sanatçı
+soru,sorular,sahip,sahipler
+sorular,soru,sahipler,sahip
+aday,adaylar,proje,projeler
+adaylar,aday,projeler,proje
+aday,adaylar,yatırımcı,yatırımcılar
+adaylar,aday,yatırımcılar,yatırımcı
+aday,adaylar,satış,satışlar
+adaylar,aday,satışlar,satış
+aday,adaylar,meslek,Meslekler
+adaylar,aday,Meslekler,meslek
+aday,adaylar,endişe,endişeler
+adaylar,aday,endişeler,endişe
+ülke,ülkeler,sokak,sokaklar
+ülkeler,ülke,sokaklar,sokak
+ülke,ülkeler,hak,Haklar
+ülkeler,ülke,Haklar,hak
+ülke,ülkeler,sonuç,sonuçlar
+ülkeler,ülke,sonuçlar,sonuç
+ülke,ülkeler,şehir,şehirler
+ülkeler,ülke,şehirler,şehir
+ülke,ülkeler,kaynak,kaynaklar
+ülkeler,ülke,kaynaklar,kaynak
+aile,aileler,bina,binalar
+aileler,aile,binalar,bina
+aile,aileler,kaynak,kaynaklar
+aileler,aile,kaynaklar,kaynak
+aile,aileler,sorun,sorunlar
+aileler,aile,sorunlar,sorun
+aile,aileler,otorite,otoriteler
+aileler,aile,otoriteler,otorite
+aile,aileler,fiyat,fiyatlar
+aileler,aile,fiyatlar,fiyat
+sahip,sahipler,dakika,dakikalar
+sahipler,sahip,dakikalar,dakika
+sahip,sahipler,kanun,kanunlar
+sahipler,sahip,kanunlar,kanun
+sahip,sahipler,eyalet,eyaletler
+sahipler,sahip,eyaletler,eyalet
+sahip,sahipler,sanatçı,sanatçılar
+sahipler,sahip,sanatçılar,sanatçı
+sahip,sahipler,memur,memurlar
+sahipler,sahip,memurlar,memur
+şart,şartlar,hak,Haklar
+şartlar,şart,Haklar,hak
+şart,şartlar,sokak,sokaklar
+şartlar,şart,sokaklar,sokak
+şart,şartlar,dava,davalar
+şartlar,şart,davalar,dava
+şart,şartlar,çaba,çabalar
+şartlar,şart,çabalar,çaba
+şart,şartlar,Adam,adamlar
+şartlar,şart,adamlar,Adam
+kural,kurallar,sokak,sokaklar
+kurallar,kural,sokaklar,sokak
+kural,kurallar,saat,saatler
+kurallar,kural,saatler,saat
+kural,kurallar,ürün,ürünler
+kurallar,kural,ürünler,ürün
+kural,kurallar,vatandaş,Vatandaşlar
+kurallar,kural,Vatandaşlar,vatandaş
+kural,kurallar,memur,memurlar
+kurallar,kural,memurlar,memur
+takım,takımlar,çizgi,çizgiler
+takımlar,takım,çizgiler,çizgi
+takım,takımlar,hizmet,Hizmetler
+takımlar,takım,Hizmetler,hizmet
+takım,takımlar,yol,yollar
+takımlar,takım,yollar,yol
+takım,takımlar,şehir,şehirler
+takımlar,takım,şehirler,şehir
+takım,takımlar,çocuk,çocuklar
+takımlar,takım,çocuklar,çocuk
+proje,projeler,sonuç,sonuçlar
+projeler,proje,sonuçlar,sonuç
+proje,projeler,olay,olaylar
+projeler,proje,olaylar,olay
+proje,projeler,Öğretmen,öğretmen
+projeler,proje,öğretmen,Öğretmen
+proje,projeler,sanatçı,sanatçılar
+projeler,proje,sanatçılar,sanatçı
+proje,projeler,araba,arabalar
+projeler,proje,arabalar,araba
+oran,oranlar,ilaç,ilaçlar
+oranlar,oran,ilaçlar,ilaç
+oran,oranlar,gün,günler
+oranlar,oran,günler,gün
+oran,oranlar,vatandaş,Vatandaşlar
+oranlar,oran,Vatandaşlar,vatandaş
+oran,oranlar,şirket,şirketler
+oranlar,oran,şirketler,şirket
+oran,oranlar,araba,arabalar
+oranlar,oran,arabalar,araba
+eyalet,eyaletler,proje,projeler
+eyaletler,eyalet,projeler,proje
+eyalet,eyaletler,ay,aylar
+eyaletler,eyalet,aylar,ay
+eyalet,eyaletler,analist,analistler
+eyaletler,eyalet,analistler,analist
+eyalet,eyaletler,lider,Liderler
+eyaletler,eyalet,Liderler,lider
+eyalet,eyaletler,fayda,faydalar
+eyaletler,eyalet,faydalar,fayda
+uzman,uzmanlar,plan,planlar
+uzmanlar,uzman,planlar,plan
+uzman,uzmanlar,hafta,haftalar
+uzmanlar,uzman,haftalar,hafta
+uzman,uzmanlar,mil,miller
+uzmanlar,uzman,miller,mil
+uzman,uzmanlar,öğrenci,öğrenciler
+uzmanlar,uzman,öğrenciler,öğrenci
+uzman,uzmanlar,aile,aileler
+uzmanlar,uzman,aileler,aile
+silah,silahlar,ölüm,ölümler
+silahlar,silah,ölümler,ölüm
+silah,silahlar,mil,miller
+silahlar,silah,miller,mil
+silah,silahlar,şehir,şehirler
+silahlar,silah,şehirler,şehir
+silah,silahlar,nokta,noktalar
+silahlar,silah,noktalar,nokta
+silah,silahlar,öğrenci,öğrenciler
+silahlar,silah,öğrenciler,öğrenci
+kanun,kanunlar,Parti,partiler
+kanunlar,kanun,partiler,Parti
+kanun,kanunlar,silah,silahlar
+kanunlar,kanun,silahlar,silah
+kanun,kanunlar,sanatçı,sanatçılar
+kanunlar,kanun,sanatçılar,sanatçı
+kanun,kanunlar,meslek,Meslekler
+kanunlar,kanun,Meslekler,meslek
+kanun,kanunlar,fayda,faydalar
+kanunlar,kanun,faydalar,fayda
+çocuk,çocuklar,yatırımcı,yatırımcılar
+çocuklar,çocuk,yatırımcılar,yatırımcı
+çocuk,çocuklar,oyun,oyunlar
+çocuklar,çocuk,oyunlar,oyun
+çocuk,çocuklar,şehir,şehirler
+çocuklar,çocuk,şehirler,şehir
+çocuk,çocuklar,bina,binalar
+çocuklar,çocuk,binalar,bina
+çocuk,çocuklar,endişe,endişeler
+çocuklar,çocuk,endişeler,endişe
+Ajans,ajanslar,yıl,yıllar
+ajanslar,Ajans,yıllar,yıl
+Ajans,ajanslar,sebep,sebepler
+ajanslar,Ajans,sebepler,sebep
+Ajans,ajanslar,spor,sporlar
+ajanslar,Ajans,sporlar,spor
+Ajans,ajanslar,lider,Liderler
+ajanslar,Ajans,Liderler,lider
+Ajans,ajanslar,endişe,endişeler
+ajanslar,Ajans,endişeler,endişe
+hayat,hayatlar,ölüm,ölümler
+hayatlar,hayat,ölümler,ölüm
+hayat,hayatlar,Adam,adamlar
+hayatlar,hayat,adamlar,Adam
+hayat,hayatlar,çocuk,çocuklar
+hayatlar,hayat,çocuklar,çocuk
+hayat,hayatlar,karar,kararlar
+hayatlar,hayat,kararlar,karar
+hayat,hayatlar,aile,aileler
+hayatlar,hayat,aileler,aile
+olay,olaylar,hak,Haklar
+olaylar,olay,Haklar,hak
+olay,olaylar,hasta,hastalar
+olaylar,olay,hastalar,hasta
+olay,olaylar,operasyon,operasyonlar
+olaylar,olay,operasyonlar,operasyon
+olay,olaylar,ürün,ürünler
+olaylar,olay,ürünler,ürün
+olay,olaylar,öğrenci,öğrenciler
+olaylar,olay,öğrenciler,öğrenci
+işletme,işletmeler,çizgi,çizgiler
+işletmeler,işletme,çizgiler,çizgi
+işletme,işletmeler,okul,okullar
+işletmeler,işletme,okullar,okul
+işletme,işletmeler,kayıp,kayıplar
+işletmeler,işletme,kayıplar,kayıp
+işletme,işletmeler,gün,günler
+işletmeler,işletme,günler,gün
+işletme,işletmeler,araba,arabalar
+işletmeler,işletme,arabalar,araba
+ayak,ayaklar,çocuk,çocuklar
+ayaklar,ayak,çocuklar,çocuk
+ayak,ayaklar,ilaç,ilaçlar
+ayaklar,ayak,ilaçlar,ilaç
+ayak,ayaklar,hasta,hastalar
+ayaklar,ayak,hastalar,hasta
+ayak,ayaklar,Adam,adamlar
+ayaklar,ayak,adamlar,Adam
+ayak,ayaklar,Öğretmen,öğretmenler
+ayaklar,ayak,öğretmenler,Öğretmen
+hasta,hastalar,sorun,sorunlar
+hastalar,hasta,sorunlar,sorun
+hasta,hastalar,ülke,ülkeler
+hastalar,hasta,ülkeler,ülke
+hasta,hastalar,kadın,kadınlar
+hastalar,hasta,kadınlar,kadın
+hasta,hastalar,sanatçı,sanatçılar
+hastalar,hasta,sanatçılar,sanatçı
+hasta,hastalar,fayda,faydalar
+hastalar,hasta,faydalar,fayda
+ürün,ürünler,sokak,sokaklar
+ürünler,ürün,sokaklar,sokak
+ürün,ürünler,sistem,sistemler
+ürünler,ürün,sistemler,sistem
+ürün,ürünler,satış,satışlar
+ürünler,ürün,satışlar,satış
+ürün,ürünler,dava,davalar
+ürünler,ürün,davalar,dava
+ürün,ürünler,suçlama,suçlamalar
+ürünler,ürün,suçlamalar,suçlama
+rapor,raporlar,kişi,kişiler
+raporlar,rapor,kişiler,kişi
+rapor,raporlar,arkadaş,Arkadaşlar
+raporlar,rapor,Arkadaşlar,arkadaş
+rapor,raporlar,silah,silahlar
+raporlar,rapor,silahlar,silah
+rapor,raporlar,vatandaş,Vatandaşlar
+raporlar,rapor,Vatandaşlar,vatandaş
+rapor,raporlar,Öğretmen,öğretmenler
+raporlar,rapor,öğretmenler,Öğretmen
+ölüm,ölümler,oran,oranlar
+ölümler,ölüm,oranlar,oran
+ölüm,ölümler,gün,günler
+ölümler,ölüm,günler,gün
+ölüm,ölümler,çocuk,çocuklar
+ölümler,ölüm,çocuklar,çocuk
+ölüm,ölümler,araba,arabalar
+ölümler,ölüm,arabalar,araba
+ölüm,ölümler,sahip,sahipler
+ölümler,ölüm,sahipler,sahip
+mil,miller,kanun,kanunlar
+miller,mil,kanunlar,kanun
+mil,miller,spor,sporlar
+miller,mil,sporlar,spor
+mil,miller,ebeveyn,ebeveynler
+miller,mil,ebeveynler,ebeveyn
+mil,miller,Adam,adamlar
+miller,mil,adamlar,Adam
+mil,miller,şirket,şirketler
+miller,mil,şirketler,şirket
+kaynak,kaynaklar,sistem,sistemler
+kaynaklar,kaynak,sistemler,sistem
+kaynak,kaynaklar,ilişki,ilişkiler
+kaynaklar,kaynak,ilişkiler,ilişki
+kaynak,kaynaklar,soru,sorular
+kaynaklar,kaynak,sorular,soru
+kaynak,kaynaklar,grup,gruplar
+kaynaklar,kaynak,gruplar,grup
+kaynak,kaynaklar,araba,arabalar
+kaynaklar,kaynak,arabalar,araba
+dakika,dakikalar,arkadaş,Arkadaşlar
+dakikalar,dakika,Arkadaşlar,arkadaş
+dakika,dakikalar,rapor,raporlar
+dakikalar,dakika,raporlar,rapor
+dakika,dakikalar,bina,binalar
+dakikalar,dakika,binalar,bina
+dakika,dakikalar,sanatçı,sanatçılar
+dakikalar,dakika,sanatçılar,sanatçı
+dakika,dakikalar,şirket,şirketler
+dakikalar,dakika,şirketler,şirket
+Öğretmen,öğretmenler,saat,saatlar
+öğretmenler,Öğretmen,saatlar,saat
+Öğretmen,öğretmenler,olay,olaylar
+öğretmenler,Öğretmen,olaylar,olay
+Öğretmen,öğretmenler,yetkili,yetkililer
+öğretmenler,Öğretmen,yetkililer,yetkili
+Öğretmen,öğretmenler,karar,kararlar
+öğretmenler,Öğretmen,kararlar,karar
+Öğretmen,öğretmenler,fayda,faydalar
+öğretmenler,Öğretmen,faydalar,fayda
+araba,arabalar,çalışan,çalışanlar
+arabalar,araba,çalışanlar,çalışan
+araba,arabalar,çizgi,çizgiler
+arabalar,araba,çizgiler,çizgi
+araba,arabalar,kanun,kanunlar
+arabalar,araba,kanunlar,kanun
+araba,arabalar,çaba,çabalar
+arabalar,araba,çabalar,çaba
+araba,arabalar,sayı,sayılar
+arabalar,araba,sayılar,sayı
+sayı,sayılar,hayat,hayatlar
+sayılar,sayı,hayatlar,hayat
+sayı,sayılar,kural,kurallar
+sayılar,sayı,kurallar,kural
+sayı,sayılar,ürün,ürünler
+sayılar,sayı,ürünler,ürün
+sayı,sayılar,yerli,yerliler
+sayılar,sayı,yerliler,yerli
+sayı,sayılar,ebeveyn,ebeveynler
+sayılar,sayı,ebeveynler,ebeveyn
+Parti,partiler,hafta,haftalar
+partiler,Parti,haftalar,hafta
+Parti,partiler,silah,silahlar
+partiler,Parti,silahlar,silah
+Parti,partiler,sanatçı,sanatçılar
+partiler,Parti,sanatçılar,sanatçı
+Parti,partiler,fayda,faydalar
+partiler,Parti,faydalar,fayda
+Parti,partiler,karar,kararlar
+partiler,Parti,kararlar,karar
+karar,kararlar,ay,aylar
+kararlar,karar,aylar,ay
+karar,kararlar,konuşma,konuşmalar
+kararlar,karar,konuşmalar,konuşma
+karar,kararlar,hafta,haftalar
+kararlar,karar,haftalar,hafta
+karar,kararlar,üye,üyeler
+kararlar,karar,üyeler,üye
+karar,kararlar,eyalet,eyaletler
+kararlar,karar,eyaletler,eyalet
+operasyon,operasyonlar,aday,adaylar
+operasyonlar,operasyon,adaylar,aday
+operasyon,operasyonlar,çalışan,çalışanlar
+operasyonlar,operasyon,çalışanlar,çalışan
+operasyon,operasyonlar,Adam,adamlar
+operasyonlar,operasyon,adamlar,Adam
+operasyon,operasyonlar,otorite,otoriteler
+operasyonlar,operasyon,otoriteler,otorite
+operasyon,operasyonlar,karar,kararlar
+operasyonlar,operasyon,kararlar,karar
+çizgi,çizgiler,hafta,haftalar
+çizgiler,çizgi,haftalar,hafta
+çizgi,çizgiler,çaba,çabalar
+çizgiler,çizgi,çabalar,çaba
+çizgi,çizgiler,spor,sporlar
+çizgiler,çizgi,sporlar,spor
+çizgi,çizgiler,gün,günler
+çizgiler,çizgi,günler,gün
+çizgi,çizgiler,uzman,uzmanlar
+çizgiler,çizgi,uzmanlar,uzman
+koşul,koşullar,üye,üyeler
+koşullar,koşul,üyeler,üye
+koşul,koşullar,kayıp,kayıplar
+koşullar,koşul,kayıplar,kayıp
+koşul,koşullar,oyuncu,oyuncular
+koşullar,koşul,oyuncular,oyuncu
+koşul,koşullar,Adam,adamlar
+koşullar,koşul,adamlar,Adam
+koşul,koşullar,standart,standartlar
+koşullar,koşul,standartlar,standart
+standart,standartlar,arkadaş,Arkadaşlar
+standartlar,standart,Arkadaşlar,arkadaş
+standart,standartlar,saat,saatlar
+standartlar,standart,saatlar,saat
+standart,standartlar,şart,şartlar
+standartlar,standart,şartlar,şart
+standart,standartlar,sonuç,sonuçlar
+standartlar,standart,sonuçlar,sonuç
+standart,standartlar,kaynak,kaynaklar
+standartlar,standart,kaynaklar,kaynak
+ilaç,ilaçlar,işletme,işletmeler
+ilaçlar,ilaç,işletmeler,işletme
+ilaç,ilaçlar,zaman,zamanlar
+ilaçlar,ilaç,zamanlar,zaman
+ilaç,ilaçlar,sistem,sistemler
+ilaçlar,ilaç,sistemler,sistem
+ilaç,ilaçlar,koşul,koşullar
+ilaçlar,ilaç,koşullar,koşul
+ilaç,ilaçlar,sorun,sorunlar
+ilaçlar,ilaç,sorunlar,sorun
+konuşma,konuşmalar,ölüm,ölümler
+konuşmalar,konuşma,ölümler,ölüm
+konuşma,konuşmalar,arkadaş,Arkadaşlar
+konuşmalar,konuşma,Arkadaşlar,arkadaş
+konuşma,konuşmalar,dava,davalar
+konuşmalar,konuşma,davalar,dava
+konuşma,konuşmalar,üye,üyeler
+konuşmalar,konuşma,üyeler,üye
+konuşma,konuşmalar,oyun,oyunlar
+konuşmalar,konuşma,oyunlar,oyun
+spor,sporlar,hizmet,Hizmetler
+sporlar,spor,Hizmetler,hizmet
+spor,sporlar,okul,okullar
+sporlar,spor,okullar,okul
+spor,sporlar,oyun,oyunlar
+sporlar,spor,oyunlar,oyun
+spor,sporlar,operasyon,operasyonlar
+sporlar,spor,operasyonlar,operasyon
+spor,sporlar,ebeveyn,ebeveynler
+sporlar,spor,ebeveynler,ebeveyn
+analist,analistler,çizgi,çizgiler
+analistler,analist,çizgiler,çizgi
+analist,analistler,sayı,sayılar
+analistler,analist,sayılar,sayı
+analist,analistler,yetkili,yetkililer
+analistler,analist,yetkililer,yetkili
+analist,analistler,aile,aileler
+analistler,analist,aileler,aile
+analist,analistler,grup,gruplar
+analistler,analist,gruplar,grup
+bina,binalar,proje,projeler
+binalar,bina,projeler,proje
+bina,binalar,sokak,sokaklar
+binalar,bina,sokaklar,sokak
+bina,binalar,saat,saatler
+binalar,bina,saatler,saat
+bina,binalar,çocuk,çocuklar
+binalar,bina,çocuklar,çocuk
+bina,binalar,araba,arabalar
+binalar,bina,arabalar,araba
+sokak,sokaklar,şey,şeyler
+sokaklar,sokak,şeyler,şey
+sokak,sokaklar,koşul ,koşullar
+sokaklar,sokak,koşullar,koşul 
+sokak,sokaklar,üye,üyeler
+sokaklar,sokak,üyeler,üye
+sokak,sokaklar,eyalet,eyaletler
+sokaklar,sokak,eyaletler,eyalet
+sokak,sokaklar,spor,sporlar
+sokaklar,sokak,sporlar,spor
+dolar,dolarlar,sorun,sorunlar
+dolarlar,dolar,sorunlar,sorun
+dolar,dolarlar,zaman,zamanlar
+dolarlar,dolar,zamanlar,zaman
+dolar,dolarlar,plan,planlar
+dolarlar,dolar,planlar,plan
+dolar,dolarlar,satış,satışlar
+dolarlar,dolar,satışlar,satış
+dolar,dolarlar,iddia,iddialar
+dolarlar,dolar,iddialar,iddia
+sebep,sebepler,kişi,kişiler
+sebepler,sebep,kişiler,kişi
+sebep,sebepler,mil,miller
+sebepler,sebep,miller,mil
+sebep,sebepler,kural,kurallar
+sebepler,sebep,kurallar,kural
+sebep,sebepler,standart,standartlar
+sebepler,sebep,standartlar,standart
+sebep,sebepler,Adam,adamlar
+sebepler,sebep,adamlar,Adam
+ilişki,ilişkiler,şey,şeyler
+ilişkiler,ilişki,şeyler,şey
+ilişki,ilişkiler,kişi,kişiler
+ilişkiler,ilişki,kişiler,kişi
+ilişki,ilişkiler,operasyon,operasyonlar
+ilişkiler,ilişki,operasyonlar,operasyon
+ilişki,ilişkiler,şart,şartlar
+ilişkiler,ilişki,şartlar,şart
+ilişki,ilişkiler,eyalet,eyaletler
+ilişkiler,ilişki,eyaletler,eyalet
+sanatçı,sanatçılar,işletme,işletmeler
+sanatçılar,sanatçı,işletmeler,işletme
+sanatçı,sanatçılar,sorun,sorunlar
+sanatçılar,sanatçı,sorunlar,sorun
+sanatçı,sanatçılar,şehir,şehirler
+sanatçılar,sanatçı,şehirler,şehir
+sanatçı,sanatçılar,memur,memurlar
+sanatçılar,sanatçı,memurlar,memur
+sanatçı,sanatçılar,sahip,sahipler
+sanatçılar,sanatçı,sahipler,sahip
+vatandaş,Vatandaşlar,hizmet,Hizmetler
+Vatandaşlar,vatandaş,Hizmetler,hizmet
+vatandaş,Vatandaşlar,dolar,dolarlar
+Vatandaşlar,vatandaş,dolarlar,dolar
+vatandaş,Vatandaşlar,şehir,şehirler
+Vatandaşlar,vatandaş,şehirler,şehir
+vatandaş,Vatandaşlar,oyuncu,oyuncular
+Vatandaşlar,vatandaş,oyuncular,oyuncu
+vatandaş,Vatandaşlar,Adam,adamlar
+Vatandaşlar,vatandaş,adamlar,Adam
+yatırımcı,yatırımcılar,ürün,ürünler
+yatırımcılar,yatırımcı,ürünler,ürün
+yatırımcı,yatırımcılar,değişim,değişimler
+yatırımcılar,yatırımcı,değişimler,değişim
+yatırımcı,yatırımcılar,rapor,raporlar
+yatırımcılar,yatırımcı,raporlar,rapor
+yatırımcı,yatırımcılar,adam,adamlar
+yatırımcılar,yatırımcı,adamlar,Adam
+yatırımcı,yatırımcılar,soru,sorular
+yatırımcılar,yatırımcı,sorular,soru
+sistem,sistemler,işçi,işçiler
+sistemler,sistem,işçi,işçiler
+sistem,sistemler,kayıp,kayıplar
+sistemler,sistem,kayıplar,kayıp
+sistem,sistemler,kanun,kanunlar
+sistemler,sistem,kanunlar,kanun
+sistem,sistemler,vatandaş,Vatandaşlar
+sistemler,sistem,Vatandaşlar,vatandaş
+sistem,sistemler,aile,aileler
+sistemler,sistem,aileler,aile
+şehir,şehrin,banka,bankanın
+şehrin,şehir,bankanın,banka
+şehir,şehrin,erkek çocuk,erkek çocuğun
+şehrin,şehir,erkek çocuğun,erkek çocuk
+şehir,şehrin,film,filmin
+şehrin,şehir,filmin,film
+şehir,şehrin,gösteri,gösterinin
+şehrin,şehir,gösterinin,gösteri
+şehir,şehrin,oyun,oyunun
+şehrin,şehir,oyunun,oyun
+ulus,ulusun,semt,semtin
+ulusun,ulus,semtin,semt
+ulus,ulusun,park,parkın
+ulusun,ulus,parkın,park
+ulus,ulusun,kız,kızın
+ulusun,ulus,kızın,kız
+ulus,ulusun,firma,firmanın
+ulusun,ulus,firmanın,firma
+ulus,ulusun,toplum,toplumun
+ulusun,ulus,toplumun,toplum
+şirket,şirketin,yazar,yazarın
+şirketin,şirket,yazarın,yazar
+şirket,şirketin,Bugün,Bugünün
+şirketin,şirket,Bugünün,Bugün
+şirket,şirketin,yaz,yazın
+şirketin,şirket,yazın,yaz
+şirket,şirketin,gün,günün
+şirketin,şirket,günün,gün
+şirket,şirketin,istasyon,istasyonun
+şirketin,şirket,istasyonun,istasyon
+durum,durumun,Ajans,ajansın
+durumun,durum,ajansın,Ajans
+durum,durumun,yargıç,yargıçın
+durumun,durum,yargıçın,yargıç
+durum,durumun,alan,alanın
+durumun,durum,alanın,alan
+durum,durumun,merkez,merkezin
+durumun,durum,merkezin,merkez
+durum,durumun,ilçe,ilçenin
+durumun,durum,ilçenin,ilçe
+yıl,yılın,çocuk,çocuğun
+yılın,yıl,çocuğun,çocuk
+yıl,yılın,bölge,bölgenin
+yılın,yıl,bölgenin,bölge
+yıl,yılın,çift,çiftin
+yılın,yıl,çiftin,çift
+yıl,yılın,Kurul,kurulun
+yılın,yıl,kurulun,Kurul
+yıl,yılın,kitap,kitabın
+yılın,yıl,kitabın,kitap
+ilçe,ilçenin,başkan,başkanın
+ilçenin,ilçe,başkanın,başkan
+ilçe,ilçenin,alan,alanın
+ilçenin,ilçe,alanın,alan
+ilçe,ilçenin,takım,takımın
+ilçenin,ilçe,takımın,takım
+ilçe,ilçenin,Üniversite,Üniversitenin
+ilçenin,ilçe,Üniversitenin,Üniversite
+ilçe,ilçenin,grubun,grup
+ilçenin,ilçe,grup,grubun
+ülke,ülkenin,proje,projenin
+ülkenin,ülke,projenin,proje
+ülke,ülkenin,eş,eşin
+ülkenin,ülke,eşin,eş
+ülke,ülkenin,şerif,şerifin
+ülkenin,ülke,şerifin,şerif
+ülke,ülkenin,ağ,ağın
+ülkenin,ülke,ağın,ağ
+ülke,ülkenin,şirket,şirketin
+ülkenin,ülke,şirketin,şirket
+dünya,dünyanın,kız,kızın
+dünyanın,dünya,kızın,kız
+dünya,dünyanın,proje,projenin
+dünyanın,dünya,projenin,proje
+dünya,dünyanın,gösterinin,gösteri
+dünyanın,dünya,gösteri,gösterinin
+dünya,dünyanın,program,programın
+dünyanın,dünya,programın,program
+dünya,dünyanın,baba,babanın
+dünyanın,dünya,babanın,baba
+Bugün,Bugünün,toplum,toplumun
+Bugünün,Bugün,toplumun,toplum
+Bugün,Bugünün,market,marketin
+Bugünün,Bugün,marketin,market
+Bugün,Bugünün,oyun,oyunun
+Bugünün,Bugün,oyunun,oyun
+Bugün,Bugünün,Vali,valinin
+Bugünün,Bugün,valinin,Vali
+Bugün,Bugünün,grup,grubun
+Bugünün,Bugün,grubun,grup
+hükümet,hükümetin,şovun,şov
+hükümetin,hükümet,şov,şovun
+hükümet,hükümetin,toplum,toplumun
+hükümetin,hükümet,toplumun,toplum
+hükümet,hükümetin,Vali,valinin
+hükümetin,hükümet,valinin,Vali
+hükümet,hükümetin,okul,okulun
+hükümetin,hükümet,okulun,okul
+hükümet,hükümetin,grup,grubun
+hükümetin,hükümet,grubun,grup
+avukat,avukatın,kişi,kişinin
+avukatın,avukat,kişinin,kişi
+avukat,avukatın,film,filmin
+avukatın,avukat,filmin,film
+avukat,avukatın,oyunun,oyun
+avukatın,avukat,oyun,oyunun
+avukat,avukatın,program,programın
+avukatın,avukat,programın,program
+avukat,avukatın,doktor,doktorun
+avukatın,avukat,doktorun,doktor
+semt,semtin,hastane,hastanenin
+semtin,semt,hastanenin,hastane
+semt,semtin,bölge,bölgenin
+semtin,semt,bölgenin,bölge
+semt,semtin,herkes,herkesin
+semtin,semt,herkesin,herkes
+semt,semtin,şehir,şehrin
+semtin,semt,şehrin,şehir
+semt,semtin,hükümet,hükümetin
+semtin,semt,hükümetin,hükümetin
+takım,takımın,mahkeme,mahkemenin
+takımın,takım,mahkemenin,mahkeme
+takım,takımın,herkes,herkesin
+takımın,takım,herkesin,herkes
+takım,takımın,baba,babanın
+takımın,takım,babanın,baba
+takım,takımın,hafta,haftanın
+takımın,takım,haftanın,hafta
+takım,takımın,lig,ligin
+takımın,takım,ligin,lig
+grup,grubun,Ajans,ajansın
+grubun,grup,ajansın,Ajans
+grup,grubun,panel,panelin
+grubun,grup,panelin,panel
+grup,grubun,eş,eşin
+grubun,grup,eşin,eş
+grup,grubun,şirket,şirketin
+grubun,grup,şirketin,şirket
+grup,grubun,organizasyon,organizasyonun
+grubun,grup,organizasyonun,organizasyon
+hafta,haftanın,kadın,kadının
+haftanın,hafta,kadının,kadın
+hafta,haftanın,hafta sonu,hafta sonunun
+haftanın,hafta,hafta sonunun,hafta sonu
+hafta,haftanın,avukat,avukatın
+haftanın,hafta,avukatın,avukat
+hafta,haftanın,Parti,Partinin
+haftanın,hafta,Partinin,Parti
+hafta,haftanın,sendika,sendikanın
+haftanın,hafta,sendikanın,sendika
+okul,okulun,Bugün,Bugünün
+okulun,okul,Bugünün,Bugün
+okul,okulun,park,parkın
+okulun,okul,parkın,park
+okul,okulun,ay,ayın
+okulun,okul,ayın,ay
+okul,okulun,şov,şovun
+okulun,okul,şovun,şov
+okul,okulun,adli tabip,adli tabibin
+okulun,okul,adli tabibin,adli tabip
+şerif,şerifin,kurul,kurulun
+şerifin,şerif,kurulun,kurul
+şerif,şerifin,ulus,ulusun
+şerifin,şerif,ulusun,ulus
+şerif,şerifin,sanatçı,sanatçının
+şerifin,şerif,sanatçının,sanatçı
+şerif,şerifin,sendika,sendikanın
+şerifin,şerif,sendikanın,sendika
+şerif,şerifin,grup,grubun
+şerifin,şerif,grubun,grup
+Parti,Partinin,kadın,kadının
+Partinin,Parti,kadının,kadın
+Parti,Partinin,hafta sonu,hafta sonunun
+Partinin,Parti,hafta sonunun,hafta sonu
+Parti,Partinin,şoför,şoförün
+Partinin,Parti,şoförün,şoför
+Parti,Partinin,grup,grubun
+Partinin,Parti,grubun,grup
+Parti,Partinin,jüri,jürinin
+Partinin,Parti,jürinin,jüri
+Ajans,ajansın,ulus,ulusun
+ajansın,Ajans,ulusun,ulus
+Ajans,ajansın,Adam,adamın
+ajansın,Ajans,adamın,Adam
+Ajans,ajansın,doktor,doktorun
+ajansın,Ajans,doktorun,doktor
+Ajans,ajansın,ilçe,ilçenin
+ajansın,Ajans,ilçenin,ilçe
+Ajans,ajansın,hafta,haftanın
+ajansın,Ajans,haftanın,hafta
+departman,departmanın,kurul,kurulun
+departmanın,departman,kurulun,kurul
+departman,departmanın,yazar,yazarın
+departmanın,departman,yazarın,yazar
+departman,departmanın,akşam,akşamın
+departmanın,departman,akşamın,akşam
+departman,departmanın,kız,kızın
+departmanın,departman,kızın,kız
+departman,departmanın,dünya,dünyanın
+departmanın,departman,dünyanın,dünya
+Vali,valinin,banka,bankanın
+valinin,Vali,bankanın,banka
+Vali,valinin,hasta,hastanın
+valinin,Vali,hastanın,hasta
+Vali,valinin,komisyon,komisyonun
+valinin,Vali,komisyonun,komisyon
+Vali,valinin,kitap,kitabın
+valinin,Vali,kitabın,kitap
+Vali,valinin,grup,grubun
+valinin,Vali,grubun,grup
+konsey,konseyin,yaz,yazın
+konseyin,konsey,yazın,yaz
+konsey,konseyin,proje,projenin
+konseyin,konsey,projenin,proje
+konsey,konseyin,hasta,hastanın
+konseyin,konsey,hastanın,hasta
+konsey,konseyin,alan,alanın
+konseyin,konsey,alanın,alan
+konsey,konseyin,baba,babanın
+konseyin,konsey,babanın,baba
+kurul,kurulun,gün,günün
+kurulun,kurul,günün,gün
+kurul,kurulun,kulüp,kulübün
+kurulun,kurul,kulübün,kulüp
+kurul,kurulun,şehir,şehrin
+kurulun,kurul,şehrin,şehir
+kurul,kurulun,oyun,oyunun
+kurulun,kurul,oyunun,oyun
+kurul,kurulun,avukat,avukatın
+kurulun,kurul,avukatın,avukat
+aile,ailenin,bu akşam,bu akşamın
+ailenin,aile,bu akşamın,bu akşam
+aile,ailenin,kurban,kurbanın
+ailenin,aile,kurbanın,kurban
+aile,ailenin,eş,eşin
+ailenin,aile,eşin,eş
+aile,ailenin,fatura,faturanın
+ailenin,aile,faturanın,fatura
+aile,ailenin,oyun,oyunun
+ailenin,aile,oyunun,oyun
+Adam,adamın,park,parkın
+adamın,Adam,parkın,park
+Adam,adamın,kız çocuk,kız çocuğun
+adamın,Adam,kız çocuğun,kız çocuk
+Adam,adamın,eş,eşin
+adamın,Adam,eşin,eş
+Adam,adamın,merkez,merkezin
+adamın,Adam,merkezin,merkez
+Adam,adamın,jüri,jürinin
+adamın,Adam,jürinin,jüri
+Belediye Başkanı,belediye başkanın,bu akşam,bu akşamın
+belediye başkanın,Belediye Başkanı,bu akşamın,bu akşam
+Belediye Başkanı,belediye başkanın,mahkeme,mahkemenin
+belediye başkanın,Belediye Başkanı,mahkemenin,mahkeme
+Belediye Başkanı,belediye başkanın,toplum,Toplumun
+belediye başkanın,Belediye Başkanı,Toplumun,toplum
+Belediye Başkanı,belediye başkanın,aile,ailenin
+belediye başkanın,Belediye Başkanı,ailenin,aile
+Belediye Başkanı,belediye başkanın,lig,ligin
+belediye başkanın,Belediye Başkanı,ligin,lig
+alan,alanın,erkek çocuk,erkek çocuğun
+alanın,alan,erkek çocuğun,erkek çocuk
+alan,alanın,kulüp,kulübün
+alanın,alan,kulübün,kulüp
+alan,alanın,grup,grubun
+alanın,alan,grubun,grup
+alan,alanın,jüri,jürinin
+alanın,alan,jürinin,jüri
+alan,alanın,Vali,valinin
+alanın,alan,valinin,Vali
+başkan,başkanın,yargıç,yargıçın
+başkanın,başkan,yargıçın,yargıç
+başkan,başkanın,istasyon,istasyonun
+başkanın,başkan,istasyonun,istasyon
+başkan,başkanın,durum,durumun
+başkanın,başkan,durumun,durum
+başkan,başkanın,beyzbol,beyzbolun
+başkanın,başkan,beyzbolun,beyzbol
+başkan,başkanın,baba,babanın
+başkanın,başkan,babanın,baba
+bölge,bölgenin,dernek,derneğin
+bölgenin,bölge,derneğin,dernek
+bölge,bölgenin,kadın,kadının
+bölgenin,bölge,kadının,kadın
+bölge,bölgenin,aile,ailenin
+bölgenin,bölge,ailenin,aile
+bölge,bölgenin,baba,babanın
+bölgenin,bölge,babanın,baba
+bölge,bölgenin,merkez,merkezin
+bölgenin,bölge,merkezin,merkez
+baba,babanın,çocuk,çocuğun
+babanın,baba,çocuğun,çocuk
+baba,babanın,başkan,başkanın
+babanın,baba,başkanın,başkan
+baba,babanın,gece,gecenin
+babanın,baba,gecenin,gece
+baba,babanın,hafta sonu,hafta sonunun
+babanın,baba,hafta sonunun,hafta sonu
+baba,babanın,herkes,herkesin
+babanın,baba,herkesin,herkes
+firma,firmanın,ulus,ulusun
+firmanın,firma,ulusun,ulus
+firma,firmanın,dolar,doların
+firmanın,firma,doların,dolar
+firma,firmanın,sistem,sistemin
+firmanın,firma,sistemin,sistem
+firma,firmanın,şirket,şirketin
+firmanın,firma,şirketin,şirket
+firma,firmanın,şoför,şoförün
+firmanın,firma,şoförün,şoför
+komisyon,komisyonun,Ajans,ajasın
+komisyonun,komisyon,ajasın,Ajans
+komisyon,komisyonun,firma,firmanın
+komisyonun,komisyon,firmanın,firma
+komisyon,komisyonun,genel,genelin
+komisyonun,komisyon,genelin,genel
+komisyon,komisyonun,yönetim,yönetimin
+komisyonun,komisyon,yönetimin,yönetim
+komisyon,komisyonun,hafta,haftanın
+komisyonun,komisyon,haftanın,hafta
+endüstri,endüstrinin,yazar,yazarın
+endüstrinin,endüstri,yazarın,yazar
+endüstri,endüstrinin,yargıç,yargıçın
+endüstrinin,endüstri,yargıçın,yargıç
+endüstri,endüstrinin,program,programın
+endüstrinin,endüstri,programın,program
+endüstri,endüstrinin,grup,grubun
+endüstrinin,endüstri,grubun,grup
+endüstri,endüstrinin,kitap,kitabın
+endüstrinin,endüstri,kitabın,kitap
+gece,gecenin,mevsim,mevsimin
+gecenin,gece,mevsimin,mevsim
+gece,gecenin,usta,ustanın
+gecenin,gece,ustanın,usta
+gece,gecenin,banka,bankanın
+gecenin,gece,bankanın,banka
+gece,gecenin,Parti,Partinin
+gecenin,gece,Partinin,Parti
+gece,gecenin,okul,okulun
+gecenin,gece,okulun,okul
+kadın,kadının,bu akşam,bu akşamın
+kadının,kadın,bu akşamın,bu akşam
+kadın,kadının,kişi,kişinin
+kadının,kadın,kişinin,kişi
+kadın,kadının,park,parkın
+kadının,kadın,parkın,park
+kadın,kadının,şov,şovun
+kadının,kadın,şovun,şov
+kadın,kadının,genel,genelin
+kadının,kadın,genelin,genel
+mahkeme,mahkemenin,bölge,bölgenin
+mahkemenin,mahkeme,bölgenin,bölge
+mahkeme,mahkemenin,fatura,faturanın
+mahkemenin,mahkeme,faturanın,fatura
+mahkeme,mahkemenin,okul,okulun
+mahkemenin,mahkeme,okulun,okul
+mahkeme,mahkemenin,ilçe,ilçenin
+mahkemenin,mahkeme,ilçenin,ilçe
+mahkeme,mahkemenin,sendika,sendikanın
+mahkemenin,mahkeme,sendikanın,sendika
+şov,şovun,kurul,kurulun
+şovun,şov,kurulun,kurul
+şov,şovun,gece,gecenin
+şovun,şov,gecenin,gece
+şov,şovun,hasta,hastanın
+şovun,şov,hastanın,hasta
+şov,şovun,organizasyon,organizasyonun
+şovun,şov,organizasyonun,organizasyon
+şov,şovun,baba,babanın
+şovun,şov,babanın,baba
+film,filmin,kadın,kadının
+filmin,film,kadının,kadın
+film,filmin,hafta sonu,hafta sonunun
+filmin,film,hafta sonunun,hafta sonu
+film,filmin,toplum,toplumun
+filmin,film,toplumun,toplum
+film,filmin,oyun,oyunun
+filmin,film,oyunun,oyun
+film,filmin,yönetim,yönetimin
+filmin,film,yönetimin,yönetim
+çocuk,çocuğun,dernek,derneğin
+çocuğun,çocuk,derneğin,dernek
+çocuk,çocuğun,kız çocuk,kız çocuğunun
+çocuğun,çocuk,kız çocuğunun,kız çocuk
+çocuk,çocuğun,Ajans,ajansın
+çocuğun,çocuk,ajansın,Ajans
+çocuk,çocuğun,erkek çocuk,erkek çocuğun
+çocuğun,çocuk,erkek çocuğun,erkek çocuk
+çocuk,çocuğun,proje,projenin
+çocuğun,çocuk,projenin,proje
+anne,annenin,hastane,hastanenin
+annenin,anne,hastanenin,hastane
+anne,annenin,Bugün,Bugünün
+annenin,anne,Bugünün,Bugün
+anne,annenin,kurban,kurbanın
+annenin,anne,kurbanın,kurban
+anne,annenin,aile,ailenin
+annenin,anne,ailenin,aile
+anne,annenin,şirket,şirketin
+annenin,anne,şirketin,şirket
+ay,ayın,çocuk,çocuğun
+ayın,ay,çocuğun,çocuk
+ay,ayın,kurban,kurbanın
+ayın,ay,kurbanın,kurban
+ay,ayın,koca,kocanın
+ayın,ay,kocanın,koca
+ay,ayın,banka,bankanın
+ayın,ay,bankanın,banka
+ay,ayın,kitap,kitabın
+ayın,ay,kitabın,kitap
+merkez,merkezin,endüstri,endüstrinin
+merkezin,merkez,endüstrinin,endüstri
+merkez,merkezin,kişi,kişinin
+merkezin,merkez,kişinin,kişi
+merkez,merkezin,kız çocuk,kız çocuğunun
+merkezin,merkez,kız çocuğunun,kız çocuk
+merkez,merkezin,hafta sonu,hafta sonunun
+merkezin,merkez,hafta sonunun,hafta sonu
+merkez,merkezin,Vali,valinin
+merkezin,merkez,valinin,Vali
+mevsim,mevsimin,durum,durumun
+mevsimin,mevsim,durumun,durum
+mevsim,mevsimin,istasyon,istasyonun
+mevsimin,mevsim,istasyonun,istasyon
+mevsim,mevsimin,toplum,toplumun
+mevsimin,mevsim,toplumun,toplum
+mevsim,mevsimin,program,programın
+mevsimin,mevsim,programın,program
+mevsim,mevsimin,hükümet,hükümetin
+mevsimin,mevsim,hükümetin,hükümet
+genel,genelin,ülke,ülkenin
+genelin,genel,ülkenin,ülke
+genel,genelin,yargıç,yargıçın
+genelin,genel,yargıçın,yargıç
+genel,genelin,oyun,oyunun
+genelin,genel,oyunun,oyun
+genel,genelin,program,programın
+genelin,genel,programın,program
+genel,genelin,beyzbol,beyzbolun
+genelin,genel,beyzbolun,beyzbol
+Üniversite,üniversitenin,kişi,kişinin
+üniversitenin,Üniversite,kişinin,kişi
+Üniversite,üniversitenin,konsey,konseyin
+üniversitenin,Üniversite,konseyin,konsey
+Üniversite,üniversitenin,sistem,sistemin
+üniversitenin,Üniversite,sistemin,sistem
+Üniversite,üniversitenin,kulüp,kulübün
+üniversitenin,Üniversite,kulübün,kulüp
+Üniversite,üniversitenin,adli tabip,adli tabibin
+üniversitenin,Üniversite,adli tabibin,adli tabip
+toplum,toplumun,dernek,derneğin
+toplumun,toplum,derneğin,dernek
+toplum,toplumun,yazar,yazarın
+toplumun,toplum,yazarın,yazar
+toplum,toplumun,park,parkın
+toplumun,toplum,parkın,park
+toplum,toplumun,erkek çocuk,erkek çocuğun
+toplumun,toplum,erkek çocuğun,erkek çocuk
+toplum,toplumun,aile,ailenin
+toplumun,toplum,ailenin,aile
+yargıç,yargıçın,bina,binanın
+yargıçın,yargıç,binanın,bina
+yargıç,yargıçın,Belediye Başkanı,belediye başkanının
+yargıçın,yargıç,belediye başkanının,Belediye Başkanı
+yargıç,yargıçın,akşam,akşamın
+yargıçın,yargıç,akşamın,akşam
+yargıç,yargıçın,hükümet,hükümetin
+yargıçın,yargıç,hükümetin,hükümet
+yargıç,yargıçın,okul,okulun
+yargıçın,yargıç,okulun,okul
+lig,ligin,mahkeme,mahkemenin
+ligin,lig,mahkemenin,mahkeme
+lig,ligin,çocuk,çocuğun
+ligin,lig,çocuğun,çocuk
+lig,ligin,erkek çocuk,erkek çocuğun
+ligin,lig,erkek çocuğun,erkek çocuk
+lig,ligin,ilçe,ilçenin
+ligin,lig,ilçenin,ilçe
+lig,ligin,Vali,valinin
+ligin,lig,valinin,Vali
+grup,grubun,kurban,kurbanın
+grubun,grup,kurbanın,kurban
+grup,grubun,bölge,bölgenin
+grubun,grup,bölgenin,bölge
+grup,grubun,park,parkın
+grubun,grup,parkın,park
+grup,grubun,şehir,şehrin
+grubun,grup,şehrin,şehir
+grup,grubun,hafta,haftanın
+grubun,grup,haftanın,hafta
+komite,komitenin,başkan,başkanın
+komitenin,komite,başkanın,başkan
+komite,komitenin,kız,kızın
+komitenin,komite,kızın,kız
+komite,komitenin,çift,çiftin
+komitenin,komite,çiftin,çift
+komite,komitenin,film,filmin
+komitenin,komite,filmin,film
+komite,komitenin,Vali,valinin
+komitenin,komite,valinin,Vali
+koca,kocanın,Belediye Başkanı,belediye başkanının
+kocanın,koca,belediye başkanının,Belediye Başkanı
+koca,kocanın,akşam,akşamın
+kocanın,koca,akşamın,akşam
+koca,kocanın,çift,çiftin
+kocanın,koca,çiftin,çift
+koca,kocanın,merkez,merkezin
+kocanın,koca,merkezin,merkez
+koca,kocanın,grup,grubun
+kocanın,koca,grubun,grup
+program,programın,Belediye Başkanı,belediye başkanının
+programın,program,belediye başkanının,Belediye Başkanı
+program,programın,bölge,bölgenin
+programın,program,bölgenin,bölge
+program,programın,avukat,avukatın
+programın,program,avukatın,avukat
+program,programın,doktor,doktorun
+programın,program,doktorun,doktor
+program,programın,yönetim,yönetimin
+programın,program,yönetimin,yönetim
+müze,müzenin,kilise,kilisenin
+müzenin,müze,kilisenin,kilise
+müze,müzenin,akşam,akşamın
+müzenin,müze,akşamın,akşam
+müze,müzenin,anne,annenin
+müzenin,müze,annenin,anne
+müze,müzenin,Üniversite,üniversitenin
+müzenin,müze,üniversitenin,Üniversite
+müze,müzenin,hafta,haftanın
+müzenin,müze,haftanın,hafta
+gün,günün,yazar,yazarın
+günün,gün,yazarın,yazar
+gün,günün,başkan,başkanın
+günün,gün,başkanın,başkan
+gün,günün,yargıç,yargıçın
+günün,gün,yargıçın,yargıç
+gün,günün,toplum,toplumun
+günün,gün,toplumun,toplum
+gün,günün,şehir,şehrin
+günün,gün,şehrin,şehir
+sendika,sendikanın,ağ,Ağın
+sendikanın,sendika,Ağın,ağ
+sendika,sendikanın,şehir,şehrin
+sendikanın,sendika,şehrin,şehir
+sendika,sendikanın,Parti,Partinin
+sendikanın,sendika,Partinin,Parti
+sendika,sendikanın,grup,grubun
+sendikanın,sendika,grubun,grup
+sendika,sendikanın,lig,ligin
+sendikanın,sendika,ligin,lig
+yönetim,yönetimin,park,parkın
+yönetimin,yönetim,parkın,park
+yönetim,yönetimin,banka,bankanın
+yönetimin,yönetim,bankanın,banka
+yönetim,yönetimin,oğul,oğlun
+yönetimin,yönetim,oğlun,oğul
+yönetim,yönetimin,doktor,doktorun
+yönetimin,yönetim,doktorun,doktor
+yönetim,yönetimin,baba,babanın
+yönetimin,yönetim,babanın,baba
+kulüp,kulübün,başkan,başkanın
+kulübün,kulüp,başkanın,başkan
+kulüp,kulübün,yazar,yazarın
+kulübün,kulüp,yazarın,yazar
+kulüp,kulübün,kadın,kadının
+kulübün,kulüp,kadının,kadın
+kulüp,kulübün,Adam,adamın
+kulübün,kulüp,adamın,Adam
+kulüp,kulübün,aile,ailenin
+kulübün,kulüp,ailenin,aile
+proje,projenin,yazar,yazarın
+projenin,proje,yazarın,yazar
+proje,projenin,gece,gecenin
+projenin,proje,gecenin,gece
+proje,projenin,erkek çocuk,erkek çocuğun
+projenin,proje,erkek çocuğun,erkek çocuk
+proje,projenin,oyun,oyunun
+projenin,proje,oyunun,oyun
+proje,projenin,baba,babanın
+projenin,proje,babanın,baba
+organizasyon,organizasyonun,bina,binanın
+organizasyonun,organizasyon,binanın,bina
+organizasyon,organizasyonun,Belediye Başkanı,belediye başkanının
+organizasyonun,organizasyon,belediye başkanının,Belediye Başkanı
+organizasyon,organizasyonun,komite,komitenin
+organizasyonun,organizasyon,komitenin,komite
+organizasyon,organizasyonun,toplum,toplumun
+organizasyonun,organizasyon,toplumun,toplum
+organizasyon,organizasyonun,şoför,şoförün
+organizasyonun,organizasyon,şoförün,şoför
+kilise,kilisenin,yargıç,yargıçın
+kilisenin,kilise,yargıçın,yargıç
+kilise,kilisenin,beyzbol,beyzbolun
+kilisenin,kilise,beyzbolun,beyzbol
+kilise,kilisenin,oyun,oyunun
+kilisenin,kilise,oyunun,oyun
+kilise,kilisenin,doktor,doktorun
+kilisenin,kilise,doktorun,doktor
+kilise,kilisenin,jüri,jürinin
+kilisenin,kilise,jürinin,jüri
+kişi,kişinin,kurban,kurbanın
+kişinin,kişi,kurbanın,kurban
+kişi,kişinin,dünya,dünyanın
+kişinin,kişi,dünyanın,dünya
+kişi,kişinin,oyun,oyunun
+kişinin,kişi,oyunun,oyun
+kişi,kişinin,takım,takımın
+kişinin,kişi,takımın,takım
+kişi,kişinin,jüri,jürinin
+kişinin,kişi,jürinin,jüri
+oğul,oğlun,kilise,kilisenin
+oğlun,oğul,kilisenin,kilise
+oğul,oğlun,Bugün,Bugünün
+oğlun,oğul,Bugünün,Bugün
+oğul,oğlun,kız çocuk,kız çocuğun
+oğlun,oğul,kız çocuğun,kız çocuk
+oğul,oğlun,grup,grubun
+oğlun,oğul,grubun,grup
+oğul,oğlun,Vali,valinin
+oğlun,oğul,valinin,Vali
+market,marketin,endüstri,endüstrinin
+marketin,market,endüstrinin,endüstri
+market,marketin,konsey,konseyin
+marketin,market,konseyin,konsey
+market,marketin,çift,çiftin
+marketin,market,çiftin,çift
+market,marketin,ilçe,ilçenin
+marketin,market,ilçenin,ilçe
+market,marketin,sendika,sendikanın
+marketin,market,sendikanın,sendika
+sanatçı,sanatçının,hastane,hastanenin
+sanatçının,sanatçı,hastanenin,hastane
+sanatçı,sanatçının,çift,çiftin
+sanatçının,sanatçı,çiftin,çift
+sanatçı,sanatçının,toplum,toplumun
+sanatçının,sanatçı,toplumun,toplum
+sanatçı,sanatçının,genel,genelin
+sanatçının,sanatçı,genelin,genel
+sanatçı,sanatçının,ilçe,ilçenin
+sanatçının,sanatçı,ilçenin,ilçe
+banka,bankanın,dernek,derneğin
+bankanın,banka,derneğin,dernek
+banka,bankanın,sanatçı,sanatçının
+bankanın,banka,sanatçının,sanatçı
+banka,bankanın,doktor,doktorun
+bankanın,banka,doktorun,doktor
+banka,bankanın,Üniversite,üniversitenin
+bankanın,banka,üniversitenin,Üniversite
+banka,bankanın,Vali,valinin
+bankanın,banka,valinin,Vali
+şoför,şoförün,akşam,akşamın
+şoförün,şoför,akşamın,akşam
+şoför,şoförün,şov,şovun
+şoförün,şoför,şovun,şov
+şoför,şoförün,toplum,toplumun
+şoförün,şoför,toplumun,toplum
+şoför,şoförün,ağ,Ağın
+şoförün,şoför,Ağın,ağ
+şoför,şoförün,hafta,haftanın
+şoförün,şoför,haftanın,hafta
+adli tabip,adli tabibin,şehir,şehrin
+adli tabibin,adli tabip,şehrin,şehir
+adli tabip,adli tabibin,fatura,faturanın
+adli tabibin,adli tabip,faturanın,fatura
+adli tabip,adli tabibin,herkes,herkesin
+adli tabibin,adli tabip,herkesin,herkes
+adli tabip,adli tabibin,grup,grubun
+adli tabibin,adli tabip,grubun,grup
+adli tabip,adli tabibin,hafta,haftanın
+adli tabibin,adli tabip,haftanın,hafta
+usta,ustanın,hastane,hastanenin
+ustanın,usta,hastanenin,hastane
+usta,ustanın,aile,ailenin
+ustanın,usta,ailenin,aile
+usta,ustanın,şoför,şoförün
+ustanın,usta,şoförün,şoför
+usta,ustanın,kitap,kitabın
+ustanın,usta,kitabın,kitap
+usta,ustanın,sendika,sendikanın
+ustanın,usta,sendikanın,sendika
+beyzbol,beyzbolun,başkan,başkanın
+beyzbolun,beyzbol,başkanın,başkan
+beyzbol,beyzbolun,toplum,Toplumun
+beyzbolun,beyzbol,Toplumun,toplum
+beyzbol,beyzbolun,istasyon,istasyonun
+beyzbolun,beyzbol,istasyonun,istasyon
+beyzbol,beyzbolun,erkek çocuk,erkek çocuğun
+beyzbolun,beyzbol,erkek çocuğun,erkek çocuk
+beyzbol,beyzbolun,ilçe,ilçenin
+beyzbolun,beyzbol,ilçenin,ilçe
+bu akşam,bu akşamın,bina,binanın
+bu akşamın,bu akşam,binanın,bina
+bu akşam,bu akşamın,Ajans,ajansın
+bu akşamın,bu akşam,ajansın,Ajans
+bu akşam,bu akşamın,ay,ayın
+bu akşamın,bu akşam,ayın,ay
+bu akşam,bu akşamın,dünya,dünyanın
+bu akşamın,bu akşam,dünyanın,dünya
+bu akşam,bu akşamın,jüri,jürinin
+bu akşamın,bu akşam,jürinin,jüri
+panel,panelin,yıl,yılın
+panelin,panel,yılın,yıl
+panel,panelin,kurban,kurbanın
+panelin,panel,kurbanın,kurban
+panel,panelin,toplum,Toplumun
+panelin,panel,Toplumun,toplum
+panel,panelin,aile,ailenin
+panelin,panel,ailenin,aile
+panel,panelin,oyun,oyunun
+panelin,panel,oyunun,oyun
+toplum,Toplumun,ülke,ülkenin
+Toplumun,toplum,ülkenin,ülke
+toplum,Toplumun,gün,günün
+Toplumun,toplum,günün,gün
+toplum,Toplumun,hükümet,hükümetin
+Toplumun,toplum,hükümetin,hükümet
+toplum,Toplumun,doktor,doktorun
+Toplumun,toplum,doktorun,doktor
+toplum,Toplumun,Vali,valinin
+Toplumun,toplum,valinin,Vali
+erkek çocuk,erkek çocuğun,yazar,yazarın
+erkek çocuğun,erkek çocuk,yazarın,yazar
+erkek çocuk,erkek çocuğun,dolar,doların
+erkek çocuğun,erkek çocuk,doların,dolar
+erkek çocuk,erkek çocuğun,anne,annenin
+erkek çocuğun,erkek çocuk,annenin,anne
+erkek çocuk,erkek çocuğun,kadın,kadının
+erkek çocuğun,erkek çocuk,kadının,kadın
+erkek çocuk,erkek çocuğun,merkez,merkezin
+erkek çocuğun,erkek çocuk,merkezin,merkez
+eş,eşin,ulus,ulusun
+eşin,eş,ulusun,ulus
+eş,eşin,koca,kocanın
+eşin,eş,kocanın,koca
+eş,eşin,sanatçı,sanatçının
+eşin,eş,sanatçının,sanatçı
+eş,eşin,oyun,oyunun
+eşin,eş,oyunun,oyun
+eş,eşin,oyun,oyunun
+eşin,eş,oyunun,oyun
+hastane,hastanenin,kişi,kişinin
+hastanenin,hastane,kişinin,kişi
+hastane,hastanenin,dünya,dünyanın
+hastanenin,hastane,dünyanın,dünya
+hastane,hastanenin,şoför,şoförün
+hastanenin,hastane,şoförün,şoför
+hastane,hastanenin,jüri,jürinin
+hastanenin,hastane,jürinin,jüri
+hastane,hastanenin,yönetim,yönetimin
+hastanenin,hastane,yönetimin,yönetim
+çift,çiftin,banka,bankanın
+çiftin,çift,bankanın,banka
+çift,çiftin,herkes,herkesin
+çiftin,çift,herkesin,herkes
+çift,çiftin,alan,alanın
+çiftin,çift,alanın,alan
+çift,çiftin,aile,ailenin
+çiftin,çift,ailenin,aile
+çift,çiftin,takım,takımın
+çiftin,çift,takımın,takım
+şehir,şehrin,dolar,doların
+şehrin,şehir,doların,dolar
+şehir,şehrin,hafta sonu,hafta sonunun
+şehrin,şehir,hafta sonunun,hafta sonu
+şehir,şehrin,program,programın
+şehrin,şehir,programın,program
+şehir,şehrin,okul,okulun
+şehrin,şehir,okulun,okul
+şehir,şehrin,jüri,jürinin
+şehrin,şehir,jürinin,jüri
+park,parkın,koca,kocanın
+parkın,park,kocanın,koca
+park,parkın,eş,eşin
+parkın,park,eşin,eş
+park,parkın,ağ,Ağın
+parkın,park,Ağın,ağ
+park,parkın,doktor,doktorun
+parkın,park,doktorun,doktor
+park,parkın,takım,takımın
+parkın,park,takımın,takım
+oyun,oyunun,gece,gecenin
+oyunun,oyun,gecenin,gece
+oyun,oyunun,beyzbol,beyzbolun
+oyunun,oyun,beyzbolun,beyzbol
+oyun,oyunun,şirket,şirketin
+oyunun,oyun,şirketin,şirket
+oyun,oyunun,kitap,kitabın
+oyunun,oyun,kitabın,kitap
+oyun,oyunun,Vali,valinin
+oyunun,oyun,valinin,Vali
+jüri,jürinin,çocuk,çocuğun
+jürinin,jüri,çocuğun,çocuk
+jüri,jürinin,bina,binanın
+jürinin,jüri,binanın,bina
+jüri,jürinin,banka,bankanın
+jürinin,jüri,bankanın,banka
+jüri,jürinin,Adam,adamın
+jürinin,jüri,adamın,Adam
+jüri,jürinin,hayat,hayatın
+jürinin,jüri,hayatın,hayat
+hayat,hayatın,usta,ustanın
+hayatın,hayat,ustanın,usta
+hayat,hayatın,proje,projenin
+hayatın,hayat,projenin,proje
+hayat,hayatın,erkek çocuk,erkek çocuğun
+hayatın,hayat,erkek çocuğun,erkek çocuk
+hayat,hayatın,avukat,avukatın
+hayatın,hayat,avukatın,avukat
+hayat,hayatın,alan,alanın
+hayatın,hayat,alanın,alan
+dernek,derneğin,konsey,konseyin
+derneğin,dernek,konseyin,konsey
+dernek,derneğin,sanatçı,sanatçının
+derneğin,dernek,sanatçının,sanatçı
+dernek,derneğin,doktor,doktorun
+derneğin,dernek,doktorun,doktor
+dernek,derneğin,Vali,valinin
+derneğin,dernek,valinin,Vali
+dernek,derneğin,kitap,kitabın
+derneğin,dernek,kitabın,kitap
+kitap,kitabın,Bugün,Bugünün
+kitabın,kitap,Bugünün,Bugün
+kitap,kitabın,sistem,sistemin
+kitabın,kitap,sistemin,sistem
+kitap,kitabın,konsey,konseyin
+kitabın,kitap,konseyin,konsey
+kitap,kitabın,durum,durumun
+kitabın,kitap,durumun,durum
+kitap,kitabın,oğul,oğlun
+kitabın,kitap,oğlun,oğul
+istasyon,istasyonun,müze,müzenin
+istasyonun,istasyon,müzenin,müze
+istasyon,istasyonun,çocuk,çocuğun
+istasyonun,istasyon,çocuğun,çocuk
+istasyon,istasyonun,aile,ailenin
+istasyonun,istasyon,ailenin,aile
+istasyon,istasyonun,grup,grubun
+istasyonun,istasyon,grubun,grup
+istasyon,istasyonun,kitap,kitabın
+istasyonun,istasyon,kitabın,kitap
+bina,binanın,konsey,konseyin
+binanın,bina,konseyin,konsey
+bina,binanın,Adam,adamın
+binanın,bina,adamın,Adam
+bina,binanın,herkes,herkesin
+binanın,bina,herkesin,herkes
+bina,binanın,dünya,dünyanın
+binanın,bina,dünyanın,dünya
+bina,binanın,pazar,pazarın
+binanın,bina,pazarın,pazar
+yaz,yazın,durum,durumun
+yazın,yaz,durumun,durum
+yaz,yazın,ay,ayın
+yazın,yaz,ayın,ay
+yaz,yazın,departman,departmanın
+yazın,yaz,departmanın,departman
+yaz,yazın,aile,ailenin
+yazın,yaz,ailenin,aile
+yaz,yazın,hasta,hastanın
+yazın,yaz,hastanın,hasta
+hasta,hastanın,koca,kocanın
+hastanın,hasta,kocanın,koca
+hasta,hastanın,gece,gecenin
+hastanın,hasta,gecenin,gece
+hasta,hastanın,kulüp,kulübün
+hastanın,hasta,kulübün,kulüp
+hasta,hastanın,yargıç,yargıçın
+hastanın,hasta,yargıçın,yargıç
+hasta,hastanın,şehir,şehrin
+hastanın,hasta,şehrin,şehir
+kurban,kurbanın,bu akşam,bu akşamın
+kurbanın,kurban,bu akşamın,bu akşam
+kurban,kurbanın,kurul,kurulun
+kurbanın,kurban,kurulun,kurul
+kurban,kurbanın,dolar,doların
+kurbanın,kurban,doların,dolar
+kurban,kurbanın,yaz,yazın
+kurbanın,kurban,yazın,yaz
+kurban,kurbanın,Parti,Partinin
+kurbanın,kurban,Partinin,Parti
+sistem,sistemin,hastane,hastanenin
+sistemin,sistem,hastanenin,hastane
+sistem,sistemin,koca,kocanın
+sistemin,sistem,kocanın,koca
+sistem,sistemin,kadın,kadının
+sistemin,sistem,kadının,kadın
+sistem,sistemin,durum,durumun
+sistemin,sistem,durumun,durum
+sistem,sistemin,şov,şovun
+sistemin,sistem,şovun,şov
+herkes,herkesin,Belediye Başkanı,belediye başkanının
+herkesin,herkes,belediye başkanının,Belediye Başkanı
+herkes,herkesin,Ajans,ajansın
+herkesin,herkes,ajansın,Ajans
+herkes,herkesin,şov,şovun
+herkesin,herkes,şovun,şov
+herkes,herkesin,istasyon,istasyonun
+herkesin,herkes,istasyonun,istasyon
+herkes,herkesin,alan,alanın
+herkesin,herkes,alanın,alan
+kız çocuk,kız çocuğun,bina,binanın
+kız çocuğun,kız çocuk,binanın,bina
+kız çocuk,kız çocuğun,hayat,hayatının
+kız çocuğun,kız çocuk,hayatının,hayat
+kız çocuk,kız çocuğun,şirket,şirketin
+kız çocuğun,kız çocuk,şirketin,şirket
+kız çocuk,kız çocuğun,sendika,sendikanın
+kız çocuğun,kız çocuk,sendikanın,sendika
+kız çocuk,kız çocuğun,okul,okulun
+kız çocuğun,kız çocuk,okulun,okul
+ağ,Ağın,kilise,kilisenin
+Ağın,ağ,kilisenin,kilise
+ağ,Ağın,yazar,yazarın
+Ağın,ağ,yazarın,yazar
+ağ,Ağın,gece,gecenin
+Ağın,ağ,gecenin,gece
+ağ,Ağın,şoför,şoförün
+Ağın,ağ,şoförün,şoför
+ağ,Ağın,jüri,jürinin
+Ağın,ağ,jürinin,jüri
+yazar,yazarın,semt,semtin
+yazarın,yazar,semtin,semt
+yazar,yazarın,yaz,yazın
+yazarın,yazar,yazın,yaz
+yazar,yazarın,durum,durumun
+yazarın,yazar,durumun,durum
+yazar,yazarın,oğul,oğlun
+yazarın,yazar,oğlun,oğul
+yazar,yazarın,herkes,herkesin
+yazarın,yazar,oğlun,herkes
+kız,kızın,ülke,ülkenin
+kızın,kız,ülkenin,ülke
+kız,kızın,kurul,kurulun
+kızın,kız,kurulun,kurul
+kız,kızın,endüstri,endüstrinin
+kızın,kız,endüstrinin,endüstri
+kız,kızın,anne,annenin
+kızın,kız,annenin,anne
+kız,kızın,komisyon,komisyonun
+kızın,kız,komisyonun,komisyon
+fatura,faturanın,ulus,ulusun
+faturanın,fatura,ulusun,ulus
+fatura,faturanın,çift,çiftin
+faturanın,fatura,çiftin,çift
+fatura,faturanın,proje,projenin
+faturanın,fatura,projenin,proje
+fatura,faturanın,hasta,hastanın
+faturanın,fatura,hastanın,hasta
+fatura,faturanın,aile,ailenin
+faturanın,fatura,ailenin,aile
+hafta sonu,hafta sonunun,semt,semtin
+hafta sonunun,hafta sonu,semtin,semt
+hafta sonu,hafta sonunun,ulus,ulusun
+hafta sonunun,hafta sonu,ulusun,ulus
+hafta sonu,hafta sonunun,istasyon,istasyonun
+hafta sonunun,hafta sonu,istasyonun,istasyon
+hafta sonu,hafta sonunun,kulüp,kulübün
+hafta sonunun,hafta sonu,kulübün,kulüp
+hafta sonu,hafta sonunun,oğul,oğlun
+hafta sonunun,hafta sonu,oğlun,oğul
+doktor,doktorun,bu akşam,bu akşamın
+doktorun,doktor,bu akşamın,bu akşam
+doktor,doktorun,ülke,ülkenin
+doktorun,doktor,ülkenin,ülke
+doktor,doktorun,toplum,toplumun
+doktorun,doktor,toplumun,toplum
+doktor,doktorun,baba,babanın
+doktorun,doktor,babanın,baba
+doktor,doktorun,yönetim,yönetimin
+doktorun,doktor,yönetimin,yönetim
+gösteri,gösterinin,Belediye Başkanı,belediye başkanının
+gösterinin,gösteri,belediye başkanının,Belediye Başkanı
+gösteri,gösterinin,kız,kızın
+gösterinin,gösteri,kızın,kız
+gösteri,gösterinin,toplum,toplumun
+gösterinin,gösteri,toplumun,toplum
+gösteri,gösterinin,departman,departmanın
+gösterinin,gösteri,departmanın,departman
+gösteri,gösterinin,aile,ailenin
+gösterinin,gösteri,ailenin,aile
+akşam,akşamın,erkek çocuk,erkek çocuğun
+akşamın,akşam,erkek çocuğun,erkek çocuk
+akşam,akşamın,film,filmin
+akşamın,akşam,filmin,film
+akşam,akşamın,eş,eşin
+akşamın,akşam,eşin,eş
+akşam,akşamın,aile,ailenin
+akşamın,akşam,ailenin,aile
+akşam,akşamın,program,programın
+akşamın,akşam,programın,program
+dolar,doların,bölge,bölgenin
+doların,dolar,bölgenin,bölge
+dolar,doların,ay,ayın
+doların,dolar,ayın,ay
+dolar,doların,banka,bankanın
+doların,dolar,bankanın,banka
+dolar,doların,oyun,oyunun
+doların,dolar,oyunun,oyun
+dolar,doların,sendika,sendikanın
+doların,dolar,sendikanın,sendika
+olmak,oldu,dönmek,döndü
+oldu,olmak,döndü,dönmek
+olmak,olur,dönmek,döner
+olur,olmak,döner,dönmek
+olur,oldu,döner,döndü
+oldu,olur,döndü,döner
+olmak,oldu,belirlemek,belirledi
+oldu,olmak,belirledi,belirlemek
+olmak,olur,belirlemek,belirler
+olur,olmak,belirler,belirlemek
+olur,oldu,belirler,belirledi
+oldu,olur,belirledi,belirler
+olmak,oldu,sağlamak,sağlandı
+oldu,olmak,sağlandı,sağlamak
+olmak,olur,sağlamak,sağlar
+olur,olmak,sağlar,sağlamak
+olur,oldu,sağlar,sağlandı
+oldu,olur,sağlandı,sağlar
+olmak,oldu,karar vermek,karar verdi
+oldu,olmak,karar verdi,karar vermek
+olmak,olur,karar vermek,karar verir
+olur,olmak,karar verir,karar vermek
+olur,oldu,karar verir,karar verdi
+oldu,olur,karar verdi,karar verir
+olmak,oldu,bitmek,bitti
+oldu,olmak,bitti,bitmek
+olmak,olur,bitmek,bitmek
+olur,olmak,bitmek,bitmek
+olur,oldu,bitmek,bitti
+oldu,olur,bitti,bitmek
+yapmak,yaptı,desteklemek,desteklendi
+yaptı,yapmak,desteklendi,desteklemek
+yapmak,yapar,desteklemek,Destekler
+yapar,yapmak,Destekler,desteklemek
+yapar,yaptı,Destekler,desteklendi
+yaptı,yapar,desteklendi,Destekler
+yapmak,yaptı,yükseltmek,yükseltti
+yaptı,yapmak,yükseltti,yükseltmek
+yapmak,yapı,yükseltmek,yükseltir
+yapar,yapmak,yükseltir,yükseltmek
+yapar,yaptı,yükseltir,yükseltti
+yaptı,yapar,yükseltti,yükseltir
+yapmak,yaptı,açmak,açtı
+yaptı,yapmak,açtı,açmak
+yapmak,yapar,açmak,açar
+yapar,yapmak,açar,açmak
+yapar,yaptı,açar,açtı
+yaptı,yapar,açtı,açar
+yapmak,yaptı,devam etmek,devam etti
+yaptı,yapmak,devam etti,devam etmek
+yapmak,yapar,devam etmek,devam ediyor
+yapar,yapmak,devam ediyor,devam etmek
+yapar,yaptı,devam ediyor,devam etti
+yaptı,yapar,devam etti,devam ediyor
+yapmak,yaptı,çalışmak,çalıştı
+yaptı,yapmak,çalıştı,çalışmak
+yapmak,yapar,çalışmak,çalışır
+yapar,yapmak,çalışır,çalışmak
+yapar,yaptı,çalışır,çalıştı
+yaptı,yapar,çalıştı,çalışır
+sahip,sahipti,kanıtlamak,kanıtladı
+sahipti,sahip,kanıtladı,kanıtlamak
+sahip,sahip,kanıtlamak,kanıtlar
+sahip,sahip,kanıtlar,kanıtlamak
+sahip,sahipti,kanıtlar,kanıtladı
+sahipti,sahip,kanıtladı,kanıtlar
+sahip,sahipti,yardım etmek,yardım etti
+sahipti,sahip,yardım etti,yardım etmek
+sahip,sahip,yardım etmek,yardım eder
+sahip,sahip,yardım eder,yardım etmek
+sahip,sahipti,yardım eder,yardım etti
+sahipti,sahip,yardım etti,yardım eder
+sahip,sahipti,aramak,aradı
+sahipti,sahip,aradı,aramak
+sahip,sahip,aramak,arar
+sahip,sahip,arar,aramak
+sahip,sahipti,arar,aradı
+sahipti,sahip,aradı,arar
+sahip,sahipti,dikkate almak,dikkate aldı
+sahipti,sahip,dikkate aldı,dikkate almak
+sahip,sahip,dikkate almak,dikkate alır
+sahip,sahip,dikkate alır,dikkate almak
+sahip,sahipti,dikkate alır,dikkate aldı
+sahipti,sahip,dikkate aldı,dikkate alır
+sahip,sahipti,sormak,sordu
+sahipti,sahip,sordu,sormak
+sahip,sahip,sormak,sorar
+sahip,sahip,sorar,sormak
+sahip,sahipti,sorar,sordu
+sahipti,sahip,sordu,sorar
+elde etmek,elde etti,sağlamak,sağladı
+elde etti,elde etmek,sağladı,sağlamak
+elde etmek,elde eder,sağlamak,sağlar
+elde eder,elde etmek,sağlar,sağlamak
+elde eder,elde etti,sağlar,sağladı
+elde etti,elde eder,sağladı,sağlar
+elde etmek,elde etti,elemek,eledi
+elde etti,elde etmek,eledi,elemek
+elde etmek,elde eder,elemek,eler
+elde eder,elde etmek,eler,elemek
+elde eder,elde etti,eler,eledi
+elde etti,elde eder,eledi,eler
+elde etmek,elde etti,düşünmek,düşündü
+elde etti,elde etmek,düşündü,düşünmek
+elde etmek,elde eder,düşünmek,düşünür
+elde eder,elde etmek,düşünür,düşünmek
+elde eder,elde etti,düşünür,düşündü
+elde etti,elde eder,düşündü,düşünür
+elde etmek,elde etti,göstermek,gösterdi
+elde etti,elde etmek,gösterdi,göstermek
+elde etmek,elde eder,göstermek,gösterir
+elde eder,elde etmek,gösterir,göstermek
+elde eder,elde etti,gösterir,gösterdi
+elde etti,elde eder,gösterdi,gösterir
+elde etmek,elde etti,almak,aldı
+elde etti,elde etmek,aldı,almak
+elde etmek,elde eder,almak,alır
+elde eder,elde etmek,alır,almak
+elde eder,elde etti,alır,aldı
+elde etti,elde eder,aldı,alır
+Yapmak,yaptı,Bakmak,baktı
+yaptı,Yapmak,baktı,Bakmak
+Yapmak,yapar,Bakmak,bakar
+yapar,Yapmak,bakar,Bakmak
+yapar,yaptı,bakar,baktı
+yaptı,yapar,baktı,bakar
+Yapmak,yaptı,ödemek,ödedi
+yaptı,Yapmak,ödedi,ödemek
+Yapmak,yapar,ödemek,öder
+yapar,Yapmak,öder,ödemek
+yapar,yaptı,öder,ödedi
+yaptı,yapar,ödedi,öder
+Yapmak,yaptı,kalmak,kaldı
+yaptı,Yapmak,kaldı,kalmak
+Yapmak,yapar,kalmak,kalır
+yapar,Yapmak,kalır,kalmak
+yapar,yaptı,kalır,kaldı
+yaptı,yapar,kaldı,kalır
+Yapmak,yaptı,satın almak,satın aldı
+yaptı,Yapmak,satın aldı,satın almak
+Yapmak,yapar,satın almak,satın alır
+yapar,Yapmak,satın alır,satın almak
+yapar,yaptı,satın alır,satın aldı
+yaptı,yapar,satın aldı,satın alır
+Yapmak,yaptı,aramak,aradı
+yaptı,Yapmak,aradı,aramak
+Yapmak,yapar,aramak,arar
+yapar,Yapmak,arar,aramak
+yapar,yaptı,arar,aradı
+yaptı,yapar,aradı,arar
+almak,aldı,üretmek,üretti
+aldı,almak,üretti,üretmek
+almak,alır,üretmek,üretir
+alır,almak,üretir,üretmek
+alır,aldı,üretir,üretti
+aldı,alır,üretti,üretir
+almak,aldı,düşünmek,düşündü
+aldı,almak,düşündü,düşünmek
+almak,alır,düşünmek,düşünür
+alır,almak,düşünür,düşünmek
+alır,aldı,düşünür,düşündü
+aldı,almak,düşündü,düşünür
+almak,aldı,anlamak,anladı
+aldı,almak,anladı,anlamak
+almak,alır,anlamak,anlar
+alır,almak,anlar,anlamak
+alır,aldı,anlar,anladı
+aldı,alır,anladı,anlar
+almak,aldı,koşmak,koştu
+aldı,almak,koştu,koşmak
+almak,alır,koşmak,koşar
+alır,almak,koşar,koşmak
+alır,aldı,koşar,koştu
+aldı,alır,koştu,koşar
+almak,aldı,azaltmak,azalttı
+aldı,almak,azalttı,azaltmak
+almak,alır,azaltmak,azaltır
+alır,almak,azaltır,azaltmak
+alır,aldı,azaltır,azalttı
+aldı,alır,azalttı,azaltır
+ayrılmak,ayrıldı,hissetmek,hissetti
+ayrıldı,ayrılmak,hissetti,hissetmek
+ayrılmak,ayrılır,hissetmek,hisseder
+ayrılır,ayrılmak,hisseder,hissetmek
+ayrılır,ayrıldı,hisseder,hissetti
+ayrıldı,ayrılır,hissetti,hisseder
+ayrılmak,ayrıldı,gerekmek,gerekti
+ayrıldı,ayrılmak,gerekti,gerekmek
+ayrılmak,ayrılır,gerekmek,gerekir
+ayrılır,ayrılmak,gerekir,gerekmek
+ayrılır,ayrıldı,gerekir,gerekti
+ayrıldı,ayrılır,gerekti,gerekir
+ayrılmak,ayrıldı,oynamak,oynadı
+ayrıldı,ayrılmak,oynadı,oynamak
+ayrılmak,ayrılır,oynamak,oynar
+ayrılır,ayrılmak,oynar,oynamak
+ayrılır,ayrıldı,oynar,oynadı
+ayrıldı,ayrılır,oynadı,oynar
+ayrılmak,ayrıldı,gerçekleşmek,gerçekleşti
+ayrıldı,ayrılmak,gerçekleşti,gerçekleşmek
+ayrılmak,ayrılır,gerçekleşmek,gerçekleşir
+ayrılır,ayrılmak,gerçekleşir,gerçekleşmek
+ayrılır,ayrıldı,gerçekleşir,gerçekleşti
+ayrıldı,ayrılır,gerçekleşti,gerçekleşir
+ayrılmak,ayrıldı,sahip,sahipti
+ayrıldı,ayrılmak,sahipti,sahip
+ayrılmak,ayrılır,sahip,sahip
+ayrılır,ayrılmak,sahip,sahip
+ayrılır,ayrıldı,sahip,sahipti
+ayrıldı,ayrılır,sahipti,sahip
+Gitmek,gitti,açmak,açtı
+gitti,Gitmek,açtı,açmak
+Gitmek,gider,açmak,açar
+gider,Gitmek,açar,açmak
+gider,gitti,açar,açtı
+gitti,gider,açtı,açar
+Gitmek,gitti,hissetmek,hissetti
+gitti,Gitmek,hissetti,hissetmek
+Gitmek,gider,hissetmek,hisseder
+gider,Gitmek,hisseder,hissetmek
+gider,gitti,hisseder,hissetti
+gitti,gider,hissetti,hisseder
+Gitmek,gitti,karar vermek,karar verdi
+gitti,Gitmek,karar verdi,karar vermek
+Gitmek,gider,karar vermek,karar verir
+gider,Gitmek,karar verir,karar vermek
+gider,gitti,karar verir,karar verdi
+gitti,gider,karar verdi,karar verir
+Gitmek,gitti,korumak,korudu
+gitti,Gitmek,korudu,korumak
+Gitmek,gider,korumak,korur
+gider,Gitmek,korur,korumak
+gider,gitti,korur,korudu
+gitti,gider,korudu,korur
+Gitmek,gitti,takip etmek,takip etti
+gitti,Gitmek,takip etti,takip etmek
+Gitmek,gider,takip etmek,takip eder
+gider,Gitmek,takip eder,takip etmek
+gider,gitti,takip eder,takip etti
+gitti,gider,takip etti,takip eder
+yardım etmek,yardım etti,çalışmak,çalıştı
+yardım etti,yardım etmek,çalıştı,çalışmak
+yardım etmek,yardım eder,çalışmak,çalışır
+yardım eder,yardım etmek,çalışır,çalışmak
+yardım eder,yardım etti,çalışır,çalıştı
+yardım etti,yardım eder,çalıştı,çalışır
+yardım etmek,yardım etti,tutmak,tuttu
+yardım etti,yardım etmek,tuttu,tutmak
+yardım etmek,yardım eder,tutmak,tutar
+yardım eder,yardım etmek,tutar,tutmak
+yardım eder,yardım etti,tutar,tuttu
+yardım etti,yardım eder,tuttu,tutar
+yardım etmek,yardım etti,bitmek,bitti
+yardım etti,yardım etmek,bitti,bitmek
+yardım etmek,yardım eder,bitmek,biter
+yardım eder,yardım etmek,biter,bitmek
+yardım eder,yardım etti,biter,bitti
+yardım etti,yardım eder,bitti,biter
+yardım etmek,yardım etti,söylemek,söyledi
+yardım etti,yardım etmek,söyledi,söylemek
+yardım etmek,yardım eder,söylemek,söyler
+yardım eder,yardım etmek,söyler,söylemek
+yardım eder,yardım etti,söyler,söyledi
+yardım etti,yardım eder,söyledi,söyler
+yardım etmek,yardım etti,azaltmak,azalttı
+yardım etti,yardım etmek,azalttı,azaltmak
+yardım etmek,yardım eder,azaltmak,azaltır
+yardım eder,yardım etmek,azaltır,azaltmak
+yardım eder,yardım etti,azaltır,azalttı
+yardım etti,yardım eder,azalttı,azaltır
+görmek,gördü,inşa etmek,inşa etti
+gördü,görmek,inşa etti,inşa etmek
+görmek,görür,inşa etmek,inşa eder
+görür,görmek,inşa eder,inşa etmek
+görür,gördü,inşa eder,inşa etti
+gördü,görür,inşa etti,inşa eder
+görmek,gördü,çalışmak,çalıştı
+gördü,görmek,çalıştı,çalışmak
+görmek,görür,çalışmak,çalışır
+görür,görmek,çalışır,çalışmak
+görür,gördü,çalışır,çalıştı
+gördü,görür,çalıştı,çalışır
+görmek,gördü,söylemek,söyledi
+gördü,görmek,söyledi,söylemek
+görmek,görür,söylemek,söyler
+görür,görmek,söyler,söylemek
+görür,gördü,söyler,söyledi
+gördü,görür,söyledi,söyler
+görmek,gördü,geliştirmek,geliştirdi
+gördü,görmek,geliştirdi,geliştirmek
+görmek,görür,geliştirmek,geliştirir
+görür,görmek,geliştirir,geliştirmek
+görür,gördü,geliştirir,geliştirdi
+gördü,görür,geliştirdi,geliştirir
+görmek,gördü,azaltmak,azalttı
+gördü,görmek,azalttı,azaltmak
+görmek,görür,azaltmak,azaltır
+görür,görmek,azaltır,azaltmak
+görür,gördü,azaltır,azalttı
+gördü,görür,azalttı,azaltır
+vermek,verdi,uzatmak,uzattı
+verdi,vermek,uzattı,uzatmak
+vermek,verir,uzatmak,uzatır
+verir,vermek,uzatır,uzatmak
+verir,verdi,uzatır,uzattı
+verdi,verir,uzattı,uzatır
+vermek,verdi,sağlamak,sağladı
+verdi,vermek,sağladı,sağlamak
+vermek,verir,sağlamak,sağlar
+verir,vermek,sağlar,sağlamak
+verir,verdi,sağlar,sağladı
+verdi,verir,sağladı,sağlar
+vermek,verdi,karar vermek,karar verdi
+verdi,vermek,karar verdi,karar vermek
+vermek,verir,karar vermek,karar verir
+verir,vermek,karar verir,karar vermek
+verir,verdi,karar verir,karar verdi
+verdi,verir,karar verdi,karar verir
+vermek,verdi,korumak,korundu
+verdi,vermek,korundu,korumak
+vermek,verir,korumak,korunur
+verir,vermek,korunur,korumak
+verir,verdi,korunur,korundu
+verdi,verir,korundu,korunur
+vermek,verdi,kaydetmek,kaydetti
+verdi,vermek,kaydetti,kaydetmek
+vermek,verir,kaydetmek,kaydeder
+verir,vermek,kaydeder,kaydetmek
+verir,verdi,kaydeder,kaydetti
+verdi,verir,kaydetti,kaydeder
+desteklemek,destekledi,kazanmak,kazandı
+destekledi,desteklemek,kazandı,kazanmak
+desteklemek,Destekler,kazanmak,kazanır
+Destekler,desteklemek,kazanır,kazanmak
+desteklemek,destekledi,kazanır,kazandı
+destekledi,Destekler,kazandı,kazanır
+desteklemek,destekledi,ödemek,ödedi
+destekledi,desteklemek,ödedi,ödemek
+desteklemek,Destekler,ödemek,öder
+Destekler,desteklemek,öder,ödemek
+Destekler,destekledi,öder,ödedi
+destekledi,Destekler,ödedi,ödemek
+desteklemek,destekledi,öğrenmek,öğrendi
+destekledi,desteklemek,öğrendi,öğrenmek
+desteklemek,Destekler,öğrenmek,öğrenir
+Destekler,desteklemek,öğrenir,öğrenmek
+Destekler,destekledi,öğrenir,öğrendi
+destekledi,Destekler,öğrendi,öğrenir
+desteklemek,destekledi,Karşılamak,karşıladı
+destekledi,desteklemek,karşıladı,Karşılamak
+desteklemek,Destekler,Karşılamak,karşılar
+Destekler,desteklemek,karşılar,Karşılamak
+Destekler,destekledi,karşılar,karşıladı
+destekledi,Destekler,karşıladı,karşılar
+desteklemek,destekledi,görmek,gördü
+destekledi,desteklemek,gördü,görmek
+desteklemek,Destekler,görmek,görür
+Destekler,desteklemek,görür,görmek
+Destekler,destekledi,görür,gördü
+destekledi,Destekler,gördü,görür
+anlamak,anladı,denemek,denedi
+anladı,anlamak,denedi,denemek
+anlamak,anlar,denemek,dener
+anlar,anlamak,dener,denemek
+anlar,anladı,dener,denedi
+anladı,anlar,denedi,dener
+anlamak,anladı,öğrenmek,öğrendi
+anladı,anlamak,öğrendi,öğrenmek
+anlamak,anlar,öğrenmek,öğrenir
+anlar,anlamak,öğrenir,öğrenmek
+anlar,anladı,öğrenir,öğrendi
+anladı,anlar,öğrendi,öğrenir
+anlamak,anladı,takip etmek,takip etti
+anladı,anlamak,takip etti,takip etmek
+anlamak,anlar,takip etmek,takip eder
+anlar,anlamak,takip eder,takip etmek
+anlar,anladı,takip eder,takip etti
+anladı,anlar,takip etti,takip eder
+anlamak,anladı,bulmak,buldu
+anladı,anlamak,buldu,bulmak
+anlamak,anlar,bulmak,bulur
+anlar,anlamak,bulur,bulmak
+anlar,anladı,bulur,buldu
+anladı,anlar,buldu,bulur
+anlamak,anladı,dönmek,döndü
+anladı,anlamak,döndü,dönmek
+anlamak,anlar,dönmek,döner
+anlar,anlamak,döner,dönmek
+anlar,anladı,döner,döndü
+anladı,anlar,döndü,döner
+tutmak,tuttu,sağlamak,sağladı
+tuttu,tutmak,sağladı,sağlamak
+tutmak,tutar,sağlamak,sağlar
+tutar,tutmak,sağlar,sağlamak
+tutar,tuttu,sağlar,sağladı
+tuttu,tutar,sağladı,sağlar
+tutmak,tuttu,geliştirmek,geliştirdi
+tuttu,tutmak,geliştirdi,geliştirmek
+tutmak,tutar,geliştirmek,geliştirir
+tutar,tutmak,geliştirir,geliştirmek
+tutar,tuttu,geliştirir,geliştirdi
+tuttu,tutar,geliştirdi,geliştirir
+tutmak,tuttu,gerekmek,gerekti
+tuttu,tutmak,gerekti,gerekmek
+tutmak,tutar,gerekmek,gerekir
+tutar,tutmak,gerekir,gerekmek
+tutar,tuttu,gerekir,gerekti
+tuttu,tutar,gerekti,gerekir
+tutmak,tuttu,sahip,sahipti
+tuttu,tutmak,sahipti,sahip
+tutmak,tutar,sahip,sahip
+tutar,tutmak,sahip,sahip
+tutar,tuttu,sahip,sahipti
+tuttu,tutar,sahipti,sahip
+tutmak,tuttu,satmak,sattı
+tuttu,tutmak,sattı,satmak
+tutmak,tutar,satmak,satar
+tutar,tutmak,satar,satmak
+tutar,tuttu,satar,sattı
+tuttu,tutar,sattı,satar
+bulmak,buldu,tanışmak,tanıştı
+buldu,bulmak,tanıştı,tanışmak
+bulmak,bulur,tanışmak,tanışır
+bulur,bulmak,tanışır,tanışmak
+bulur,buldu,tanışır,tanıştı
+buldu,bulur,tanıştı,tanışır
+bulmak,buldu,gerekmek,gerekti
+buldu,bulmak,gerekti,gerekmek
+bulmak,bulur,gerekmek,gerekir
+bulur,bulmak,gerekir,gerekmek
+bulur,buldu,gerekir,gerekti
+buldu,bulur,gerekti,gerekir
+bulmak,buldu,vermek,verdi
+buldu,bulmak,verdi,vermek
+bulmak,bulur,vermek,verir
+bulur,bulmak,verir,vermek
+bulur,buldu,verir,verdi
+buldu,bulur,verdi,verir
+bulmak,buldu,çalışmak,çalıştı
+buldu,bulmak,çalıştı,çalışmak
+bulmak,bulur,çalışmak,çalışır
+bulur,bulmak,çalışır,çalışmak
+bulur,buldu,çalışır,çalıştı
+buldu,bulur,çalıştı,çalışır
+bulmak,buldu,kaçınmak,kaçındı
+buldu,bulmak,kaçındı,kaçınmak
+bulmak,bulur,kaçınmak,kaçınır
+bulur,bulmak,kaçınır,kaçınmak
+bulur,buldu,kaçınır,kaçındı
+buldu,bulur,kaçındı,kaçınır
+geliştirmek,geliştirdi,yardım etmek,yardım etti
+geliştirdi,geliştirmek,yardım etti,yardım etmek
+geliştirmek,geliştirir,yardım etmek,yardım eder
+geliştirir,geliştirmek,yardım eder,yardım etmek
+geliştirir,geliştirdi,yardım eder,yardım etti
+geliştirdi,geliştirir,yardım etti,yardım eder
+geliştirmek,geliştirdi,yükseltmek,yükseltti
+geliştirdi,geliştirmek,yükseltti,yükseltmek
+geliştirmek,geliştirir,yükseltmek,yükseltir
+geliştirir,geliştirmek,yükseltir,yükseltmek
+geliştirir,geliştirdi,yükseltir,yükseltti
+geliştirdi,geliştirir,yükseltti,yükseltir
+geliştirmek,geliştirdi,başlamak,başladı
+geliştirdi,geliştirmek,başladı,başlamak
+geliştirmek,geliştirir,başlamak,başlar
+geliştirir,geliştirmek,başlar,başlamak
+geliştirir,geliştirdi,başlar,başladı
+geliştirdi,geliştirir,başladı,başlar
+geliştirmek,geliştirdi,inşa etmek,inşa etti
+geliştirdi,geliştirmek,inşa etti,inşa etmek
+geliştirmek,geliştirir,inşa etmek,inşa eder
+geliştirir,geliştirmek,inşa eder,inşa etmek
+geliştirir,geliştirdi,inşa eder,inşa etti
+geliştirdi,geliştirir,inşa etti,inşa eder
+geliştirmek,geliştirdi,tanımak,tanıdı
+geliştirdi,geliştirmek,tanıdı,tanımak
+geliştirmek,geliştirir,tanımak,tanır
+geliştirir,geliştirmek,tanır,tanımak
+geliştirir,geliştirdi,tanır,tanıdı
+geliştirdi,geliştirir,tanıdı,tanır
+oynamak,oynadı,bilmek,bildi
+oynadı,oynamak,bildi,bilmek
+oynamak,oynar,bilmek,bilir
+oynar,oynamak,bilir,bilmek
+oynar,oynadı,bilir,bildi
+oynadı,oynar,bildi,bilir
+oynamak,oynadı,yapmak,yaptı
+oynadı,oynamak,yaptı,yapmak
+oynamak,oynar,yapmak,yapar
+oynar,oynamak,yapar,yapmak
+oynar,oynadı,yapar,yaptı
+oynadı,oynar,yaptı,yapar
+oynamak,oynadı,katmak,kattı
+oynadı,oynamak,kattı,katmak
+oynamak,oynar,katmak,katar
+oynar,oynamak,katar,katmak
+oynar,oynadı,katar,kattı
+oynadı,oynar,kattı,katar
+oynamak,oynadı,kaçınmak,kaçındı
+oynadı,oynamak,kaçındı,kaçınmak
+oynamak,oynar,kaçınmak,kaçınır
+oynar,oynamak,kaçınır,kaçınmak
+oynar,oynadı,kaçınır,kaçındı
+oynadı,oynar,kaçındı,kaçınır
+oynamak,oynadı,azaltmak,azalttı
+oynadı,oynamak,azalttı,azaltmak
+oynamak,oynar,azaltmak,azaltır
+oynar,oynamak,azaltır,azaltmak
+oynar,oynadı,azaltır,azalttı
+oynadı,oynar,azalttı,azaltır
+çalışmak,çalıştı,tanışmak,tanıştı
+çalıştı,çalışmak,tanıştı,tanışmak
+çalışmak,çalışır,tanışmak,tanışır
+çalışır,çalışmak,tanışır,tanışmak
+çalışır,çalıştı,tanışır,tanıştı
+çalıştı,çalışır,tanıştı,tanışır
+çalışmak,çalıştı,gerekmek,gerekti
+çalıştı,çalışmak,gerekti,gerekmek
+çalışmak,çalışır,gerekmek,gerekir
+çalışır,çalışmak,gerekir,gerekmek
+çalışır,çalıştı,gerekir,gerekti
+çalıştı,çalışır,gerekti,gerekir
+çalışmak,çalıştı,beğenmek,beğendi
+çalıştı,çalışmak,beğendi,beğenmek
+çalışmak,çalışır,beğenmek,beğenir
+çalışır,çalışmak,beğenir,beğenmek
+çalışır,çalıştı,beğenir,beğendi
+çalıştı,çalışır,beğendi,beğenir
+çalışmak,çalıştı,azaltmak,azalttı
+çalıştı,çalışmak,azalttı,azaltmak
+çalışmak,çalışır,azaltmak,azaltır
+çalışır,çalışmak,azaltır,azaltmak
+çalışır,çalıştı,azaltır,azalttı
+çalıştı,çalışır,azalttı,azaltır
+çalışmak,çalıştı,hizmet etmek,hizmet etti
+çalıştı,çalışmak,hizmet etti,hizmet etmek
+çalışmak,çalışır,hizmet etmek,hizmet eder
+çalışır,çalışmak,hizmet eder,hizmet etmek
+çalışır,çalıştı,hizmet eder,hizmet etti
+çalıştı,çalışır,hizmet etti,hizmet eder
+sağlamak,sağladı,yapmak,yaptı
+sağladı,sağlamak,yaptı,yapmak
+sağlamak,sağlar,yapmak,yapar
+sağlar,sağlamak,yapar,yapmak
+sağlar,sağladı,yapar,yaptı
+sağladı,sağlar,yaptı,yapar
+sağlamak,sağladı,kullanmak,kullandı
+sağladı,sağlamak,kullandı,kullanmak
+sağlamak,sağlar,kullanmak,kullanır
+sağlar,sağlamak,kullanır,kullanmak
+sağlar,sağladı,kullanır,kullandı
+sağladı,sağlar,kullandı,kullanır
+sağlamak,sağladı,kaydetmek,kaydetti
+sağladı,sağlamak,kaydetti,kaydetmek
+sağlamak,sağlar,kaydetmek,kaydeder
+sağlar,sağlamak,kaydeder,kaydetmek
+sağlar,sağladı,kaydeder,kaydetti
+sağladı,sağlar,kaydetti,kaydeder
+sağlamak,sağladı,almak,aldı
+sağladı,sağlamak,aldı,almak
+sağlamak,sağlar,almak,alır
+sağlar,sağlamak,alır,almak
+sağlar,sağladı,alır,aldı
+sağladı,sağlar,aldı,alır
+sağlamak,sağladı,bulmak,buldu
+sağladı,sağlamak,buldu,bulmak
+sağlamak,sağlar,bulmak,bulur
+sağlar,sağlamak,bulur,bulmak
+sağlar,sağladı,bulur,buldu
+sağladı,sağlar,buldu,bulur
+kabul etmek,kabul etti,bilmek,bildi
+kabul etti,kabul etmek,bildi,bilmek
+kabul etmek,kabul eder,bilmek,bilir
+kabul eder,kabul etmek,bilir,bilmek
+kabul eder,kabul etti,bilir,bildi
+kabul etti,kabul eder,bildi,bilir
+kabul etmek,kabul etti,kanıtlamak,kanıtlandı
+kabul etti,kabul etmek,kanıtlandı,kanıtlamak
+kabul etmek,kabul eder,kanıtlamak,kanıtlar
+kabul eder,kabul etmek,kanıtlar,kanıtlamak
+kabul eder,kabul etti,kanıtlar,kanıtlandı
+kabul etti,kabul eder,kanıtlandı,kanıtlar
+kabul etmek,kabul etti,katılmak,katıldı
+kabul etti,kabul etmek,katıldı,katılmak
+kabul etmek,kabul eder,katılmak,katılır
+kabul eder,kabul etmek,katılır,katılmak
+kabul eder,kabul etti,katılır,katıldı
+kabul etti,kabul eder,katıldı,katılır
+kabul etmek,kabul etti,açmak,açtı
+kabul etti,kabul etmek,açtı,açmak
+kabul etmek,kabul eder,açmak,açar
+kabul eder,kabul etmek,açar,açmak
+kabul eder,kabul etti,açar,açtı
+kabul etti,kabul eder,açtı,açar
+kabul etmek,kabul etti,Gitmek,gitti
+kabul etti,kabul etmek,gitti,Gitmek
+kabul etmek,kabul eder,Gitmek,gider
+kabul eder,kabul etmek,gider,Gitmek
+kabul eder,kabul etti,gider,gitti
+kabul etti,kabul eder,gitti,gider
+söylemek,söyledi,dönmek,döndü
+söyledi,söylemek,döndü,dönmek
+söylemek,söyler,dönmek,döner
+söyler,söylemek,döner,dönmek
+söyler,söyledi,döner,döndü
+söyledi,söyler,döndü,döner
+söylemek,söyledi,tartışmak,tartıştı
+söyledi,söylemek,tartıştı,tartışmak
+söylemek,söyler,tartışmak,tartışır
+söyler,söylemek,tartışır,tartışmak
+söyler,söyledi,tartışır,tartıştı
+söyledi,söyler,tartıştı,tartışır
+söylemek,söyledi,istemek,istedi
+söyledi,söylemek,istedi,istemek
+söylemek,söyler,istemek,ister
+söyler,söylemek,ister,istemek
+söyler,söyledi,ister,istedi
+söyledi,söyler,istedi,ister
+söylemek,söyledi,aramak,aradı
+söyledi,söylemek,aradı,aramak
+söylemek,söyler,aramak,arar
+söyler,söylemek,arar,aramak
+söyler,söyledi,arar,aradı
+söyledi,söyler,aradı,arar
+söylemek,söyledi,azaltmak,azalttı
+söyledi,söylemek,azalttı,azaltmak
+söylemek,söyler,azaltmak,azaltır
+söyler,söylemek,azaltır,azaltmak
+söyler,söyledi,azaltır,azalttı
+söyledi,söyler,azalttı,azaltır
+Gelmek,geldi,aramak,aradı
+geldi,Gelmek,aradı,aramak
+Gelmek,gelir,aramak,arar
+gelir,Gelmek,arar,aramak
+gelir,geldi,arar,aradı
+geldi,gelir,aradı,arar
+Gelmek,geldi,hissetmek,hissetti
+geldi,Gelmek,hissetti,hissetmek
+Gelmek,gelir,hissetmek,hisseder
+gelir,Gelmek,hisseder,hissetmek
+gelir,geldi,hisseder,hissetti
+geldi,gelir,hissetti,hisseder
+Gelmek,geldi,tartışmak,tartıştı
+geldi,Gelmek,tartıştı,tartışmak
+Gelmek,gelir,tartışmak,tartışır
+gelir,Gelmek,tartışır,tartışmak
+gelir,geldi,tartışır,tartıştı
+geldi,gelir,tartıştı,tartışır
+Gelmek,geldi,düşünmek,düşündü
+geldi,Gelmek,düşündü,düşünmek
+Gelmek,gelir,düşünmek,düşünür
+gelir,Gelmek,düşünür,düşünmek
+gelir,geldi,düşünür,düşündü
+geldi,gelir,düşündü,düşünür
+Gelmek,geldi,takip etmek,takip etti
+geldi,Gelmek,takip etti,takip etmek
+Gelmek,gelir,takip etmek,takip eder
+gelir,Gelmek,takip eder,takip etmek
+gelir,geldi,takip eder,takip etti
+geldi,gelir,takip etti,takip eder
+bilmek,bildi,dikkate almak,dikkate aldı
+bildi,bilmek,dikkate aldı,dikkate almak
+bilmek,bilir,dikkate almak,dikkate alır
+bilir,bilmek,dikkate alır,dikkate almak
+bilir,bildi,dikkate alır,dikkate aldı
+bildi,bilir,dikkate aldı,dikkate alır
+bilmek,bildi,başlamak,başladı
+bildi,bilmek,başladı,başlamak
+bilmek,bilir,başlamak,başlar
+bilir,bilmek,başlar,başlamak
+bilir,bildi,başlar,başladı
+bildi,bilir,başladı,başlar
+bilmek,bildi,olmak,oldu
+bildi,bilmek,oldu,olmak
+bilmek,bilir,olmak,olur
+bilir,bilmek,olur,olmak
+bilir,bildi,olur,oldu
+bildi,bilir,oldu,olur
+bilmek,bildi,karar vermek,karar verdi
+bildi,bilmek,karar verdi,karar vermek
+bilmek,bilir,karar vermek,karar verir
+bilir,bilmek,karar verir,karar vermek
+bilir,bildi,karar verir,karar verdi
+bildi,bilir,karar verdi,karar verir
+bilmek,bildi,vermek,verdi
+bildi,bilmek,verdi,vermek
+bilmek,bilir,vermek,verir
+bilir,bilmek,verir,vermek
+bilir,bildi,verir,verdi
+bildi,bilir,verdi,verir
+olmak,oldu,ulaşmak,ulaştı
+oldu,olmak,ulaştı,ulaşmak
+olmak,olur,ulaşmak,ulaşır
+olur,olmak,ulaşır,ulaşmak
+olur,oldu,ulaşır,ulaştı
+oldu,olur,ulaştı,ulaşır
+olmak,oldu,yaşamak,yaşadı
+oldu,olmak,yaşadı,yaşamak
+olmak,olur,yaşamak,yaşar
+olur,olmak,yaşar,yaşamak
+olur,oldu,yaşar,yaşadı
+oldu,olur,yaşadı,yaşar
+olmak,oldu,gerekmek,gerekti
+oldu,olmak,gerekti,gerekmek
+olmak,olur,gerekmek,gerekir
+olur,olmak,gerekir,gerekmek
+olur,oldu,gerekir,gerekti
+oldu,olur,gerekti,gerekir
+olmak,oldu,kutlamak,kutladı
+oldu,olmak,kutladı,kutlamak
+olmak,olur,kutlamak,Kutlar
+olur,olmak,Kutlar,kutlamak
+olur,oldu,Kutlar,kutladı
+oldu,olur,kutladı,Kutlar
+olmak,oldu,bitirmek,bitti
+oldu,olmak,bitti,bitirmek
+olmak,olur,bitirmek,biter
+olur,olmak,biter,bitirmek
+olur,oldu,biter,bitti
+oldu,olur,bitti,biter
+kullanmak,kullandı,yükseltmek,yükseltti
+kullandı,kullanmak,yükseltti,yükseltmek
+kullanmak,kullanır,yükseltmek,yükseltir
+kullanır,kullanmak,yükseltir,yükseltmek
+kullanır,kullandı,yükseltir,yükseltti
+kullandı,kullanır,yükseltti,yükseltir
+kullanmak,kullandı,gözükmek,gözüktü
+kullandı,kullanmak,gözüktü,gözükmek
+kullanmak,kullanır,gözükmek,gözükür
+kullanır,kullanmak,gözükür,gözükmek
+kullanır,kullandı,gözükür,gözüktü
+kullandı,kullanır,gözüktü,gözükür
+kullanmak,kullandı,gerekmek,gerekti
+kullandı,kullanmak,gerekti,gerekmek
+kullanmak,kullanır,gerekmek,gerekir
+kullanır,kullanmak,gerekir,gerekmek
+kullanır,kullandı,gerekir,gerekti
+kullandı,kullanır,gerekti,gerekir
+kullanmak,kullandı,göstermek,gösterdi
+kullandı,kullanmak,gösterdi,göstermek
+kullanmak,kullanır,göstermek,gösterir
+kullanır,kullanmak,gösterir,göstermek
+kullanır,kullandı,gösterir,gösterdi
+kullandı,kullanır,gösterdi,gösterir
+kullanmak,kullandı,hizmet etmek,hizmet etti
+kullandı,kullanmak,hizmet etti,hizmet etmek
+kullanmak,kullanır,hizmet etmek,hizmet eder
+kullanır,kullanmak,hizmet eder,hizmet etmek
+kullanır,kullandı,hizmet eder,hizmet etti
+kullandı,kullanır,hizmet etti,hizmet eder
+kazanmak,kazandı,ulaşmak,ulaştı
+kazandı,kazanmak,ulaştı,ulaşmak
+kazanmak,kazanır,ulaşmak,ulaşır
+kazanır,kazanmak,ulaşır,ulaşmak
+kazanır,kazandı,ulaşır,ulaştı
+kazandı,kazanır,ulaştı,ulaşır
+kazanmak,kazandı,denemek,denedi
+kazandı,kazanmak,denedi,denemek
+kazanmak,kazanır,denemek,dener
+kazanır,kazanmak,dener,denemek
+kazanır,kazandı,dener,denedi
+kazandı,kazanır,denedi,dener
+kazanmak,kazandı,önlemek,önledi
+kazandı,kazanmak,önledi,önlemek
+kazanmak,kazanır,önlemek,önler
+kazanır,kazanmak,önler,önlemek
+kazanır,kazandı,önler,önledi
+kazandı,kazanır,önledi,önler
+kazanmak,kazandı,olmak,oldu
+kazandı,kazanmak,oldu,olmak
+kazanmak,kazanır,olmak,olur
+kazanır,kazanmak,olur,olmak
+kazanır,kazandı,olur,oldu
+kazandı,kazanır,oldu,olur
+kazanmak,kazandı,dönmek,döndü
+kazandı,kazanmak,döndü,dönmek
+kazanmak,kazanır,dönmek,döner
+kazanır,kazanmak,döner,dönmek
+kazanır,kazandı,döner,döndü
+kazandı,kazanır,döndü,döner
+düşünmek,düşündü,belirlemek,belirledi
+düşündü,düşünmek,belirledi,belirlemek
+düşünmek,düşünür,belirlemek,belirler
+düşünür,düşünmek,belirler,belirlemek
+düşünür,düşündü,belirler,belirledi
+düşündü,düşünür,belirledi,belirler
+düşünmek,düşündü,başlamak,başladı
+düşündü,düşünmek,başladı,başlamak
+düşünmek,düşünür,başlamak,başlar
+düşünür,düşünmek,başlar,başlamak
+düşünür,düşündü,başlar,başladı
+düşündü,düşünür,başladı,başlar
+düşünmek,düşündü,tutmak,tuttu
+düşündü,düşünür,tuttu,tutmak
+düşünmek,düşünür,tutmak,tutar
+düşünür,düşünmek,tutar,tutmak
+düşünür,düşündü,tutar,tuttu
+düşündü,düşünür,tuttu,tutar
+düşünmek,düşündü,hizmet etmek,hizmet etti
+düşündü,düşünmek,hizmet etti,hizmet etmek
+düşünmek,düşünür,hizmet etmek,hizmet eder
+düşünür,düşünmek,hizmet eder,hizmet etmek
+düşünür,düşündü,hizmet eder,hizmet etti
+düşündü,düşünür,hizmet etti,hizmet eder
+düşünmek,düşündü,söylemek,söyledi
+düşündü,düşünmek,söyledi,söylemek
+düşünmek,düşünür,söylemek,söyler
+düşünür,düşünmek,söyler,söylemek
+düşünür,düşündü,söyler,söyledi
+düşündü,düşünür,söyledi,söyler
+üretmek,üretti,elemek,eledi
+üretti,üretmek,eledi,elemek
+üretmek,üretir,elemek,eler
+üretir,üretmek,eler,elemek
+üretir,üretti,eler,eledi
+üretti,üretir,eledi,eler
+üretmek,üretti,sormak,sordu
+üretti,üretmek,sordu,sormak
+üretmek,üretir,sormak,sorar
+üretir,üretmek,sorar,sormak
+üretir,üretti,sorar,sordu
+üretti,üretir,sordu,sorar
+üretmek,üretti,elde etmek,elde etti
+üretti,üretmek,elde etti,elde etmek
+üretmek,üretir,elde etmek,elde eder
+üretir,üretmek,elde eder,elde etmek
+üretir,üretti,elde eder,elde etti
+üretti,üretir,elde etti,elde eder
+üretmek,üretti,neden olmak,neden oldu
+üretti,üretmek,neden oldu,neden olmak
+üretmek,üretir,neden olmak,neden olur
+üretir,üretmek,neden olur,neden olmak
+üretir,üretti,neden olur,neden oldu
+üretti,üretir,neden oldu,neden olur
+üretmek,üretti,takip etmek,takip etti
+üretti,üretmek,takip etti,takip etmek
+üretmek,üretir,takip etmek,takip eder
+üretir,üretmek,takip eder,takip etmek
+üretir,üretti,takip eder,takip etti
+üretti,üretir,takip etti,takip eder
+ödemek,ödedi,artırmak,artırdı
+ödedi,ödemek,artırdı,artırmak
+ödemek,öder,artırmak,artırır
+öder,ödemek,artırır,artırmak
+öder,ödedi,artırır,artırdı
+ödedi,öder,artırdı,artırır
+ödemek,ödedi,tanışmak,tanıştı
+ödedi,ödemek,tanıştı,tanışmak
+ödemek,öder,tanışmak,tanışır
+öder,ödemek,tanışır,tanışmak
+öder,ödedi,tanışır,tanıştı
+ödedi,öder,tanıştı,tanışır
+ödemek,ödedi,olmak,oldu
+ödedi,ödemek,oldu,olmak
+ödemek,öder,olmak,olur
+öder,ödemek,olur,olmak
+öder,ödedi,olur,oldu
+ödedi,öder,oldu,olur
+ödemek,ödedi,takip etmek,takip etti
+ödedi,ödemek,takip etti,takip etmek
+ödemek,öder,takip etmek,takip eder
+öder,ödemek,takip eder,takip etmek
+öder,ödedi,takip eder,takip etti
+ödedi,öder,takip etti,takip eder
+ödemek,ödedi,göstermek,gösterdi
+ödedi,ödemek,gösterdi,göstermek
+ödemek,öder,göstermek,gösterir
+öder,ödemek,gösterir,göstermek
+öder,ödedi,gösterir,gösterdi
+ödedi,öder,gösterdi,gösterir
+takip etmek,takip etti,Bakmak,baktı
+takip etti,takip etmek,baktı,Bakmak
+takip etmek,takip eder,Bakmak,bakar
+takip eder,takip etmek,bakar,Bakmak
+takip eder,takip etti,bakar,baktı
+takip etti,takip eder,baktı,bakar
+takip etmek,takip etti,üretmek,üretti
+takip etti,takip etmek,üretti,üretmek
+takip etmek,takip eder,üretmek,üretir
+takip eder,takip etmek,üretir,üretmek
+takip eder,takip etti,üretir,üretti
+takip etti,takip eder,üretti,üretir
+takip etmek,takip etti,getirmek,getirdi
+takip etti,takip etmek,getirdi,getirmek
+takip etmek,takip eder,getirmek,getirir
+takip eder,takip etmek,getirir,getirmek
+takip eder,takip etti,getirir,getirdi
+takip etti,takip eder,getirdi,getirir
+takip etmek,takip etti,gerekmek,gerekti
+takip etti,takip etmek,gerekti,gerekmek
+takip etmek,takip eder,gerekmek,gerekir
+takip eder,takip etmek,gerekir,gerekmek
+takip eder,takip etti,gerekir,gerekti
+takip etti,takip eder,gerekti,gerekir
+takip etmek,takip etti,öğrenmek,öğrendi
+takip etti,takip etmek,öğrendi,öğrenmek
+takip etmek,takip eder,öğrenmek,öğrenir
+takip eder,takip etmek,öğrenir,öğrenmek
+takip eder,takip etti,öğrenir,öğrendi
+takip etti,takip eder,öğrendi,öğrenir
+devam etmek,devam etti,yapmak,yaptı
+devam etti,devam etmek,yaptı,yapmak
+devam etmek,devam eder,yapmak,yapar
+devam eder,devam etmek,yapar,yapmak
+devam eder,devam etti,yapar,yaptı
+devam etti,devam eder,yaptı,yapar
+devam etmek,devam etti,göndermek,gönderdi
+devam etti,devam etmek,gönderdi,göndermek
+devam etmek,devam eder,göndermek,gönderir
+devam eder,devam etmek,gönderir,göndermek
+devam eder,devam etti,gönderir,gönderdi
+devam etti,devam eder,gönderdi,gönderir
+devam etmek,devam etti,almak,aldı
+devam etti,devam etmek,aldı,almak
+devam etmek,devam eder,almak,alır
+devam eder,devam etmek,alır,almak
+devam eder,devam etti,alır,aldı
+devam etti,devam eder,aldı,alır
+devam etmek,devam etti,sahip,sahipti
+devam etti,devam etmek,sahipti,sahip
+devam etmek,devam eder,sahip,sahip
+devam eder,devam etmek,sahip,sahip
+devam eder,devam etti,sahip,sahipti
+devam etti,devam eder,sahipti,sahip
+devam etmek,devam etti,beğenmek,beğendi
+devam etti,devam etmek,beğendi,beğenmek
+devam etmek,devam eder,beğenmek,beğenir
+devam eder,devam etmek,beğenir,beğenmek
+devam eder,devam etti,beğenir,beğendi
+devam etti,devam eder,beğendi,beğenir
+istemek,istedi,sağlamak,sağladı
+istedi,istemek,sağladı,sağlamak
+istemek,ister,sağlamak,sağlar
+ister,istemek,sağlar,sağlamak
+ister,istedi,sağlar,sağladı
+istedi,ister,sağladı,sağlar
+istemek,istedi,devam etmek,devam etti
+istedi,istemek,devam etti,devam etmek
+istemek,ister,devam etmek,devam eder
+ister,istemek,devam eder,devam etmek
+ister,istedi,devam eder,devam etti
+istedi,ister,devam etti,devam eder
+istemek,istedi,terfi etmek,terfi etti
+istedi,istemek,terfi etti,terfi etmek
+istemek,ister,terfi etmek,terfi eder
+ister,istemek,terfi eder,terfi etmek
+ister,istedi,terfi eder,terfi etti
+istedi,ister,terfi etti,terfi eder
+istemek,istedi,değişmek,değiştirdi
+istedi,istemek,değiştirdi,değişmek
+istemek,ister,değişmek,değişir
+ister,istemek,değişir,değişmek
+ister,istedi,değişir,değiştirdi
+istedi,ister,değiştirdi,değişir
+istemek,istedi,bulmak,buldu
+istedi,istemek,buldu,bulmak
+istemek,ister,bulmak,bulur
+ister,istemek,bulur,bulmak
+ister,istedi,bulur,buldu
+istedi,ister,buldu,bulur
+izin vermek,izin verdi,kanıtlamak,kanıtladı
+izin verdi,izin vermek,kanıtladı,kanıtlamak
+izin vermek,izin verir,kanıtlamak,kanıtlar
+izin verir,izin vermek,kanıtlar,kanıtlamak
+izin verir,izin verdi,kanıtlar,kanıtladı
+izin verdi,izin verir,kanıtladı,kanıtlar
+izin vermek,izin verdi,elemek,eledi
+izin verdi,izin vermek,eledi,elemek
+izin vermek,izin verir,elemek,eler
+izin verir,izin vermek,eler,elemek
+izin verir,izin verdi,eler,eledi
+izin verdi,izin verir,eledi,eler
+izin vermek,izin verdi,korumak,korundu
+izin verdi,izin vermek,korundu,korumak
+izin vermek,izin verir,korumak,korur
+izin verir,izin vermek,korur,korumak
+izin verir,izin verdi,korur,korundu
+izin verdi,izin verir,korundu,korur
+izin vermek,izin verdi,tutmak,tuttu
+izin verdi,izin vermek,tuttu,tutmak
+izin vermek,izin verir,tutmak,tutar
+izin verir,izin vermek,tutar,tutmak
+izin verir,izin verdi,tutar,tuttu
+izin verdi,izin verir,tuttu,tutar
+izin vermek,izin verdi,aramak,aradı
+izin verdi,izin vermek,aradı,aramak
+izin vermek,izin verir,aramak,arar
+izin verir,izin vermek,arar,aramak
+izin verir,izin verdi,arar,aradı
+izin verdi,izin verir,aradı,arar
+getirmek,getirdi,taşınmak,taşındı
+getirdi,getirmek,taşındı,taşınmak
+getirmek,getirir,taşınmak,taşınır
+getirir,getirmek,taşınır,taşınmak
+getirir,getirdi,taşınır,taşındı
+getirdi,getirir,taşındı,taşınır
+getirmek,getirdi,inanmak,inandı
+getirdi,getirmek,inandı,inanmak
+getirmek,getirir,inanmak,inanır
+getirir,getirmek,inanır,inanmak
+getirir,getirdi,inanır,inandı
+getirdi,getirir,inandı,inanır
+getirmek,getirdi,dönmek,döndü
+getirdi,getirmek,döndü,dönmek
+getirmek,getirir,dönmek,döner
+getirir,getirmek,döner,dönmek
+getirir,getirdi,döner,döndü
+getirdi,getirir,döndü,döner
+getirmek,getirdi,çalışmak,çalıştı
+getirdi,getirmek,çalıştı,çalışmak
+getirmek,getirir,çalışmak,çalışır
+getirir,getirmek,çalışır,çalışmak
+getirir,getirdi,çalışır,çalıştı
+getirdi,getirir,çalıştı,çalışır
+getirmek,getirdi,geliştirmek,geliştirdi
+getirdi,getirmek,geliştirdi,geliştirmek
+getirmek,getirir,geliştirmek,geliştirir
+getirir,getirmek,geliştirir,geliştirmek
+getirir,getirdi,geliştirir,geliştirdi
+getirdi,getirir,geliştirdi,geliştirir
+tanışmak,tanıştı,ulaşmak,ulaştı
+tanıştı,tanışmak,ulaştı,ulaşmak
+tanışmak,tanışır,ulaşmak,ulaşır
+tanışır,tanışmak,ulaşır,ulaşmak
+tanışır,tanıştı,ulaşır,ulaştı
+tanıştı,tanışır,ulaştı,ulaşır
+tanışmak,tanıştı,uzatmak,uzattı
+tanıştı,tanışmak,uzattı,uzatmak
+tanışmak,tanışır,uzatmak,uzatır
+tanışır,tanışmak,uzatır,uzatmak
+tanışır,tanıştı,uzatır,uzattı
+tanıştı,tanışır,uzattı,uzatır
+tanışmak,tanıştı,yükseltmek,yükseltti
+tanıştı,tanışmak,yükseltti,yükseltmek
+tanışmak,tanışır,yükseltmek,yükselir
+tanışır,tanışmak,yükselir,yükseltmek
+tanışır,tanıştı,yükselir,yükseltti
+tanıştı,tanışır,yükseltti,yükselir
+tanışmak,tanıştı,inşa etmek,inşa etti
+tanıştı,tanışmak,inşa etti,inşa etmek
+tanışmak,tanışır,inşa etmek,inşa eder
+tanışır,tanışmak,inşa eder,inşa etmek
+tanışır,tanıştı,inşa eder,inşa etti
+tanıştı,tanışır,inşa etti,inşa eder
+tanışmak,tanıştı,terfi etmek,terfi etti
+tanıştı,tanışmak,terfi etti,terfi etmek
+tanışmak,tanışır,terfi etmek,terfi eder
+tanışır,tanışmak,terfi eder,terfi etmek
+tanışır,tanıştı,terfi eder,terfi etti
+tanıştı,tanışır,terfi etti,terfi eder
+denemek,denedi,ödemek,ödedi
+denedi,denemek,ödedi,ödemek
+denemek,dener,ödemek,öder
+dener,denemek,öder,ödemek
+dener,denedi,öder,ödedi
+denedi,dener,ödedi,öder
+denemek,denedi,kutlamak,kutladı
+denedi,denemek,kutladı,kutlamak
+denemek,dener,kutlamak,Kutlar
+dener,denemek,Kutlar,kutlamak
+dener,denedi,Kutlar,kutladı
+denedi,dener,kutladı,Kutlar
+denemek,denedi,geliştirmek,geliştirdi
+denedi,denemek,geliştirdi,geliştirmek
+denemek,dener,geliştirmek,geliştirir
+dener,denemek,geliştirir,geliştirmek
+dener,denedi,geliştirir,geliştirdi
+denedi,dener,geliştirdi,geliştirir
+denemek,denedi,almak,aldı
+denedi,denemek,aldı,almak
+denemek,dener,almak,alır
+dener,denemek,alır,almak
+dener,denedi,alır,aldı
+denedi,dener,aldı,alır
+denemek,denedi,kaçınmak,kaçındı
+denedi,denemek,kaçındı,kaçınmak
+denemek,dener,kaçınmak,kaçınır
+dener,denemek,kaçınır,kaçınmak
+dener,denedi,kaçınır,kaçındı
+denedi,dener,kaçındı,kaçınır
+inşa etmek,inşa etti,bilmek,bildi
+inşa etti,inşa etmek,bildi,bilmek
+inşa etmek,inşa eder,bilmek,bilir
+inşa eder,inşa etmek,bilir,bilmek
+inşa eder,inşa etti,bilir,bildi
+inşa etti,inşa eder,bildi,bilir
+inşa etmek,inşa etti,getirmek,getirdi
+inşa etti,inşa etmek,getirdi,getirmek
+inşa etmek,inşa eder,getirmek,getirir
+inşa eder,inşa etmek,getirir,getirmek
+inşa eder,inşa etti,getirir,getirdi
+inşa etti,inşa eder,getirdi,getirir
+inşa etmek,inşa etti,tartışmak,tartıştı
+inşa etti,inşa etmek,tartıştı,tartışmak
+inşa etmek,inşa eder,tartışmak,tartışır
+inşa eder,inşa etmek,tartışır,tartışmak
+inşa eder,inşa etti,tartışır,tartıştı
+inşa etti,inşa eder,tartıştı,tartışır
+inşa etmek,inşa etti,satmak,sattı
+inşa etti,inşa etmek,sattı,satmak
+inşa etmek,inşa eder,satmak,satar
+inşa eder,inşa etmek,satar,satmak
+inşa eder,inşa etti,satar,sattı
+inşa etti,inşa eder,sattı,satar
+inşa etmek,inşa etti,takip etmek,takip etti
+inşa etti,inşa etmek,takip etti,takip etmek
+inşa etmek,inşa eder,takip etmek,takip eder
+inşa eder,inşa etmek,takip eder,takip etmek
+inşa eder,inşa etti,takip eder,takip etti
+inşa etti,inşa eder,takip etti,takip eder
+sağlamak,sağladı,tanışmak,tanıştı
+sağladı,sağlamak,tanıştı,tanışmak
+sağlamak,sağlar,tanışmak,tanışır
+sağlar,sağlamak,tanışır,tanışmak
+sağlar,sağladı,tanışır,tanıştı
+sağladı,sağlar,tanıştı,tanışır
+sağlamak,sağladı,gerekmek,gerekti
+sağladı,sağlamak,gerekti,gerekmek
+sağlamak,sağlar,gerekmek,gerekir
+sağlar,sağlamak,gerekir,gerekmek
+sağlar,sağladı,gerekir,gerekti
+sağladı,sağlar,gerekti,gerekir
+sağlamak,sağladı,çalışmak,çalıştı
+sağladı,sağlamak,çalıştı,çalışmak
+sağlamak,sağlar,çalışmak,çalışır
+sağlar,sağlamak,çalışır,çalışmak
+sağlar,sağladı,çalışır,çalıştı
+sağladı,sağlar,çalıştı,çalışır
+sağlamak,sağladı,bitmek,bitti
+sağladı,sağlamak,bitti,bitmek
+sağlamak,sağlar,bitmek,bitmek
+sağlar,sağlamak,bitmek,bitmek
+sağlar,sağladı,bitmek,bitti
+sağladı,sağlar,bitti,bitmek
+sağlamak,sağladı,değiştirmek,değiştirdi
+sağladı,sağlamak,değiştirdi,değiştirmek
+sağlamak,sağlar,değiştirmek,değiştirir
+sağlar,sağlamak,değiştirir,değiştirmek
+sağlar,sağladı,değiştirir,değiştirdi
+sağladı,sağlar,değiştirdi,değiştirir
+Bakmak,baktı,artırmak,artırdı
+baktı,Bakmak,artırdı,artırmak
+Bakmak,bakar,artırmak,artırılır
+bakar,Bakmak,artırılır,artırmak
+bakar,baktı,artırılır,artırdı
+baktı,bakar,artırdı,artırılır
+Bakmak,baktı,gözükmek,gözüktü
+baktı,Bakmak,gözüktü,gözükmek
+Bakmak,bakar,gözükmek,gözükür
+bakar,Bakmak,gözükür,gözükmek
+bakar,baktı,gözükür,gözüktü
+baktı,bakar,gözüktü,gözükür
+Bakmak,baktı,sağlamak,sağladı
+baktı,Bakmak,sağladı,sağlamak
+Bakmak,bakar,sağlamak,sağlar
+bakar,Bakmak,sağlar,sağlamak
+bakar,baktı,sağlar,sağladı
+baktı,bakar,sağladı,sağlar
+Bakmak,baktı,belirlemek,belirledi
+baktı,Bakmak,belirledi,belirlemek
+Bakmak,bakar,belirlemek,belirler
+bakar,Bakmak,belirler,belirlemek
+bakar,baktı,belirler,belirledi
+baktı,bakar,belirledi,belirler
+Bakmak,baktı,hissetmek,hissetti
+baktı,Bakmak,hissetti,hissetmek
+Bakmak,bakar,hissetmek,hisseder
+bakar,Bakmak,hisseder,hissetmek
+bakar,baktı,hisseder,hissetti
+baktı,bakar,hissetti,hisseder
+yaratmak,yarattı,kazanmak,kazandı
+yarattı,yaratmak,kazandı,kazanmak
+yaratmak,yaratır,kazanmak,kazanır
+yaratır,yaratmak,kazanır,kazanmak
+yaratır,yarattı,kazanır,kazandı
+yarattı,yaratır,kazandı,kazanır
+yaratmak,yarattı,yardım etmek,yardım etti
+yarattı,yaratmak,yardım etti,yardım etmek
+yaratmak,yaratır,yardım etmek,yardım eder
+yaratır,yaratmak,yardım eder,yardım etmek
+yaratır,yarattı,yardım eder,yardım etti
+yarattı,yaratır,yardım etti,yardım eder
+yaratmak,yarattı,yaşamak,yaşadı
+yarattı,yaratmak,yaşadı,yaşamak
+yaratmak,yaratır,yaşamak,yaşar
+yaratır,yaratmak,yaşar,yaşamak
+yaratır,yarattı,yaşar,yaşadı
+yarattı,yaratır,yaşadı,yaşar
+yaratmak,yarattı,olmak,oldu
+yarattı,yaratmak,oldu,olmak
+yaratmak,yaratır,olmak,olur
+yaratır,yaratmak,olur,olmak
+yaratır,yarattı,olur,oldu
+yarattı,yaratır,oldu,olur
+yaratmak,yarattı,sahip,sahipti
+yarattı,yaratmak,sahipti,sahip
+yaratmak,yaratır,sahip,sahip
+yaratır,yaratmak,sahip,sahip
+yaratır,yarattı,sahip,sahipti
+yarattı,yaratır,sahipti,sahip
+başlamak,başladı,Bakmak,baktı
+başladı,başlamak,baktı,Bakmak
+başlamak,başlar,Bakmak,bakar
+başlar,başlamak,bakar,Bakmak
+başlar,başladı,bakar,baktı
+başladı,başlar,baktı,bakar
+başlamak,başladı,yaşamak,yaşadı
+başladı,başlamak,yaşadı,yaşamak
+başlamak,başlar,yaşamak,yaşar
+başlar,başlamak,yaşar,yaşamak
+başlar,başladı,yaşar,yaşadı
+başladı,başlar,yaşadı,yaşar
+başlamak,başladı,korumak,korudu
+başladı,başlamak,korudu,korumak
+başlamak,başlar,korumak,korur
+başlar,başlamak,korur,korumak
+başlar,başladı,korur,korudu
+başladı,başlar,korudu,korur
+başlamak,başladı,dönmek,döndü
+başladı,başlamak,döndü,dönmek
+başlamak,başlar,dönmek,döner
+başlar,başlamak,döner,dönmek
+başlar,başladı,döner,döndü
+başladı,başlar,döndü,döner
+başlamak,başladı,aramak,aradı
+başladı,başlamak,aradı,aramak
+başlamak,başlar,aramak,arar
+başlar,başlamak,arar,aramak
+başlar,başladı,arar,aradı
+başladı,başlar,aradı,arar
+göstermek,gösterdi,izin vermek,izin verdi
+gösterdi,göstermek,izin verdi,izin vermek
+göstermek,gösterir,izin vermek,izin verir
+gösterir,göstermek,izin verir,izin vermek
+gösterir,gösterdi,izin verir,izin verdi
+gösterdi,gösterir,izin verdi,izin verir
+göstermek,gösterdi,uzatmak,uzattı
+gösterdi,göstermek,uzattı,uzatmak
+göstermek,gösterir,uzatmak,uzatır
+gösterir,göstermek,uzatır,uzatmak
+gösterir,gösterdi,uzatır,uzattı
+gösterdi,gösterir,uzattı,uzatır
+göstermek,gösterdi,gözükmek,gözüktü
+gösterdi,göstermek,gözüktü,gözükmek
+göstermek,gösterir,gözükmek,gözükür
+gösterir,göstermek,gözükür,gözükmek
+gösterir,gösterdi,gözükür,gözüktü
+gösterdi,gösterir,gözüktü,gözükür
+göstermek,gösterdi,gerekmek,gerekti
+gösterdi,göstermek,gerekti,gerekmek
+göstermek,gösterir,gerekmek,gerekir
+gösterir,göstermek,gerekir,gerekmek
+gösterir,gösterdi,gerekir,gerekti
+gösterdi,gösterir,gerekti,gerekir
+göstermek,gösterdi,söylemek,söyledi
+gösterdi,göstermek,söyledi,söylemek
+göstermek,gösterir,söylemek,söyler
+gösterir,göstermek,söyler,söylemek
+gösterir,gösterdi,söyler,söyledi
+gösterdi,gösterir,söyledi,söyler
+taşınmak,taşındı,elde etmek,elde etti
+taşındı,taşınmak,elde etti,elde etmek
+taşınmak,taşınır,elde etmek,elde eder
+taşınır,taşınmak,elde eder,elde etmek
+taşınır,taşındı,elde eder,elde etti
+taşındı,taşınır,elde etti,elde eder
+taşınmak,taşındı,sormak,sordu
+taşındı,taşınmak,sordu,sormak
+taşınmak,taşınır,sormak,sorar
+taşınır,taşınmak,sorar,sormak
+taşınır,taşındı,sorar,sordu
+taşındı,taşınır,sordu,sorar
+taşınmak,taşındı,çalışmak,çalıştı
+taşındı,taşınmak,çalıştı,çalışmak
+taşınmak,taşınır,çalışmak,çalışır
+taşınır,taşınmak,çalışır,çalışmak
+taşınır,taşındı,çalışır,çalıştı
+taşındı,taşınır,çalıştı,çalışır
+taşınmak,taşındı,korumak,korudu
+taşındı,taşınmak,korudu,korumak
+taşınmak,taşınır,korumak,korur
+taşınır,taşınmak,korur,korumak
+taşınır,taşındı,korur,korudu
+taşındı,taşınır,korudu,korur
+taşınmak,taşındı,görmek,gördü
+taşındı,taşınmak,gördü,görmek
+taşınmak,taşınır,görmek,görür
+taşınır,taşınmak,görür,görmek
+taşınır,taşındı,görür,gördü
+taşındı,taşınır,gördü,görür
+terfi etmek,terfi etti,ayrılmak,ayrıldı
+terfi etti,terfi etmek,ayrıldı,ayrılmak
+terfi etmek,terfi eder,ayrılmak,ayrılır
+terfi eder,terfi etmek,ayrılır,ayrılmak
+terfi eder,terfi etti,ayrılır,ayrıldı
+terfi etti,terfi eder,ayrıldı,ayrılır
+terfi etmek,terfi etti,elemek,eledi
+terfi etti,terfi etmek,eledi,elemek
+terfi etmek,terfi eder,elemek,eler
+terfi eder,terfi etmek,eler,elemek
+terfi eder,terfi etti,eler,eledi
+terfi etti,terfi eder,eledi,eler
+terfi etmek,terfi etti,karar vermek,karar verdi
+terfi etti,terfi etmek,karar verdi,karar vermek
+terfi etmek,terfi eder,karar vermek,karar verir
+terfi eder,terfi etmek,karar verir,karar vermek
+terfi eder,terfi etti,karar verir,karar verdi
+terfi etti,terfi eder,karar verdi,karar verir
+terfi etmek,terfi etti,korumak,korudu
+terfi etti,terfi etmek,korudu,korumak
+terfi etmek,terfi eder,korumak,korur
+terfi eder,terfi etmek,korur,korumak
+terfi eder,terfi etti,korur,korudu
+terfi etti,terfi eder,korudu,korur
+terfi etmek,terfi etti,neden olmak,neden oldu
+terfi etti,terfi etmek,neden oldu,neden olmak
+terfi etmek,terfi eder,neden olmak,neden olur
+terfi eder,terfi etmek,neden olur,neden olmak
+terfi eder,terfi etti,neden olur,neden oldu
+terfi etti,terfi eder,neden oldu,neden olur
+koşmak,koştu,uzatmak,uzattı
+koştu,koşmak,uzattı,uzatmak
+koşmak,koşar,uzatmak,uzatır
+koşar,koşmak,uzatır,uzatmak
+koşar,koştu,uzatır,uzattı
+koştu,koşar,uzattı,uzatır
+koşmak,koştu,Gelmek,geldi
+koştu,koşmak,geldi,Gelmek
+koşmak,koşar,Gelmek,gelir
+koşar,koşmak,gelir,Gelmek
+koşar,koştu,gelir,geldi
+koştu,koşar,geldi,gelir
+koşmak,koştu,almak,aldı
+koştu,koşmak,aldı,almak
+koşmak,koşar,almak,alır
+koşar,koşmak,alır,almak
+koşar,koştu,alır,aldı
+koştu,koşar,aldı,alır
+koşmak,koştu,başlamak,başladı
+koştu,koşmak,başladı,başlamak
+koşmak,koşar,başlamak,başlar
+koşar,koşmak,başlar,başlamak
+koşar,koştu,başlar,başladı
+koştu,koşar,başladı,başlar
+koşmak,koştu,tanımak,tanıdı
+koştu,koşmak,tanıdı,tanımak
+koşmak,koşar,tanımak,tanır
+koşar,koşmak,tanır,tanımak
+koşar,koştu,tanır,tanıdı
+koştu,koşar,tanıdı,tanır
+çalışmak,çalıştı,artırmak,artırdı
+çalıştı,çalışmak,artırdı,artırmak
+çalışmak,çalışır,artırmak,artırılır
+çalışır,çalışmak,artırılır,artırmak
+çalışır,çalıştı,artırılır,artırdı
+çalıştı,çalışır,artırdı,artırılır
+çalışmak,çalıştı,kanıtlamak,kanıtladı
+çalıştı,çalışmak,kanıtladı,kanıtlamak
+çalışmak,çalışır,kanıtlamak,kanıtlar
+çalışır,çalışmak,kanıtlar,kanıtlamak
+çalışır,çalıştı,kanıtlar,kanıtladı
+çalıştı,çalışır,kanıtladı,kanıtlar
+çalışmak,çalıştı,yükseltmek,yükseltti
+çalıştı,çalışmak,yükseltti,yükseltmek
+çalışmak,çalışır,yükseltmek,yükselir
+çalışır,çalışmak,yükselir,yükseltmek
+çalışır,çalıştı,yükselir,yükseltti
+çalıştı,çalışır,yükseltti,yükselir
+çalışmak,çalıştı,belirlemek,belirledi
+çalıştı,çalışmak,belirledi,belirlemek
+çalışmak,çalışır,belirlemek,belirler
+çalışır,çalışmak,belirler,belirlemek
+çalışır,çalıştı,belirler,belirledi
+çalıştı,çalışır,belirledi,belirler
+çalışmak,çalıştı,olmak,oldu
+çalıştı,çalışmak,oldu,olmak
+çalışmak,çalışır,olmak,olur
+çalışır,çalışmak,olur,olmak
+çalışır,çalıştı,olur,oldu
+çalıştı,çalışır,oldu,olur
+elemek,eledi,çözmek,çözdü
+eledi,elemek,çözdü,çözmek
+elemek,eler,çözmek,çözer
+eler,elemek,çözer,çözmek
+eler,eledi,çözer,çözdü
+eledi,eler,çözdü,çözer
+elemek,eledi,kazanmak,kazandı
+eledi,elemek,kazandı,kazanmak
+elemek,eler,kazanmak,kazanır
+eler,elemek,kazanır,kazanmak
+eler,eledi,kazanır,kazandı
+eledi,eler,kazandı,kazanır
+elemek,eledi,katılmak,katıldı
+eledi,elemek,katıldı,katılmak
+elemek,eler,katılmak,katılır
+eler,elemek,katılır,katılmak
+eler,eledi,katılır,katıldı
+eledi,eler,katıldı,katılır
+elemek,eledi,görmek,gördü
+eledi,elemek,gördü,görmek
+elemek,eler,görmek,görür
+eler,elemek,görür,görmek
+eler,eledi,görür,gördü
+eledi,eler,gördü,görür
+elemek,eledi,geliştirmek,geliştirdi
+eledi,elemek,geliştirdi,geliştirmek
+elemek,eler,geliştirmek,geliştirir
+eler,elemek,geliştirir,geliştirmek
+eler,eledi,geliştirir,geliştirdi
+eledi,eler,geliştirdi,geliştirir
+dönmek,döndü,denemek,denedi
+döndü,dönmek,denedi,denemek
+dönmek,döner,denemek,dener
+döner,dönmek,dener,denemek
+döner,döndü,dener,denedi
+döndü,döner,denedi,dener
+dönmek,döndü,Bakmak,baktı
+döndü,dönmek,baktı,Bakmak
+dönmek,döner,Bakmak,bakar
+döner,dönmek,bakar,Bakmak
+döner,döndü,bakar,baktı
+döndü,döner,baktı,bakar
+dönmek,döndü,belirlemek,belirledi
+döndü,dönmek,belirledi,belirlemek
+dönmek,döner,belirlemek,belirler
+döner,dönmek,belirler,belirlemek
+döner,döndü,belirler,belirledi
+döndü,döner,belirledi,belirler
+dönmek,döndü,almak,aldı
+döndü,dönmek,aldı,almak
+dönmek,döner,almak,alır
+döner,dönmek,alır,almak
+döner,döndü,alır,aldı
+döndü,döner,aldı,alır
+dönmek,döndü,söylemek,söyledi
+döndü,dönmek,söyledi,söylemek
+dönmek,döner,söylemek,söyler
+döner,dönmek,söyler,söylemek
+döner,döndü,söyler,söyledi
+döndü,döner,söyledi,söyler
+azaltmak,azalttı,yaşamak,yaşadı
+azalttı,azaltmak,yaşadı,yaşamak
+azaltmak,azaltır,yaşamak,yaşar
+azaltır,azaltmak,yaşar,yaşamak
+azaltır,azalttı,yaşar,yaşadı
+azalttı,azaltır,yaşadı,yaşar
+azaltmak,azalttı,ödemek,ödedi
+azalttı,azaltmak,ödedi,ödemek
+azaltmak,azaltır,ödemek,öder
+azaltır,azaltmak,öder,ödemek
+azaltır,azalttı,öder,ödedi
+azalttı,azaltır,ödedi,öder
+azaltmak,azalttı,yükseltmek,yükseltti
+azalttı,azaltmak,yükseltti,yükseltmek
+azaltmak,azaltır,yükseltmek,yükselir
+azaltır,azaltmak,yükselir,yükseltmek
+azaltır,azalttı,yükselir,yükseltti
+azalttı,azaltır,yükseltti,yükselir
+azaltmak,azalttı,olmak,oldu
+azalttı,azaltmak,oldu,olmak
+azaltmak,azaltır,olmak,olur
+azaltır,azaltmak,olur,olmak
+azaltır,azalttı,olur,oldu
+azalttı,azaltır,oldu,olur
+azaltmak,azalttı,bulmak,buldu
+azalttı,azaltmak,buldu,bulmak
+azaltmak,azaltır,bulmak,bulur
+azaltır,azaltmak,bulur,bulmak
+azaltır,azalttı,bulur,buldu
+azalttı,azaltır,buldu,bulur
+satın almak,satın aldı,üretmek,üretti
+satın aldı,satın almak,üretti,üretmek
+satın almak,satın alır,üretmek,üretir
+satın alır,satın almak,üretir,üretmek
+satın alır,satın aldı,üretir,üretti
+satın aldı,satın alır,üretti,üretir
+satın almak,satın aldı,açmak,açtı
+satın aldı,satın almak,açtı,açmak
+satın almak,satın alır,açmak,açar
+satın alır,satın almak,açar,açmak
+satın alır,satın aldı,açar,açtı
+satın aldı,satın alır,açtı,açar
+satın almak,satın aldı,kalmak,kaldı
+satın aldı,satın almak,kaldı,kalmak
+satın almak,satın alır,kalmak,kalır
+satın alır,satın almak,kalır,kalmak
+satın alır,satın aldı,kalır,kaldı
+satın aldı,satın alır,kaldı,kalır
+satın almak,satın aldı,sağlamak,sağlandı
+satın aldı,satın almak,sağlandı,sağlamak
+satın almak,satın alır,sağlamak,sağlar
+satın alır,satın almak,sağlar,sağlamak
+satın alır,satın aldı,sağlar,sağlandı
+satın aldı,satın alır,sağlandı,sağlar
+satın almak,satın aldı,söylemek,söyledi
+satın aldı,satın almak,söyledi,söylemek
+satın almak,satın alır,söylemek,söyler
+satın alır,satın almak,söyler,söylemek
+satın alır,satın aldı,söyler,söyledi
+satın aldı,satın alır,söyledi,söyler
+korumak,korudu,kazanmak,kazandı
+korudu,korumak,kazandı,kazanmak
+korumak,korur,kazanmak,kazanır
+korur,korumak,kazanır,kazanmak
+korur,korudu,kazanır,kazandı
+korudu,korur,kazandı,kazanır
+korumak,korudu,katılmak,katıldı
+korudu,korumak,katıldı,katılmak
+korumak,korur,katılmak,katılır
+korur,korumak,katılır,katılmak
+korur,korudu,katılır,katıldı
+korudu,korur,katıldı,katılır
+korumak,korudu,kalmak,kaldı
+korudu,korumak,kaldı,kalmak
+korumak,korur,kalmak,kalır
+korur,korumak,kalır,kalmak
+korur,korudu,kalır,kaldı
+korudu,korur,kaldı,kalır
+korumak,korudu,göstermek,gösterdi
+korudu,korumak,gösterdi,göstermek
+korumak,korur,göstermek,gösterir
+korur,korumak,gösterir,göstermek
+korur,korudu,gösterir,gösterdi
+korudu,korur,gösterdi,gösterir
+korumak,korudu,azaltmak,azalttı
+korudu,korumak,azalttı,azaltmak
+korumak,korur,azaltmak,azaltır
+korur,korumak,azaltır,azaltmak
+korur,korudu,azaltır,azalttı
+korudu,korur,azalttı,azaltır
+korumak,korudu,kazanmak,kazandı
+korudu,korumak,kazandı,kazanmak
+korumak,korur,kazanmak,kazanır
+korur,korumak,kazanır,kazanmak
+korur,korudu,kazanır,kazandı
+korudu,korur,kazandı,kazanır
+korumak,korudu,ödemek,ödedi
+korudu,korumak,ödedi,ödemek
+korumak,korur,öder,ödemek
+korur,korumak,ödemek,öder
+korur,korudu,öder,ödedi
+korudu,korur,ödedi,öder
+korumak,korudu,vermek,verdi
+korudu,korumak,verdi,vermek
+korumak,korur,vermek,verir
+korur,korumak,verir,vermek
+korur,korudu,verir,verdi
+korudu,korur,verdi,verir
+korumak,korudu,kaydetmek,kaydetti
+korudu,korumak,kaydetti,kaydetmek
+korumak,korur,kaydetmek,kaydeder
+korur,korumak,kaydeder,kaydetmek
+korur,korudu,kaydeder,kaydetti
+korudu,korur,kaydetti,kaydeder
+korumak,korudu,değiştirmek,değiştirdi
+korudu,korumak,değiştirdi,değiştirmek
+korumak,korur,değiştirmek,değiştirir
+korur,korumak,değiştirir,değiştirmek
+korur,korudu,değiştirir,değiştirdi
+korudu,korur,değiştirdi,değiştirir
+durmak,durdu,kalmak,kaldı
+durdu,durmak,kaldı,kalmak
+durmak,durur,kalmak,kalır
+durur,durmak,kalır,kalmak
+durur,durdu,kalır,kaldı
+durdu,durur,kaldı,kalır
+durmak,durdu,katılmak,katıldı
+durdu,durmak,katıldı,katılmak
+durmak,durur,katılmak,katılır
+durur,durmak,katılır,katılmak
+durur,durdu,katılır,katıldı
+durdu,durur,katıldı,katılır
+durmak,durdu,yaratmak,yarattı
+durdu,durmak,yarattı,yaratmak
+durmak,durur,yaratmak,yaratır
+durur,durmak,yaratır,yaratmak
+durur,durdu,yaratır,yarattı
+durdu,durur,yarattı,yaratır
+durmak,durdu,koşmak,koştu
+durdu,durmak,koştu,koşmak
+durmak,durur,koşmak,koşar
+durur,durmak,koşar,koşmak
+durur,durdu,koşar,koştu
+durdu,durur,koştu,koşar
+durmak,durdu,bulmak,bulur
+durdu,durmak,bulur,bulmak
+durmak,durur,bulmak,bulur
+durur,durmak,bulur,bulmak
+durur,durdu,bulur,bulur
+durdu,durur,bulur,bulur
+dikkate almak,dikkate aldı,kanıtlamak,kanıtladı
+dikkate aldı,dikkate almak,kanıtladı,kanıtlamak
+dikkate almak,dikkate alır,kanıtlamak,kanıtlar
+dikkate alır,dikkate almak,kanıtlar,kanıtlamak
+dikkate alır,dikkate aldı,kanıtlar,kanıtladı
+dikkate aldı,dikkate alır,kanıtladı,kanıtlar
+dikkate almak,dikkate aldı,üretmek,üretti
+dikkate aldı,dikkate almak,üretti,üretmek
+dikkate almak,dikkate alır,üretmek,üretir
+dikkate alır,dikkate almak,üretir,üretmek
+dikkate alır,dikkate aldı,üretir,üretti
+dikkate aldı,dikkate alır,üretti,üretir
+dikkate almak,dikkate aldı,elemek,eledi
+dikkate aldı,dikkate almak,eledi,elemek
+dikkate almak,dikkate alır,elemek,eler
+dikkate alır,dikkate almak,eler,elemek
+dikkate alır,dikkate aldı,eler,eledi
+dikkate aldı,dikkate alır,eledi,eler
+dikkate almak,dikkate aldı,çalışmak,çalıştı
+dikkate aldı,dikkate almak,çalıştı,çalışmak
+dikkate almak,dikkate alır,çalışmak,çalışır
+dikkate alır,dikkate almak,çalışır,çalışmak
+dikkate alır,dikkate aldı,çalışır,çalıştı
+dikkate aldı,dikkate alır,çalıştı,çalışır
+dikkate almak,dikkate aldı,Karşılamak,karşıladı
+dikkate aldı,dikkate almak,karşıladı,Karşılamak
+dikkate almak,dikkate alır,Karşılamak,karşılar
+dikkate alır,dikkate almak,karşılar,Karşılamak
+dikkate alır,dikkate aldı,karşılar,karşıladı
+dikkate aldı,dikkate alır,karşıladı,karşılar
+kaçınmak,kaçındı,olmak,oldu
+kaçındı,kaçınmak,oldu,olmak
+kaçınmak,kaçınır,olmak,olur
+kaçınır,kaçınmak,olur,olmak
+kaçınır,kaçındı,olur,oldu
+kaçındı,kaçınır,oldu,olur
+kaçınmak,kaçındı,Karşılamak,karşıladı
+kaçındı,kaçınmak,karşıladı,Karşılamak
+kaçınmak,kaçınır,Karşılamak,karşılar
+kaçınır,kaçınmak,karşılar,Karşılamak
+kaçınır,kaçındı,karşılar,karşıladı
+kaçındı,kaçınır,karşıladı,karşılar
+kaçınmak,kaçındı,çalışmak,çalıştı
+kaçındı,kaçınmak,çalıştı,çalışmak
+kaçınmak,kaçınır,çalışmak,çalışır
+kaçınır,kaçınmak,çalışır,çalışmak
+kaçınır,kaçındı,çalışır,çalıştı
+kaçındı,kaçınır,çalıştı,çalışır
+kaçınmak,kaçındı,azaltmak,azalttı
+kaçındı,kaçınmak,azalttı,azaltmak
+kaçınmak,kaçınır,azaltmak,azaltır
+kaçınır,kaçınmak,azaltır,azaltmak
+kaçınır,kaçındı,azaltır,azalttı
+kaçındı,kaçınır,azalttı,azaltır
+kaçınmak,kaçındı,dönmek,döndü
+kaçındı,kaçınmak,döndü,dönmek
+kaçınmak,kaçınır,dönmek,döner
+kaçınır,kaçınmak,döner,dönmek
+kaçınır,kaçındı,döner,döndü
+kaçındı,kaçınır,döndü,döner
+değişmek,değiştirdi,yükseltmek,yükseltti
+değiştirdi,değişmek,yükseltti,yükseltmek
+değişmek,değişir,yükseltmek,yükselir
+değişir,değişmek,yükselir,yükseltmek
+değişir,değiştirdi,yükselir,yükseltti
+değiştirdi,değişir,yükseltti,yükselir
+değişmek,değiştirdi,dönmek,döndü
+değiştirdi,değişmek,döndü,dönmek
+değişmek,değişir,dönmek,döner
+değişir,değişmek,döner,dönmek
+değişir,değiştirdi,döner,döndü
+değiştirdi,değişir,döndü,döner
+değişmek,değiştirdi,söylemek,söyledi
+değiştirdi,değişmek,söyledi,söylemek
+değişmek,değişir,söylemek,söyler
+değişir,değişmek,söyler,söylemek
+değişir,değiştirdi,söyler,söyledi
+değiştirdi,değişir,söyledi,söyler
+değişmek,değiştirdi,kaydetmek,kaydetti
+değiştirdi,değişmek,kaydetti,kaydetmek
+değişmek,değişir,kaydetmek,kaydeder
+değişir,değişmek,kaydeder,kaydetmek
+değişir,değiştirdi,kaydeder,kaydetti
+değiştirdi,değişir,kaydetti,kaydeder
+değişmek,değiştirdi,takip etmek,takip etti
+değiştirdi,değişmek,takip etti,takip etmek
+değişmek,değişir,takip etmek,takip etmek
+değişir,değişmek,takip etmek,takip etmek
+değişir,değiştirdi,takip etmek,takip etti
+değiştirdi,değişir,takip etti,takip etmek
+başlamak,başladı,üretmek,üretti
+başladı,başlamak,üretti,üretmek
+başlamak,başlar,üretmek,üretir
+başlar,başlamak,üretir,üretmek
+başlar,başladı,üretir,üretti
+başladı,başlar,üretti,üretir
+başlamak,başladı,kanıtlamak,kanıtladı
+başladı,başlamak,kanıtladı,kanıtlamak
+başlamak,başlar,kanıtlamak,kanıtlar
+başlar,başlamak,kanıtlar,kanıtlamak
+başlar,başladı,kanıtlar,kanıtladı
+başladı,başlar,kanıtladı,kanıtlar
+başlamak,başladı,tanışmak,tanıştı
+başladı,başlamak,tanıştı,tanışmak
+başlamak,başlar,tanışmak,tanışır
+başlar,başlamak,tanışır,tanışmak
+başlar,başladı,tanışır,tanıştı
+başladı,başlar,tanıştı,tanışır
+başlamak,başladı,kullanmak,kullandı
+başladı,başlamak,kullandı,kullanmak
+başlamak,başlar,kullanmak,kullanır
+başlar,başlamak,kullanır,kullanmak
+başlar,başladı,kullanır,kullandı
+başladı,başlar,kullandı,kullanır
+başlamak,başladı,olmak,oldu
+başladı,başlamak,oldu,olmak
+başlamak,başlar,olmak,olur
+başlar,başlamak,olur,olmak
+başlar,başladı,olur,oldu
+başladı,başlar,oldu,olur
+hissetmek,hissetti,kanıtlamak,kanıtladı
+hissetti,hissetmek,kanıtladı,kanıtlamak
+hissetmek,hisseder,kanıtlamak,kanıtlar
+hisseder,hissetmek,kanıtlar,kanıtlamak
+hisseder,hissetti,kanıtlar,kanıtladı
+hissetti,hisseder,kanıtladı,kanıtlar
+hissetmek,hissetti,getirmek,getirdi
+hissetti,hissetmek,getirdi,getirmek
+hissetmek,hisseder,getirmek,getirir
+hisseder,hissetmek,getirir,getirmek
+hisseder,hissetti,getirir,getirdi
+hissetti,hisseder,getirdi,getirir
+hissetmek,hissetti,belirlemek,belirledi
+hissetti,hissetmek,belirledi,belirlemek
+hissetmek,hisseder,belirlemek,belirler
+hisseder,hissetmek,belirler,belirlemek
+hisseder,hissetti,belirler,belirledi
+hissetti,hisseder,belirledi,belirler
+hissetmek,hissetti,karar vermek,karar verdi
+hissetti,hissetmek,karar verdi,karar vermek
+hissetmek,hisseder,karar vermek,karar verir
+hisseder,hissetmek,karar verir,karar vermek
+hisseder,hissetti,karar verir,karar verdi
+hissetti,hisseder,karar verdi,karar verir
+hissetmek,hissetti,takip etmek,takip etti
+hissetti,hissetmek,takip etti,takip etmek
+hissetmek,hisseder,takip etmek,takip eder
+hisseder,hissetmek,takip eder,takip etmek
+hisseder,hissetti,takip eder,takip etti
+hissetti,hisseder,takip etti,takip eder
+satmak,sattı,çözmek,çözdü
+sattı,satmak,çözdü,çözmek
+satmak,satar,çözmek,çözer
+satar,satmak,çözer,çözmek
+satar,sattı,çözer,çözdü
+sattı,satar,çözdü,çözer
+satmak,sattı,kazanmak,kazandı
+sattı,satmak,kazandı,kazanmak
+satmak,satar,kazanmak,kazanır
+satar,satmak,kazanır,kazanmak
+satar,sattı,kazanır,kazandı
+sattı,satar,kazandı,kazanır
+satmak,sattı,satın almak,satın aldı
+sattı,satmak,satın aldı,satın almak
+satmak,satar,satın almak,satın alır
+satar,satmak,satın alır,satın almak
+satar,sattı,satın alır,satın aldı
+sattı,satar,satın aldı,satın alır
+satmak,sattı,çalışmak,çalıştı
+sattı,satmak,çalıştı,çalışmak
+satmak,satar,çalışmak,çalışır
+satar,satmak,çalışır,çalışmak
+satar,sattı,çalışır,çalıştı
+sattı,satar,çalıştı,çalışır
+satmak,sattı,beğenmek,beğendi
+sattı,satmak,beğendi,beğenmek
+satmak,satar,beğenmek,beğenir
+satar,satmak,beğenir,beğenmek
+satar,sattı,beğenir,beğendi
+sattı,satar,beğendi,beğenir
+kalmak,kaldı,elemek,eledi
+kaldı,kalmak,eledi,elemek
+kalmak,kalır,elemek,eler
+kalır,kalmak,eler,elemek
+kalır,kaldı,eler,eledi
+kaldı,kalır,eledi,eler
+kalmak,kaldı,neden olmak,neden oldu
+kaldı,kalmak,neden oldu,neden olmak
+kalmak,kalır,neden olmak,neden olur
+kalır,kalmak,neden olur,neden olmak
+kalır,kaldı,neden olur,neden oldu
+kaldı,kalır,neden oldu,neden olur
+kalmak,kaldı,bitmek,bitti
+kaldı,kalmak,bitti,bitmek
+kalmak,kalır,bitmek,bitmek
+kalır,kalmak,bitmek,bitmek
+kalır,kaldı,bitmek,bitti
+kaldı,kalır,bitti,bitmek
+kalmak,kaldı,kaydetmek,kaydetti
+kaldı,kalmak,kaydetti,kaydetmek
+kalmak,kalır,kaydetmek,kaydeder
+kalır,kalmak,kaydeder,kaydetmek
+kalır,kaldı,kaydeder,kaydetti
+kaldı,kalır,kaydetti,kaydeder
+kalmak,kaldı,hizmet etmek,hizmet etti
+kaldı,kalmak,hizmet etti,hizmet etmek
+kalmak,kalır,hizmet etmek,hizmet eder
+kalır,kalmak,hizmet eder,hizmet etmek
+kalır,kaldı,hizmet eder,hizmet etti
+kaldı,kalır,hizmet etti,hizmet eder
+uzatmak,uzattı,yaşamak,yaşadı
+uzattı,uzatmak,yaşadı,yaşamak
+uzatmak,uzatır,yaşamak,yaşar
+uzatır,uzatmak,yaşar,yaşamak
+uzatır,uzattı,yaşar,yaşadı
+uzattı,uzatır,yaşadı,yaşar
+uzatmak,uzattı,Gitmek,gitti
+uzattı,uzatmak,gitti,Gitmek
+uzatmak,uzatır,Gitmek,gider
+uzatır,uzatmak,gider,Gitmek
+uzatır,uzattı,gider,gitti
+uzattı,uzatır,gitti,gider
+uzatmak,uzattı,karar vermek,karar verdi
+uzattı,uzatmak,karar verdi,karar vermek
+uzatmak,uzatır,karar vermek,karar verir
+uzatır,uzatmak,karar verir,karar vermek
+uzatır,uzattı,karar verir,karar verdi
+uzattı,uzatır,karar verdi,karar verir
+uzatmak,uzattı,anlamak,anladı
+uzattı,uzatmak,anladı,anlamak
+uzatmak,uzatır,anlamak,anlar
+uzatır,uzatmak,anlar,anlamak
+uzatır,uzattı,anlar,anladı
+uzattı,uzatır,anladı,anlar
+uzatmak,uzattı,hizmet etmek,hizmet etti
+uzattı,uzatmak,hizmet etti,hizmet etmek
+uzatmak,uzatır,hizmet etmek,hizmet eder
+uzatır,uzatmak,hizmet eder,hizmet etmek
+uzatır,uzattı,hizmet eder,hizmet etti
+uzattı,uzatır,hizmet etti,hizmet eder
+söylemek,söyledi,kalmak,kaldı
+söyledi,söylemek,kaldı,kalmak
+söylemek,söyler,kalmak,kalır
+söyler,söylemek,kalır,kalmak
+söyler,söyledi,kalır,kaldı
+söyledi,söyler,kaldı,kalır
+söylemek,söyledi,yardım etmek,yardım etti
+söyledi,söylemek,yardım etti,yardım etmek
+söylemek,söyler,yardım etmek,yardım eder
+söyler,söylemek,yardım eder,yardım etmek
+söyler,söyledi,yardım eder,yardım etti
+söyledi,söyler,yardım etti,yardım eder
+söylemek,söyledi,gözükmek,gözüktü
+söyledi,söylemek,gözüktü,gözükmek
+söylemek,söyler,gözükmek,gözükür
+söyler,söylemek,gözükür,gözükmek
+söyler,söyledi,gözükür,gözüktü
+söyledi,söyler,gözüktü,gözükür
+söylemek,söyledi,tutmak,tuttu
+söyledi,söylemek,tuttu,tutmak
+söylemek,söyler,tutmak,tutar
+söyler,söylemek,tutar,tutmak
+söyler,söyledi,tutar,tuttu
+söyledi,söyler,tuttu,tutar
+söylemek,söyledi,söylemek,söyledi
+söyledi,söylemek,söyledi,söylemek
+söylemek,söyler,söylemek,söyler
+söyler,söylemek,söyler,söylemek
+söyler,söyledi,söyler,söyledi
+söyledi,söyler,söyledi,söyler
+tutmak,tuttu,izin vermek,izin verdi
+tuttu,tutmak,izin verdi,izin vermek
+tutmak,tutar,izin vermek,izin verir
+tutar,tutmak,izin verir,izin vermek
+tutar,tuttu,izin verir,izin verdi
+tuttu,tutar,izin verdi,izin verir
+tutmak,tuttu,Gelmek,geldi
+tuttu,tutmak,geldi,Gelmek
+tutmak,tutar,Gelmek,gelir
+tutar,tutmak,gelir,Gelmek
+tutar,tuttu,gelir,geldi
+tuttu,tutar,geldi,gelir
+tutmak,tuttu,kalmak,kaldı
+tuttu,tutmak,kaldı,kalmak
+tutmak,tutar,kalmak,kalır
+tutar,tutmak,kalır,kalmak
+tutar,tuttu,kalır,kaldı
+tuttu,tutar,kaldı,kalır
+tutmak,tuttu,almak,aldı
+tuttu,tutmak,aldı,almak
+tutmak,tutar,almak,alır
+tutar,tutmak,alır,almak
+tutar,tuttu,alır,aldı
+tuttu,tutar,aldı,alır
+tutmak,tuttu,kaçınmak,kaçındı
+tuttu,tutmak,kaçındı,kaçınmak
+tutmak,tutar,kaçınmak,kaçınır
+tutar,tutmak,kaçınır,kaçınmak
+tutar,tuttu,kaçınır,kaçındı
+tuttu,tutar,kaçındı,kaçınır
+katmak,kattı,kazanmak,kazandı
+kattı,katmak,kazandı,kazanmak
+katmak,katar,kazanmak,kazanır
+katar,katmak,kazanır,kazanmak
+katar,kattı,kazanır,kazandı
+kattı,katar,kazandı,kazanır
+katmak,kattı,kalmak,kaldı
+kattı,katmak,kaldı,kalmak
+katmak,katar,kalmak,kalır
+katar,katmak,kalır,kalmak
+katar,kattı,kalır,kaldı
+kattı,katar,kaldı,kalır
+katmak,kattı,çalışmak,çalıştı
+kattı,katmak,çalıştı,çalışmak
+katmak,katar,çalışmak,çalışır
+katar,katmak,çalışır,çalışmak
+katar,kattı,çalışır,çalıştı
+kattı,katar,çalıştı,çalışır
+katmak,kattı,terfi etmek,terfi etti
+kattı,katmak,terfi etti,terfi etmek
+katmak,katar,terfi etmek,terfi eder
+katar,katmak,terfi eder,terfi etmek
+katar,kattı,terfi eder,terfi etti
+kattı,katar,terfi etti,terfi eder
+katmak,kattı,almak,aldı
+kattı,katmak,aldı,almak
+katmak,katar,almak,almak
+katar,katmak,alır,almak
+katar,kattı,alır,aldı
+kattı,katar,aldı,alır
+dönmek,döndü,artırmak,artırdı
+döndü,dönmek,artırdı,artırmak
+dönmek,döner,artırmak,artırılır
+döner,dönmek,artırılır,artırmak
+döner,döndü,artırılır,artırdı
+döndü,döner,artırdı,artırılır
+dönmek,döndü,katmak,kattı
+döndü,dönmek,kattı,katmak
+dönmek,döner,katmak,katar
+döner,dönmek,katar,katmak
+döner,döndü,katar,kattı
+döndü,döner,kattı,katar
+dönmek,döndü,kaydetmek,kaydetti
+döndü,dönmek,kaydetti,kaydetmek
+dönmek,döner,kaydetmek,kaydeder
+döner,dönmek,kaydeder,kaydetmek
+döner,döndü,kaydeder,kaydetti
+döndü,döner,kaydetti,kaydeder
+dönmek,döndü,koşmak,koştu
+döndü,dönmek,koştu,koşmak
+dönmek,döner,koşmak,koşar
+döner,dönmek,koşar,koşmak
+döner,döndü,koşar,koştu
+döndü,döner,koştu,koşar
+dönmek,döndü,söylemek,söyledi
+döndü,dönmek,söyledi,söylemek
+dönmek,döner,söylemek,söyler
+döner,dönmek,söyler,söylemek
+döner,döndü,söyler,söyledi
+döndü,döner,söyledi,söyler
+beğenmek,beğendi,katılmak,katıldı
+beğendi,beğenmek,katıldı,katılmak
+beğenmek,beğenir,katılmak,katılır
+beğenir,beğenmek,katılır,katılmak
+beğenir,beğendi,katılır,katıldı
+beğendi,beğenir,katıldı,katılır
+beğenmek,beğendi,inşa etmek,inşa etti
+beğendi,beğenmek,inşa etti,inşa etmek
+beğenmek,beğenir,inşa etmek,inşa eder
+beğenir,beğenmek,inşa eder,inşa etmek
+beğenir,beğendi,inşa eder,inşa etti
+beğendi,beğenir,inşa etti,inşa eder
+beğenmek,beğendi,çalışmak,çalıştı
+beğendi,beğenmek,çalıştı,çalışmak
+beğenmek,beğenir,çalışmak,çalışır
+beğenir,beğenmek,çalışır,çalışmak
+beğenir,beğendi,çalışır,çalıştı
+beğendi,beğenir,çalıştı,çalışır
+beğenmek,beğendi,olmak,oldu
+beğendi,beğenmek,oldu,olmak
+beğenmek,beğenir,olmak,olur
+beğenir,beğenmek,olur,olmak
+beğenir,beğendi,olur,oldu
+beğendi,beğenir,oldu,olur
+beğenmek,beğendi,bulmak,buldu
+beğendi,beğenmek,buldu,bulmak
+beğenmek,beğenir,bulmak,bulur
+beğenir,beğenmek,bulur,bulmak
+beğenir,beğendi,bulur,buldu
+beğendi,beğenir,buldu,bulur
+tanımak,tanıdı,olmak,oldu
+tanıdı,tanımak,oldu,olmak
+tanımak,tanır,olmak,olur
+tanır,tanımak,olur,olmak
+tanır,tanıdı,olur,oldu
+tanıdı,tanır,oldu,olur
+tanımak,tanıdı,kutlamak,kutladı
+tanıdı,tanımak,kutladı,kutlamak
+tanımak,tanır,kutlamak,Kutlar
+tanır,tanımak,Kutlar,kutlamak
+tanır,tanıdı,Kutlar,kutladı
+tanıdı,tanır,kutladı,Kutlar
+tanımak,tanıdı,öğrenmek,öğrendi
+tanıdı,tanımak,öğrendi,öğrenmek
+tanımak,tanır,öğrenmek,öğrenir
+tanır,tanımak,öğrenir,öğrenmek
+tanır,tanıdı,öğrenir,öğrendi
+tanıdı,tanır,öğrendi,öğrenir
+tanımak,tanıdı,tutmak,tuttu
+tanıdı,tanımak,tuttu,tutmak
+tanımak,tanır,tutmak,tutar
+tanır,tanımak,tutar,tutmak
+tanır,tanıdı,tutar,tuttu
+tanıdı,tanır,tuttu,tutar
+tanımak,tanıdı,bulmak,buldu
+tanıdı,tanımak,buldu,bulmak
+tanımak,tanır,bulmak,bulur
+tanır,tanımak,bulurlar,bulurlar
+tanır,tanıdı,bulurlar,buldu
+tanıdı,tanır,buldu,bulurlar
+inanmak,inandı,kazanmak,kazandı
+inandı,inanmak,kazandı,kazanmak
+inanmak,inanır,kazanmak,kazanır
+inanır,inanmak,kazanır,kazanmak
+inanır,inandı,kazanır,kazandı
+inandı,inanır,kazandı,kazanır
+inanmak,inandı,olmak,oldu
+inandı,inanmak,oldu,olmak
+inanmak,inanır,olmak,olur
+inanır,inanmak,olur,olmak
+inanır,inandı,olur,oldu
+inandı,inanır,oldu,olur
+inanmak,inandı,beğenmek,beğendi
+inandı,inanmak,beğendi,beğenmek
+inanmak,inanır,beğenmek,beğenir
+inanır,inanmak,beğenir,beğenmek
+inanır,inandı,beğenir,beğendi
+inandı,inanır,beğendi,beğenir
+inanmak,inandı,aramak,aradı
+inandı,inanmak,aradı,aramak
+inanmak,inanır,aramak,arar
+inanır,inanmak,arar,aramak
+inanır,inandı,arar,aradı
+inandı,inanır,aradı,arar
+inanmak,inandı,kaçınmak,kaçındı
+inandı,inanmak,kaçındı,kaçınmak
+inanmak,inanır,kaçınmak,kaçınır
+inanır,inanmak,kaçınır,kaçınmak
+inanır,inandı,kaçınır,kaçındı
+inandı,inanır,kaçındı,kaçınır
+neden olmak,neden oldu,üretmek,üretti
+neden oldu,neden olmak,üretti,üretmek
+neden olmak,neden olur,üretmek,üretir
+neden olur,neden olmak,üretir,üretmek
+neden olur,neden oldu,üretir,üretti
+neden oldu,neden olur,üretti,üretir
+neden olmak,neden oldu,önlemek,önledi
+neden oldu,neden olmak,önledi,önlemek
+neden olmak,neden olur,önlemek,önler
+neden olur,neden olmak,önler,önlemek
+neden olur,neden oldu,önler,önledi
+neden oldu,neden olur,önledi,önler
+neden olmak,neden oldu,sormak,sordu
+neden oldu,neden olmak,sordu,sormak
+neden olmak,neden olur,sormak,sorar
+neden olur,neden olmak,sorar,sormak
+neden olur,neden oldu,sorar,sordu
+neden oldu,neden olur,sordu,sorar
+neden olmak,neden oldu,belirlemek,belirledi
+neden oldu,neden olmak,belirledi,belirlemek
+neden olmak,neden olur,belirlemek,belirler
+neden olur,neden olmak,belirler,belirlemek
+neden olur,neden oldu,belirler,belirledi
+neden oldu,neden olur,belirledi,belirler
+neden olmak,neden oldu,almak,aldı
+neden oldu,neden olmak,aldı,almak
+neden olmak,neden olur,almak,alır
+neden olur,neden olmak,alır,almak
+neden olur,neden oldu,alır,aldı
+neden oldu,neden olur,aldı,alır
+ulaşmak,ulaştı,çözmek,çözdü
+ulaştı,ulaşmak,çözdü,çözmek
+ulaşmak,ulaşır,çözmek,çözer
+ulaşır,ulaşmak,çözer,çözmek
+ulaşır,ulaştı,çözer,çözdü
+ulaştı,ulaşır,çözdü,çözer
+ulaşmak,ulaştı,sağlamak,sağladı
+ulaştı,ulaşmak,sağladı,sağlamak
+ulaşmak,ulaşır,sağlamak,sağlar
+ulaşır,ulaşmak,sağlar,sağlamak
+ulaşır,ulaştı,sağlar,sağladı
+ulaştı,ulaşır,sağladı,sağlar
+ulaşmak,ulaştı,başlamak,başladı
+ulaştı,ulaşmak,başladı,başlamak
+ulaşmak,ulaşır,başlamak,başlar
+ulaşır,ulaşmak,başlar,başlamak
+ulaşır,ulaştı,başlar,başladı
+ulaştı,ulaşır,başladı,başlar
+ulaşmak,ulaştı,Gitmek,gitti
+ulaştı,ulaşmak,gitti,Gitmek
+ulaşmak,ulaşır,Gitmek,gider
+ulaşır,ulaşmak,gider,Gitmek
+ulaşır,ulaştı,gider,gitti
+ulaştı,ulaşır,gitti,gider
+ulaşmak,ulaştı,hizmet etmek,hizmet etti
+ulaştı,ulaşmak,hizmet etti,hizmet etmek
+ulaşmak,ulaşır,hizmet etmek,hizmet eder
+ulaşır,ulaşmak,hizmet eder,hizmet etmek
+ulaşır,ulaştı,hizmet eder,hizmet etti
+ulaştı,ulaşır,hizmet etti,hizmet eder
+geliştirmek,geliştirdi,Yapmak,yaptı
+geliştirdi,geliştirmek,yaptı,Yapmak
+geliştirmek,geliştirir,Yapmak,yapar
+geliştirir,geliştirmek,yapar,Yapmak
+geliştirir,geliştirdi,yapar,yaptı
+geliştirdi,geliştirir,yaptı,yapar
+geliştirmek,geliştirdi,yaşamak,yaşadı
+geliştirdi,geliştirmek,yaşadı,yaşamak
+geliştirmek,geliştirir,yaşamak,yaşar
+geliştirir,geliştirmek,yaşar,yaşamak
+geliştirir,geliştirdi,yaşar,yaşadı
+geliştirdi,geliştirir,yaşadı,yaşar
+geliştirmek,geliştirdi,önlemek,önledi
+geliştirdi,geliştirmek,önledi,önlemek
+geliştirmek,geliştirir,önlemek,önler
+geliştirir,geliştirmek,önler,önlemek
+geliştirir,geliştirdi,önler,önledi
+geliştirdi,geliştirir,önledi,önler
+geliştirmek,geliştirdi,olmak,oldu
+geliştirdi,geliştirmek,oldu,olmak
+geliştirmek,geliştirir,olmak,olur
+geliştirir,geliştirmek,olur,olmak
+geliştirir,geliştirdi,olur,oldu
+geliştirdi,geliştirir,oldu,olur
+geliştirmek,geliştirdi,bitmek,bitti
+geliştirdi,geliştirmek,bitti,bitmek
+geliştirmek,geliştirir,bitmek,bitmek
+geliştirir,geliştirmek,bitmek,bitmek
+geliştirir,geliştirdi,bitmek,bitti
+geliştirdi,geliştirir,bitti,bitmek
+önlemek,önledi,ayrılmak,ayrıldı
+önledi,önlemek,ayrıldı,ayrılmak
+önlemek,önler,ayrılmak,ayrılır
+önler,önlemek,ayrılır,ayrılmak
+önler,önledi,ayrılır,ayrıldı
+önledi,önler,ayrıldı,ayrılır
+önlemek,önledi,dikkate almak,dikkate aldı
+önledi,önlemek,dikkate aldı,dikkate almak
+önlemek,önler,dikkate almak,dikkate alır
+önler,önlemek,dikkate alır,dikkate almak
+önler,önledi,dikkate alır,dikkate aldı
+önledi,önler,dikkate aldı,dikkate alır
+önlemek,önledi,görmek,gördü
+önledi,önlemek,gördü,görmek
+önlemek,önler,görmek,görür
+önler,önlemek,görür,görmek
+önler,önledi,görür,gördü
+önledi,önler,gördü,görür
+önlemek,önledi,kaydetmek,kaydetti
+önledi,önlemek,kaydetti,kaydetmek
+önlemek,önler,kaydetmek,kaydeder
+önler,önlemek,kaydeder,kaydetmek
+önler,önledi,kaydeder,kaydetti
+önledi,önler,kaydetti,kaydeder
+önlemek,önledi,söylemek,söyledi
+önledi,önlemek,söyledi,söylemek
+önlemek,önler,söylemek,söyler
+önler,önlemek,söyler,söylemek
+önler,önledi,söyler,söyledi
+önledi,önler,söyledi,söyler
+belirlemek,belirledi,kanıtlamak,kanıtladı
+belirledi,belirlemek,kanıtladı,kanıtlamak
+belirlemek,belirler,kanıtlamak,kanıtlar
+belirler,belirlemek,kanıtlar,kanıtlamak
+belirler,belirledi,kanıtlar,kanıtladı
+belirledi,belirler,kanıtladı,kanıtlar
+belirlemek,belirledi,göndermek,gönderdi
+belirledi,belirlemek,gönderdi,göndermek
+belirlemek,belirler,göndermek,gönderir
+belirler,belirlemek,gönderir,göndermek
+belirler,belirledi,gönderir,gönderdi
+belirledi,belirler,gönderdi,gönderir
+belirlemek,belirledi,yaratmak,yarattı
+belirledi,belirlemek,yarattı,yaratmak
+belirlemek,belirler,yaratmak,yaratır
+belirler,belirlemek,yaratır,yaratmak
+belirler,belirledi,yaratır,yarattı
+belirledi,belirler,yarattı,yaratır
+belirlemek,belirledi,tanışmak,tanıştı
+belirledi,belirlemek,tanıştı,tanışmak
+belirlemek,belirler,tanışmak,tanışır
+belirler,belirlemek,tanışır,tanışmak
+belirler,belirledi,tanışır,tanıştı
+belirledi,belirler,tanıştı,tanışır
+belirlemek,belirledi,göstermek,gösterdi
+belirledi,belirlemek,gösterdi,göstermek
+belirlemek,belirler,göstermek,gösterir
+belirler,belirlemek,gösterir,göstermek
+belirler,belirledi,gösterir,gösterdi
+belirledi,belirler,gösterdi,gösterir
+gerekmek,gerekti,yapmak,yaptı
+gerekti,gerekmek,yaptı,yapmak
+gerekmek,gerekir,yapmak,yapar
+gerekir,gerekmek,yapar,yapmak
+gerekir,gerekti,yapar,yaptı
+gerekti,gerekir,yaptı,yapar
+gerekmek,gerekti,korumak,korudu
+gerekti,gerekmek,korudu,korumak
+gerekmek,gerekir,korumak,korur
+gerekir,gerekmek,korur,korumak
+gerekir,gerekti,korur,korudu
+gerekti,gerekir,korudu,korur
+gerekmek,gerekti,katmak,kattı
+gerekti,gerekmek,kattı,katmak
+gerekmek,gerekir,katmak,katar
+gerekir,gerekmek,katar,katmak
+gerekir,gerekti,katar,kattı
+gerekti,gerekir,kattı,katar
+gerekmek,gerekti,karar vermek,karar verdi
+gerekti,gerekmek,karar verdi,karar vermek
+gerekmek,gerekir,karar vermek,karar verir
+gerekir,gerekmek,karar verir,karar vermek
+gerekir,gerekti,karar verir,karar verdi
+gerekti,gerekir,karar verdi,karar verir
+gerekmek,gerekti,bitmek,bitti
+gerekti,gerekmek,bitti,bitmek
+gerekmek,gerekir,bitmek,bitmek
+gerekir,gerekmek,bitmek,bitmek
+gerekir,gerekti,bitmek,bitti
+gerekti,gerekir,bitti,bitmek
+kazanmak,kazandı,uzatmak,uzattı
+kazandı,kazanmak,uzattı,uzatmak
+kazanmak,kazanır,uzatmak,uzatır
+kazanır,kazanmak,uzatır,uzatmak
+kazanır,kazandı,uzatır,uzattı
+kazandı,kazanır,uzattı,uzatır
+kazanmak,kazandı,Gitmek,gitti
+kazandı,kazanmak,gitti,Gitmek
+kazanmak,kazanır,Gitmek,gider
+kazanır,kazanmak,gider,Gitmek
+kazanır,kazandı,gider,gitti
+kazandı,kazanır,gitti,gider
+kazanmak,kazandı,beğenmek,beğendi
+kazandı,kazanmak,beğendi,beğenmek
+kazanmak,kazanır,beğenmek,beğenir
+kazanır,kazanmak,beğenir,beğenmek
+kazanır,kazandı,beğenir,beğendi
+kazandı,kazanır,beğendi,beğenir
+kazanmak,kazandı,hizmet etmek,hizmet etti
+kazandı,kazanmak,hizmet etti,hizmet etmek
+kazanmak,kazanır,hizmet etmek,hizmet eder
+kazanır,kazanmak,hizmet eder,hizmet etmek
+kazanır,kazandı,hizmet eder,hizmet etti
+kazandı,kazanır,hizmet etti,hizmet eder
+kazanmak,kazandı,değiştirmek,değiştirdi
+kazandı,kazanmak,değiştirdi,değiştirmek
+kazanmak,kazanır,değiştirmek,değiştirir
+kazanır,kazanmak,değiştirir,değiştirmek
+kazanır,kazandı,değiştirir,değiştirdi
+kazandı,kazanır,değiştirdi,değiştirir
+kalmak,kaldı,dönmek,döndü
+kaldı,kalmak,döndü,dönmek
+kalmak,kalır,dönmek,döner
+kalır,kalmak,döner,dönmek
+kalır,kaldı,döner,döndü
+kaldı,kalır,döndü,döner
+kalmak,kaldı,öğrenmek,öğrendi
+kaldı,kalmak,öğrendi,öğrenmek
+kalmak,kalır,öğrenmek,öğrenir
+kalır,kalmak,öğrenir,öğrenmek
+kalır,kaldı,öğrenir,öğrendi
+kaldı,kalır,öğrendi,öğrenir
+kalmak,kaldı,düşünmek,düşündü
+kaldı,kalmak,düşündü,düşünmek
+kalmak,kalır,düşünmek,düşünür
+kalır,kalmak,düşünür,düşünmek
+kalır,kaldı,düşünür,düşündü
+kaldı,kalır,düşündü,düşünür
+kalmak,kaldı,olmak,oldu
+kaldı,kalmak,oldu,olmak
+kalmak,kalır,olmak,olur
+kalır,kalmak,olur,olmak
+kalır,kaldı,olur,oldu
+kaldı,kalır,oldu,olur
+kalmak,kaldı,anlamak,anladı
+kaldı,kalmak,anladı,anlamak
+kalmak,kalır,anlamak,anlar
+kalır,kalmak,anlar,anlamak
+kalır,kaldı,anlar,anladı
+kaldı,kalır,anladı,anlar
+Karşılamak,karşıladı,göndermek,gönderdi
+karşıladı,Karşılamak,gönderdi,göndermek
+Karşılamak,karşılar,göndermek,gönderir
+karşılar,Karşılamak,gönderir,göndermek
+karşılar,karşıladı,gönderir,gönderdi
+karşıladı,karşılar,gönderdi,gönderir
+Karşılamak,karşıladı,gerekmek,gerekti
+karşıladı,Karşılamak,gerekti,gerekmek
+Karşılamak,karşılar,gerekmek,gerekir
+karşılar,Karşılamak,gerekir,gerekmek
+karşılar,karşıladı,gerekir,gerekti
+karşıladı,karşılar,gerekti,gerekir
+Karşılamak,karşıladı,korumak,korudu
+karşıladı,Karşılamak,korudu,korumak
+Karşılamak,karşılar,korumak,korur
+karşılar,Karşılamak,korur,korumak
+karşılar,karşıladı,korur,korudu
+karşıladı,karşılar,korudu,korur
+Karşılamak,karşıladı,geliştirmek,geliştirdi
+karşıladı,Karşılamak,geliştirdi,geliştirmek
+Karşılamak,karşılar,geliştirmek,geliştirir
+karşılar,Karşılamak,geliştirir,geliştirmek
+karşılar,karşıladı,geliştirir,geliştirdi
+karşıladı,karşılar,geliştirdi,geliştirir
+Karşılamak,karşıladı,hizmet etmek,hizmet etti
+karşıladı,Karşılamak,hizmet etti,hizmet etmek
+Karşılamak,karşılar,hizmet etmek,hizmet eder
+karşılar,Karşılamak,hizmet eder,hizmet etmek
+karşılar,karşıladı,hizmet eder,hizmet etti
+karşıladı,karşılar,hizmet etti,hizmet eder
+yükseltmek,yükseltti,korumak,korudu
+yükseltti,yükseltmek,korudu,korumak
+yükseltmek,yükselir,korumak,korur
+yükselir,yükseltmek,korur,korumak
+yükselir,yükseltti,korur,korudu
+yükseltti,yükselir,korudu,korur
+yükseltmek,yükseltti,gerekmek,gerekti
+yükseltti,yükseltmek,gerekti,gerekmek
+yükseltmek,yükselir,gerekmek,gerekir
+yükselir,yükseltmek,gerekir,gerekmek
+yükselir,yükseltti,gerekir,gerekti
+yükseltti,yükselir,gerekti,gerekir
+yükseltmek,yükseltti,olmak,oldu
+yükseltti,yükseltmek,oldu,olmak
+yükseltmek,yükselir,olmak,olur
+yükselir,yükseltmek,olur,olmak
+yükselir,yükseltti,olur,oldu
+yükseltti,yükselir,oldu,olur
+yükseltmek,yükseltti,kaydetmek,kaydetti
+yükseltti,yükseltmek,kaydetti,kaydetmek
+yükseltmek,yükselir,kaydetmek,kaydeder
+yükselir,yükseltmek,kaydeder,kaydetmek
+yükselir,yükseltti,kaydeder,kaydetti
+yükseltti,yükselir,kaydetti,kaydeder
+yükseltmek,yükseltti,anlamak,anladı
+yükseltti,yükseltmek,anladı,anlamak
+yükseltmek,yükselir,anlamak,anlar
+yükselir,yükseltmek,anlar,anlamak
+yükselir,yükseltti,anlar,anladı
+yükseltti,yükselir,anladı,anlar
+bitmek,bitti,getirmek,getirdi
+bitti,bitmek,getirdi,getirmek
+bitmek,bitmek,getirmek,getirir
+bitmek,bitmek,getirir,getirmek
+bitmek,bitti,getirir,getirdi
+bitti,bitmek,getirdi,getirir
+bitmek,bitti,neden olmak,neden oldu
+bitti,bitmek,neden oldu,neden olmak
+bitmek,bitmek,neden olmak,neden olur
+bitmek,bitmek,neden olur,neden olmak
+bitmek,bitti,neden olur,neden oldu
+bitti,bitmek,neden oldu,neden olur
+bitmek,bitti,sahip,sahipti
+bitti,bitmek,sahipti,sahip
+bitmek,bitmek,sahip,sahip
+bitmek,bitmek,sahip,sahip
+bitmek,bitti,sahip,sahipti
+bitti,bitmek,sahipti,sahip
+bitmek,bitti,aramak,aradı
+bitti,bitmek,aradı,aramak
+bitmek,bitmek,aramak,arar
+bitmek,bitmek,arar,aramak
+bitmek,bitti,arar,aradı
+bitti,bitmek,aradı,arar
+bitmek,bitti,söylemek,söyledi
+bitti,bitmek,söyledi,söylemek
+bitmek,bitmek,söylemek,söyler
+bitmek,bitmek,söyler,söylemek
+bitmek,bitti,söyler,söyledi
+bitti,bitmek,söyledi,söyler
+hizmet etmek,hizmet etti,Bakmak,baktı
+hizmet etti,hizmet etmek,baktı,Bakmak
+hizmet etmek,hizmet eder,Bakmak,bakar
+hizmet eder,hizmet etmek,bakar,Bakmak
+hizmet eder,hizmet etti,bakar,baktı
+hizmet etti,hizmet eder,baktı,bakar
+hizmet etmek,hizmet etti,çözmek,çözdü
+hizmet etti,hizmet etmek,çözdü,çözmek
+hizmet etmek,hizmet eder,çözmek,çözer
+hizmet eder,hizmet etmek,çözer,çözmek
+hizmet eder,hizmet etti,çözer,çözdü
+hizmet etti,hizmet eder,çözdü,çözer
+hizmet etmek,hizmet etti,dönmek,döndü
+hizmet etti,hizmet etmek,döndü,dönmek
+hizmet etmek,hizmet eder,dönmek,döner
+hizmet eder,hizmet etmek,döner,dönmek
+hizmet eder,hizmet etti,döner,döndü
+hizmet etti,hizmet eder,döndü,döner
+hizmet etmek,hizmet etti,kullanmak,kullandı
+hizmet etti,hizmet etmek,kullandı,kullanmak
+hizmet etmek,hizmet eder,kullanmak,kullanır
+hizmet eder,hizmet etmek,kullanır,kullanmak
+hizmet eder,hizmet etti,kullanır,kullandı
+hizmet etti,hizmet eder,kullandı,kullanır
+hizmet etmek,hizmet etti,teklif etmek,teklif etti
+hizmet etti,hizmet etmek,teklif etti,teklif etmek
+hizmet etmek,hizmet eder,teklif etmek,teklif eder
+hizmet eder,hizmet etmek,teklif eder,teklif etmek
+hizmet eder,hizmet etti,teklif eder,teklif etti
+hizmet etti,hizmet eder,teklif etti,teklif eder
+teklif etmek,teklif etti,inanmak,inandı
+teklif etti,teklif etmek,inandı,inanmak
+teklif etmek,teklif eder,inanmak,inanır
+teklif eder,teklif etmek,inanır,inanmak
+teklif eder,teklif etti,inanır,inandı
+teklif etti,teklif eder,inandı,inanır
+teklif etmek,teklif etti,hissetmek,hissetti
+teklif etti,teklif etmek,hissetti,hissetmek
+teklif etmek,teklif eder,hissetmek,hisseder
+teklif eder,teklif etmek,hisseder,hissetmek
+teklif eder,teklif etti,hisseder,hissetti
+teklif etti,teklif eder,hissetti,hisseder
+teklif etmek,teklif etti,belirlemek,belirledi
+teklif etti,teklif etmek,belirledi,belirlemek
+teklif etmek,teklif eder,belirlemek,belirler
+teklif eder,teklif etmek,belirler,belirlemek
+teklif eder,teklif etti,belirler,belirledi
+teklif etti,teklif eder,belirledi,belirler
+teklif etmek,teklif etti,vermek,verdi
+teklif etti,teklif etmek,verdi,vermek
+teklif etmek,teklif eder,vermek,verir
+teklif eder,teklif etmek,verir,vermek
+teklif eder,teklif etti,verir,verdi
+teklif etti,teklif eder,verdi,verir
+teklif etmek,teklif etti,düşünmek,düşündü
+teklif etti,teklif etmek,düşündü,düşünmek
+teklif etmek,teklif eder,düşünmek,düşünür
+teklif eder,teklif etmek,düşünür,düşünmek
+teklif eder,teklif etti,düşünür,düşündü
+teklif etti,teklif eder,düşündü,düşünür
+artırmak,artırdı,Gelmek,geldi
+artırdı,artırmak,geldi,Gelmek
+artırmak,artırılır,Gelmek,gelir
+artırılır,artırmak,gelir,Gelmek
+artırılır,artırdı,gelir,geldi
+artırdı,artırılır,geldi,gelir
+artırmak,artırdı,katmak,kattı
+artırdı,artırmak,kattı,katmak
+artırmak,artırılır,katmak,katar
+artırılır,artırmak,katar,katmak
+artırılır,artırdı,katar,kattı
+artırdı,artırılır,kattı,katar
+artırmak,artırdı,kaydetmek,kaydetti
+artırdı,artırmak,kaydetti,kaydetmek
+artırmak,artırılır,kaydetmek,kaydeder
+artırılır,artırmak,kaydeder,kaydetmek
+artırılır,artırdı,kaydeder,kaydetti
+artırdı,artırılır,kaydetti,kaydeder
+artırmak,artırdı,söylemek,söyledi
+artırdı,artırmak,söyledi,söylemek
+artırmak,artırılır,söylemek,söyler
+artırılır,artırmak,söyler,söylemek
+artırılır,artırdı,söyler,söyledi
+artırdı,artırılır,söyledi,söyler
+artırmak,artırdı,aramak,aradı
+artırdı,artırmak,aradı,aramak
+artırmak,artırılır,aramak,arar
+artırılır,artırmak,arar,aramak
+artırılır,artırdı,arar,aradı
+artırdı,artırılır,aradı,arar
+aramak,aradı,yardım etmek,yardım etti
+aradı,aramak,yardım etti,yardım etmek
+aramak,arar,yardım etmek,yardım eder
+arar,aramak,yardım eder,yardım etmek
+arar,aradı,yardım eder,yardım etti
+aradı,arar,yardım etti,yardım eder
+aramak,aradı,almak,aldı
+aradı,aramak,aldı,almak
+aramak,arar,almak,alır
+arar,aramak,alır,almak
+arar,aradı,alır,aldı
+aradı,arar,aldı,alır
+aramak,aradı,Gelmek,geldi
+aradı,aramak,geldi,Gelmek
+aramak,arar,Gelmek,gelir
+arar,aramak,gelir,Gelmek
+arar,aradı,gelir,geldi
+aradı,arar,geldi,gelir
+aramak,aradı,elde etmek,elde etti
+aradı,aramak,elde etti,elde etmek
+aramak,arar,elde etmek,elde eder
+arar,aramak,elde eder,elde etmek
+arar,aradı,elde eder,elde etti
+aradı,arar,elde etti,elde eder
+aramak,aradı,söylemek,söyledi
+aradı,aramak,söyledi,söylemek
+aramak,arar,söylemek,söyler
+arar,aramak,söyler,söylemek
+arar,aradı,söyler,söyledi
+aradı,arar,söyledi,söyler
+sormak,sordu,durmak,durdu
+sordu,sormak,durdu,durmak
+sormak,sorar,durmak,durur
+sorar,sormak,durur,durmak
+sorar,sordu,durur,durdu
+sordu,sorar,durdu,durur
+sormak,sordu,Bakmak,baktı
+sordu,sormak,baktı,Bakmak
+sormak,sorar,Bakmak,bakar
+sorar,sormak,bakar,Bakmak
+sorar,sordu,bakar,baktı
+sordu,sorar,baktı,bakar
+sormak,sordu,olmak,oldu
+sordu,sormak,oldu,olmak
+sormak,sorar,olmak,olur
+sorar,sormak,olur,olmak
+sorar,sordu,olur,oldu
+sordu,sorar,oldu,olur
+sormak,sordu,azaltmak,azalttı
+sordu,sormak,azalttı,azaltmak
+sormak,sorar,azaltmak,azaltır
+sorar,sormak,azaltır,azaltmak
+sorar,sordu,azaltır,azalttı
+sordu,sorar,azalttı,azaltır
+sormak,sordu,aramak,aradı
+sordu,sormak,aradı,aramak
+sormak,sorar,aramak,arar
+sorar,sormak,arar,aramak
+sorar,sordu,arar,aradı
+sordu,sorar,aradı,arar
+çözmek,çözdü,Gelmek,geldi
+çözdü,çözmek,geldi,Gelmek
+çözmek,çözer,Gelmek,gelir
+çözer,çözmek,gelir,Gelmek
+çözer,çözdü,gelir,geldi
+çözdü,çözer,geldi,gelir
+çözmek,çözdü,kullanmak,kullandı
+çözdü,çözmek,kullandı,kullanmak
+çözmek,çözer,kullanmak,kullanır
+çözer,çözmek,kullanır,kullanmak
+çözer,çözdü,kullanır,kullandı
+çözdü,çözer,kullandı,kullanır
+çözmek,çözdü,öğrenmek,öğrendi
+çözdü,çözmek,öğrendi,öğrenmek
+çözmek,çözer,öğrenmek,öğrenir
+çözer,çözmek,öğrenir,öğrenmek
+çözer,çözdü,öğrenir,öğrendi
+çözdü,çözer,öğrendi,öğrenir
+çözmek,çözdü,Gitmek,gitti
+çözdü,çözmek,gitti,Gitmek
+çözmek,çözer,Gitmek,gider
+çözer,çözmek,gider,Gitmek
+çözer,çözdü,gider,gitti
+çözdü,çözer,gitti,gider
+çözmek,çözdü,tutmak,tuttu
+çözdü,çözmek,tuttu,tutmak
+çözmek,çözer,tutmak,tutar
+çözer,çözmek,tutar,tutmak
+çözer,çözdü,tutar,tuttu
+çözdü,çözer,tuttu,tutar
+aramak,aradı,elde etmek,elde etti
+aradı,aramak,elde etti,elde etmek
+aramak,arar,elde etmek,elde eder
+arar,aramak,elde eder,elde etmek
+arar,aradı,elde eder,elde etti
+aradı,arar,elde etti,elde eder
+aramak,aradı,başlamak,başladı
+aradı,aramak,başladı,başlamak
+aramak,arar,başlamak,başlar
+arar,aramak,başlar,başlamak
+arar,aradı,başlar,başladı
+aradı,arar,başladı,başlar
+aramak,aradı,kabul etmek,kabul etti
+aradı,aramak,kabul etti,kabul etmek
+aramak,arar,kabul etmek,kabul eder
+arar,aramak,kabul eder,kabul etmek
+arar,aradı,kabul eder,kabul etti
+aradı,arar,kabul etti,kabul eder
+aramak,aradı,olmak,oldu
+aradı,aramak,oldu,olmak
+aramak,arar,olmak,olur
+arar,aramak,olur,olmak
+arar,aradı,olur,oldu
+aradı,arar,oldu,olur
+aramak,aradı,tartışmak,tartıştı
+aradı,aramak,tartıştı,tartışmak
+aramak,arar,tartışmak,tartışır
+arar,aramak,tartışır,tartışmak
+arar,aradı,tartışır,tartıştı
+aradı,arar,tartıştı,tartışır
+tartışmak,tartıştı,korumak,korudu
+tartıştı,tartışmak,korudu,korumak
+tartışmak,tartışır,korumak,korur
+tartışır,tartışmak,korur,korumak
+tartışır,tartıştı,korur,korudu
+tartıştı,tartışır,korudu,korur
+tartışmak,tartıştı,getirmek,getirdi
+tartıştı,tartışmak,getirdi,getirmek
+tartışmak,tartışır,getirmek,getirir
+tartışır,tartışmak,getirir,getirmek
+tartışır,tartıştı,getirir,getirdi
+tartıştı,tartışır,getirdi,getirir
+tartışmak,tartıştı,başlamak,başladı
+tartıştı,tartışmak,başladı,başlamak
+tartışmak,tartışır,başlamak,başlamak
+tartışır,tartışmak,başlamak,başlamak
+tartışır,tartıştı,başlamak,başladı
+tartıştı,tartışır,başladı,başlamak
+tartışmak,tartıştı,elemek,eledi
+tartıştı,tartışmak,eledi,elemek
+tartışmak,tartışır,elemek,eler
+tartışır,tartışmak,eler,elemek
+tartışır,tartıştı,eler,eledi
+tartıştı,tartışır,eledi,eler
+tartışmak,tartıştı,Karşılamak,karşıladı
+tartıştı,tartışmak,karşıladı,Karşılamak
+tartışmak,tartışır,Karşılamak,karşılar
+tartışır,tartışmak,karşılar,Karşılamak
+tartışır,tartıştı,karşılar,karşıladı
+tartıştı,tartışır,karşıladı,karşılar
+yaşamak,yaşadı,ulaşmak,ulaştı
+yaşadı,yaşamak,ulaştı,ulaşmak
+yaşamak,yaşar,ulaşmak,ulaşır
+yaşar,yaşamak,ulaşır,ulaşmak
+yaşar,yaşadı,ulaşır,ulaştı
+yaşadı,yaşar,ulaştı,ulaşır
+yaşamak,yaşadı,bilmek,bildi
+yaşadı,yaşamak,bildi,bilmek
+yaşamak,yaşar,bilmek,bilir
+yaşar,yaşamak,bilir,bilmek
+yaşar,yaşadı,bilir,bildi
+yaşadı,yaşar,bildi,bilir
+yaşamak,yaşadı,göndermek,gönderdi
+yaşadı,yaşamak,gönderdi,göndermek
+yaşamak,yaşar,göndermek,gönderir
+yaşar,yaşamak,gönderir,göndermek
+yaşar,yaşadı,gönderir,gönderdi
+yaşadı,yaşar,gönderdi,gönderir
+yaşamak,yaşadı,aramak,aradı
+yaşadı,yaşamak,aradı,aramak
+yaşamak,yaşar,aramak,arar
+yaşar,yaşamak,arar,aramak
+yaşar,yaşadı,arar,aradı
+yaşadı,yaşar,aradı,arar
+yaşamak,yaşadı,çalışmak,çalıştı
+yaşadı,yaşamak,çalıştı,çalışmak
+yaşamak,yaşar,çalışmak,çalışır
+yaşar,yaşamak,çalışır,çalışmak
+yaşar,yaşadı,çalışır,çalıştı
+yaşadı,yaşar,çalıştı,çalışır
+almak,aldı,kazanmak,kazandı
+aldı,almak,kazandı,kazanmak
+almak,alır,kazanmak,kazanır
+alır,almak,kazanır,kazanmak
+alır,aldı,kazanır,kazandı
+aldı,alır,kazandı,kazanır
+almak,aldı,korumak,korudu
+aldı,almak,korudu,korumak
+almak,alır,korumak,korur
+alır,almak,korur,korumak
+alır,aldı,korur,korudu
+aldı,alır,korudu,korur
+almak,aldı,tanışmak,tanıştı
+aldı,almak,tanıştı,tanışmak
+almak,alır,tanışmak,tanışır
+alır,almak,tanışır,tanışmak
+alır,aldı,tanışır,tanıştı
+aldı,alır,tanıştı,tanışır
+almak,aldı,elde etmek,elde etti
+aldı,almak,elde etti,elde etmek
+almak,alır,elde etmek,elde eder
+alır,almak,elde eder,elde etmek
+alır,aldı,elde eder,elde etti
+aldı,alır,elde etti,elde eder
+almak,aldı,inşa etmek,inşa etti
+aldı,almak,inşa etti,inşa etmek
+almak,alır,inşa etmek,inşa eder
+alır,almak,inşa eder,inşa etmek
+alır,aldı,inşa eder,inşa etti
+aldı,alır,inşa etti,inşa eder
+öğrenmek,öğrendi,kazanır,kazanmak
+öğrendi,öğrenmek,kazanmak,kazanır
+öğrenmek,öğrenir,kazanır,kazanır
+öğrenir,öğrenmek,kazanır,kazanır
+öğrenir,öğrendi,kazanır,kazanmak
+öğrendi,öğrenir,kazanmak,kazanır
+öğrenmek,öğrendi,sağlamak,sağladı
+öğrendi,öğrenmek,sağladı,sağlamak
+öğrenmek,öğrenir,sağlamak,sağlar
+öğrenir,öğrenmek,sağlar,sağlamak
+öğrenir,öğrendi,sağlar,sağladı
+öğrendi,öğrenir,sağladı,sağlar
+öğrenmek,öğrendi,inşa etmek,inşa etti
+öğrendi,öğrenmek,inşa etti,inşa etmek
+öğrenmek,öğrenir,inşa etmek,inşa eder
+öğrenir,öğrenmek,inşa eder,inşa etmek
+öğrenir,öğrendi,inşa eder,inşa etti
+öğrendi,öğrenir,inşa etti,inşa eder
+öğrenmek,öğrendi,sormak,sordu
+öğrendi,öğrenmek,sordu,sormak
+öğrenmek,öğrenir,sormak,sorar
+öğrenir,öğrenmek,sorar,sormak
+öğrenir,öğrendi,sorar,sordu
+öğrendi,öğrenir,sordu,sorar
+öğrenmek,öğrendi,düşünmek,düşündü
+öğrendi,öğrenmek,düşündü,düşünmek
+öğrenmek,öğrenir,düşünmek,düşünür
+öğrenir,öğrenmek,düşünür,düşünmek
+öğrenir,öğrendi,düşünür,düşündü
+öğrendi,öğrenir,düşündü,düşünür
+gözükmek,gözüktü,çözmek,çözdü
+gözüktü,gözükmek,çözdü,çözmek
+gözükmek,gözükür,çözmek,çözer
+gözükür,gözükmek,çözer,çözmek
+gözükür,gözüktü,çözer,çözdü
+gözüktü,gözükür,çözdü,çözer
+gözükmek,gözüktü,teklif etmek,teklif etti
+gözüktü,gözükmek,teklif etti,teklif etmek
+gözükmek,gözükür,teklif etmek,teklif eder
+gözükür,gözükmek,teklif eder,teklif etmek
+gözükür,gözüktü,teklif eder,teklif etti
+gözüktü,gözükür,teklif etti,teklif eder
+gözükmek,gözüktü,sahip,sahipti
+gözüktü,gözükmek,sahipti,sahip
+gözükmek,gözükür,sahip,sahip
+gözükür,gözükmek,sahip,sahip
+gözükür,gözüktü,sahip,sahipti
+gözüktü,gözükür,sahipti,sahip
+gözükmek,gözüktü,kaçınmak,kaçındı
+gözüktü,gözükmek,kaçındı,kaçınmak
+gözükmek,gözükür,kaçınmak,kaçınır
+gözükür,gözükmek,kaçınır,kaçınmak
+gözükür,gözüktü,kaçınır,kaçındı
+gözüktü,gözükür,kaçındı,kaçınır
+gözükmek,gözüktü,geliştirmek,geliştirdi
+gözüktü,gözükmek,geliştirdi,geliştirmek
+gözükmek,gözükür,geliştirmek,geliştirir
+gözükür,gözükmek,geliştirir,geliştirmek
+gözükür,gözüktü,geliştirir,geliştirdi
+gözüktü,gözükür,geliştirdi,geliştirir
+olmak,oldu,kalmak,kalmış
+oldu,olmak,kalmış,kalmak
+olmak,olur,kalmak,kalır
+olur,olmak,kalır,kalmak
+olur,oldu,kalır,kalmış
+oldu,olur,kalmış,kalır
+olmak,oldu,kanıtlamak,kanıtladı
+oldu,olmak,kanıtladı,kanıtlamak
+olmak,olur,kanıtlamak,kanıtlar
+olur,olmak,kanıtlar,kanıtlamak
+olur,oldu,kanıtlar,kanıtladı
+oldu,olur,kanıtladı,kanıtlar
+olmak,oldu,getirmek,getirdi
+oldu,olmak,getirdi,getirmek
+olmak,olur,getirmek,getirir
+olur,olmak,getirir,getirmek
+olur,oldu,getirir,getirdi
+oldu,olur,getirdi,getirir
+olmak,oldu,beğenmek,beğendi
+oldu,olmak,beğendi,beğenmek
+olmak,olur,beğenmek,beğenir
+olur,olmak,beğenir,beğenmek
+olur,oldu,beğenir,beğendi
+oldu,olur,beğendi,beğenir
+olmak,oldu,hizmet etmek,hizmet etti
+oldu,olmak,hizmet etti,hizmet etmek
+olmak,olur,hizmet etmek,hizmet eder
+olur,olmak,hizmet eder,hizmet etmek
+olur,oldu,hizmet eder,hizmet etti
+oldu,olur,hizmet etti,hizmet eder
+kanıtlamak,kanıtladı,desteklemek,destekledi
+kanıtladı,kanıtlamak,destekledi,desteklemek
+kanıtlamak,kanıtlar,desteklemek,Destekler
+kanıtlar,kanıtlamak,Destekler,desteklemek
+kanıtlar,kanıtladı,Destekler,destekledi
+kanıtladı,kanıtlar,destekledi,Destekler
+kanıtlamak,kanıtladı,aramak,aradı
+kanıtladı,kanıtlamak,aradı,aramak
+kanıtlamak,kanıtlar,aramak,arar
+kanıtlar,kanıtlamak,arar,aramak
+kanıtlar,kanıtladı,arar,aradı
+kanıtladı,kanıtlar,aradı,arar
+kanıtlamak,kanıtladı,elde etmek,elde etti
+kanıtladı,kanıtlamak,elde etti,elde etmek
+kanıtlamak,kanıtlar,elde etmek,elde eder
+kanıtlar,kanıtlamak,elde eder,elde etmek
+kanıtlar,kanıtladı,elde eder,elde etti
+kanıtladı,kanıtlar,elde etti,elde eder
+kanıtlamak,kanıtladı,söylemek,söyledi
+kanıtladı,kanıtlamak,söyledi,söylemek
+kanıtlamak,kanıtlar,söylemek,söyler
+kanıtlar,kanıtlamak,söyler,söylemek
+kanıtlar,kanıtladı,söyler,söyledi
+kanıtladı,kanıtlar,söyledi,söyler
+kanıtlamak,kanıtladı,öğrenmek,öğrendi
+kanıtladı,kanıtlamak,öğrendi,öğrenmek
+kanıtlamak,kanıtlar,öğrenmek,öğrenir
+kanıtlar,kanıtlamak,öğrenir,öğrenmek
+kanıtlar,kanıtladı,öğrenir,öğrendi
+kanıtladı,kanıtlar,öğrendi,öğrenir
+açmak,açtı,ayrılmak,ayrıldı
+açtı,açmak,ayrıldı,ayrılmak
+açmak,açar,ayrılmak,ayrılır
+açar,açmak,ayrılır,ayrılmak
+açar,açtı,ayrılır,ayrıldı
+açtı,açar,ayrıldı,ayrılır
+açmak,açtı,bilmek,bildi
+açtı,açmak,bildi,bilmek
+açmak,açar,bilmek,bilir
+açar,açmak,bilir,bilmek
+açar,açtı,bilir,bildi
+açtı,açar,bildi,bilir
+açmak,açtı,izin vermek,izin verdi
+açtı,açmak,izin verdi,izin vermek
+açmak,açar,izin vermek,izin verir
+açar,açmak,izin verir,izin vermek
+açar,açtı,izin verir,izin verdi
+açtı,açar,izin verdi,izin verir
+açmak,açtı,yaratmak,yarattı
+açtı,açmak,yarattı,yaratmak
+açmak,açar,yaratmak,yaratır
+açar,açmak,yaratır,yaratmak
+açar,açtı,yaratır,yarattı
+açtı,açar,yarattı,yaratır
+açmak,açtı,istemek,istedi
+açtı,açmak,istedi,istemek
+açmak,açar,istemek,ister
+açar,açmak,ister,istemek
+açar,açtı,ister,istedi
+açtı,açar,istedi,ister
+kutlamak,kutladı,yapmak,yaptı
+kutladı,kutlamak,yaptı,yapmak
+kutlamak,Kutlar,yapmak,yapar
+Kutlar,kutlamak,yapar,yapmak
+Kutlar,kutladı,yapar,yaptı
+kutladı,Kutlar,yaptı,yapar
+kutlamak,kutladı,kalmak,kaldı
+kutladı,kutlamak,kaldı,kalmak
+kutlamak,Kutlar,kalmak,kalır
+Kutlar,kutlamak,kalır,kalmak
+Kutlar,kutladı,kalır,kaldı
+kutladı,Kutlar,kaldı,kalır
+kutlamak,kutladı,hissetmek,hissetti
+kutladı,kutlamak,hissetti,hissetmek
+kutlamak,Kutlar,hissetmek,hisseder
+Kutlar,kutlamak,hisseder,hissetmek
+Kutlar,kutladı,hisseder,hissetti
+kutladı,Kutlar,hissetti,hisseder
+kutlamak,kutladı,tartışmak,tartıştı
+kutladı,kutlamak,tartıştı,tartışmak
+kutlamak,Kutlar,tartışmak,tartışır
+Kutlar,kutlamak,tartışır,tartışmak
+Kutlar,kutladı,tartışır,tartıştı
+kutladı,Kutlar,tartıştı,tartışır
+kutlamak,kutladı,olmak,oldu
+kutladı,kutlamak,oldu,olmak
+kutlamak,Kutlar,olmak,olur
+Kutlar,kutlamak,olur,olmak
+Kutlar,kutladı,olur,oldu
+kutladı,Kutlar,oldu,olur
+gerekmek,gerekti,desteklemek,destekledi
+gerekti,gerekmek,destekledi,desteklemek
+gerekmek,gerekir,desteklemek,Destekler
+gerekir,gerekmek,Destekler,desteklemek
+gerekir,gerekti,Destekler,destekledi
+gerekti,gerekir,destekledi,Destekler
+gerekmek,gerekti,yapmak,yaptı
+gerekti,gerekmek,yaptı,yapmak
+gerekmek,gerekir,yapmak,yapar
+gerekir,gerekmek,yapar,yapmak
+gerekir,gerekti,yapar,yaptı
+gerekti,gerekir,yaptı,yapar
+gerekmek,gerekti,sormak,sordu
+gerekti,gerekmek,sordu,sormak
+gerekmek,gerekir,sormak,sorar
+gerekir,gerekmek,sorar,sormak
+gerekir,gerekti,sorar,sordu
+gerekti,gerekir,sordu,sorar
+gerekir,gerekti,başlamak,başladı
+gerekti,gerekmek,başladı,başlamak
+gerekmek,gerekir,başlamak,başlamak
+gerekir,gerekmek,başlamak,başlamak
+gerekir,gerekti,başlamak,başladı
+gerekti,gerekir,başladı,başlamak
+gerekmek,gerekti,söylemek,söyledi
+gerekti,gerekmek,söyledi,söylemek
+gerekmek,gerekir,söylemek,söyler
+gerekir,gerekmek,söyler,söylemek
+gerekir,gerekti,söyler,söyledi
+gerekti,gerekir,söyledi,söyler
+kaydetmek,kaydetti,ulaşmak,ulaştı
+kaydetti,kaydetmek,ulaştı,ulaşmak
+kaydetmek,kaydeder,ulaşmak,ulaşır
+kaydeder,kaydetmek,ulaşır,ulaşmak
+kaydeder,kaydetti,ulaşır,ulaştı
+kaydetti,kaydeder,ulaştı,ulaşır
+kaydetmek,kaydetti,ayrılmak,ayrıldı
+kaydetti,kaydetmek,ayrıldı,ayrılmak
+kaydetmek,kaydeder,ayrılmak,ayrılır
+kaydeder,kaydetmek,ayrılır,ayrılmak
+kaydeder,kaydetti,ayrılır,ayrıldı
+kaydetti,kaydeder,ayrıldı,ayrılır
+kaydetmek,kaydetti,çalışmak,çalıştı
+kaydetti,kaydetmek,çalıştı,çalışmak
+kaydetmek,kaydeder,çalışmak,çalışır
+kaydeder,kaydetmek,çalışır,çalışmak
+kaydeder,kaydetti,çalışır,çalıştı
+kaydetti,kaydeder,çalıştı,çalışır
+kaydetmek,kaydetti,takip etmek,takip etti
+kaydetti,kaydetmek,takip etti,takip etmek
+kaydetmek,kaydeder,takip etmek,takip eder
+kaydeder,kaydetmek,takip eder,takip etmek
+kaydeder,kaydetti,takip eder,takip etti
+kaydetti,kaydeder,takip etti,takip eder
+kaydetmek,kaydetti,değiştirmek,değiştirdi
+kaydetti,kaydetmek,değiştirdi,değiştirmek
+kaydetmek,kaydeder,değiştirmek,değiştirir
+kaydeder,kaydetmek,değiştirir,değiştirmek
+kaydeder,kaydetti,değiştirir,değiştirdi
+kaydetti,kaydeder,değiştirdi,değiştirir
+karar vermek,karar verdi,kazanır,kazanmak
+karar verdi,karar vermek,kazanmak,kazanır
+karar vermek,karar verir,kazanır,kazanır
+karar verir,karar vermek,kazanır,kazanır
+karar verir,karar verdi,kazanır,kazandı
+karar verdi,karar verir,kazandı,kazanır
+karar vermek,karar verdi,açmak,açtı
+karar verdi,karar vermek,açtı,açmak
+karar vermek,karar verir,açmak,açar
+karar verir,karar vermek,açar,açmak
+karar verir,karar verdi,açar,açtı
+karar verdi,karar verir,açtı,açar
+karar vermek,karar verdi,çalışmak,çalıştı
+karar verdi,karar vermek,çalıştı,çalışmak
+karar vermek,karar verir,çalışmak,çalışır
+karar verir,karar vermek,çalışır,çalışmak
+karar verir,karar verdi,çalışır,çalıştı
+karar verdi,karar verir,çalıştı,çalışır
+karar vermek,karar verdi,kabul etmek,kabul etti
+karar verdi,karar vermek,kabul etti,kabul etmek
+karar vermek,karar verir,kabul etmek,kabul eder
+karar verir,karar vermek,kabul eder,kabul etmek
+karar verir,karar verdi,kabul eder,kabul etti
+karar verdi,karar verir,kabul etti,kabul eder
+karar vermek,karar verdi,olmak,oldu
+karar verdi,karar vermek,oldu,olmak
+karar vermek,karar verir,olmak,olur
+karar verir,karar vermek,olur,olmak
+karar verir,karar verdi,olur,oldu
+karar verdi,karar verir,oldu,olur
+katılmak,katıldı,belirlemek,belirledi
+katıldı,katılmak,belirledi,belirlemek
+katılmak,katılır,belirlemek,belirler
+katılır,katılmak,belirler,belirlemek
+katılır,katıldı,belirler,belirledi
+katıldı,katılır,belirledi,belirler
+katılmak,katıldı,sağlamak,sağlandı
+katıldı,katılmak,sağlandı,sağlamak
+katılmak,katılır,sağlamak,sağlar
+katılır,katılmak,sağlar,sağlamak
+katılır,katıldı,sağlar,sağlandı
+katıldı,katılır,sağlandı,sağlar
+katılmak,katıldı,gerekmek,gerekti
+katıldı,katılmak,gerekti,gerekmek
+katılmak,katılır,gerekmek,gerekir
+katılır,katılmak,gerekir,gerekmek
+katılır,katıldı,gerekir,gerekti
+katıldı,katılır,gerekti,gerekir
+katılmak,katıldı,olmak,oldu
+katıldı,katılmak,oldu,olmak
+katılmak,katılır,olmak,olur
+katılır,katılmak,olur,olmak
+katılır,katıldı,olur,oldu
+katıldı,katılır,oldu,olur
+katılmak,katıldı,korumak,korudu
+katıldı,katılmak,korudu,korumak
+katılmak,katılır,korumak,korur
+katılır,katılmak,korur,korumak
+katılır,katıldı,korur,korudu
+katıldı,katılır,korudu,korur
+göndermek,gönderdi,ödemek,ödedi
+gönderdi,göndermek,ödedi,ödemek
+göndermek,gönderir,ödemek,öder
+gönderir,göndermek,öder,ödemek
+gönderir,gönderdi,öder,ödedi
+gönderdi,gönderir,ödedi,öder
+göndermek,gönderdi,başlamak,başladı
+gönderdi,göndermek,başladı,başlamak
+göndermek,gönderir,başlamak,başlar
+gönderir,göndermek,başlar,başlamak
+gönderir,gönderdi,başlar,başladı
+gönderdi,gönderir,başladı,başlar
+göndermek,gönderdi,dönmek,döndü
+gönderdi,göndermek,döndü,dönmek
+göndermek,gönderir,dönmek,döner
+gönderir,göndermek,döner,dönmek
+gönderir,gönderdi,döner,döndü
+gönderdi,gönderir,döndü,döner
+göndermek,gönderdi,karar vermek,karar verdi
+gönderdi,göndermek,karar verdi,karar vermek
+göndermek,gönderir,karar vermek,karar verir
+gönderir,göndermek,karar verir,karar vermek
+gönderir,gönderdi,karar verir,karar verdi
+gönderdi,gönderir,karar verdi,karar verir
+göndermek,gönderdi,kaçınmak,kaçındı
+gönderdi,göndermek,kaçındı,kaçınmak
+göndermek,gönderir,kaçınmak,kaçınır
+gönderir,göndermek,kaçınır,kaçınmak
+gönderir,gönderdi,kaçınır,kaçındı
+gönderdi,gönderir,kaçındı,kaçınır
