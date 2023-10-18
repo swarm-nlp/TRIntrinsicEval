@@ -1,5 +1,5 @@
 
-![itu-nlp-logo](https://github.com/swarm-nlp/TRIntrinsicEval/assets/72564135/b1a2e1da-45e4-4b29-bd22-e3b5a51791ce)
+![itu-nlp-logo](https://raw.githubusercontent.com/swarm-nlp/TRIntrinsicEval/main/images/itu_ddi_logo.png)
 
     
 # TRIntrinsicEval
@@ -54,7 +54,7 @@ As the name indicates, outlier word detection is finding a word that deviates se
     - Contains eight different topics with eight words each and eight outliers.
 
 ## Experimentation and Results
-![image](https://github.com/swarm-nlp/TRIntrinsicEval/assets/64483224/7285e490-a6f8-4594-b686-6812bd26c279)
+![image](https://raw.githubusercontent.com/swarm-nlp/TRIntrinsicEval/main/images/results_table.png)
 
 ## Authors
 - [@berfinduman](https://github.com/berfinduman)
